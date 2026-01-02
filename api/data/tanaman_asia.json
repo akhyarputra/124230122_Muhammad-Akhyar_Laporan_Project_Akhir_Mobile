@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "nama_tanaman": "Padi",
+    "nama_latin": "Oryza sativa",
+    "kategori": "Tanaman Pangan",
+    "deskripsi": "Lebih dari sekadar tanaman, padi adalah tulang punggung peradaban di sebagian besar Asia. Dari sawah terasering yang menakjubkan di Bali hingga delta sungai Mekong, padi membentuk lanskap dan budaya. Proses menanamnya yang komunal dan panennya yang menjadi perayaan adalah inti dari kehidupan agraris di benua ini.",
+    "manfaat": "Sumber karbohidrat utama (nasi), jeraminya untuk pakan ternak dan kerajinan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan genangan air pada fase pertumbuhan awal.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah lumpur aluvial yang kaya nutrisi."
+    },
+    "asal": "Tiongkok dan Asia Selatan",
+    "tinggi_maksimal": "1.2 meter",
+    "tingkat_kesulitan": "Sulit (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=600&q=80"
+  },
+  {
+    "id": 2,
+    "nama_tanaman": "Bambu",
+    "nama_latin": "Bambusoideae",
+    "kategori": "Tanaman Serbaguna",
+    "deskripsi": "Bambu adalah simbol kekuatan, fleksibilitas, dan ketahanan dalam banyak filosofi Asia. Pertumbuhannya yang sangat cepat menjadikannya sumber daya terbarukan yang luar biasa. Dari bahan konstruksi rumah yang kokoh, alat musik yang merdu, hingga rebungnya yang lezat, bambu adalah anugerah alam yang serbaguna.",
+    "manfaat": "Bahan bangunan, furnitur, kuliner (rebung), konservasi tanah.",
+    "cara_perawatan": {
+      "penyiraman": "Cukup air, terutama saat baru ditanam.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah gembur dengan drainase baik."
+    },
+    "asal": "Asia Timur dan Tenggara",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Mudah (cenderung invasif)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 50000,
+    "gambar_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80"
+  },
+  {
+    "id": 3,
+    "nama_tanaman": "Lotus (Seroja)",
+    "nama_latin": "Nelumbo nucifera",
+    "kategori": "Tanaman Air",
+    "deskripsi": "Lotus adalah bunga yang paling dihormati di Asia, melambangkan kemurnian, pencerahan, dan kelahiran kembali. Kemampuannya untuk tumbuh dari lumpur yang keruh dan mekar menjadi bunga yang suci dan tak ternoda menjadikannya metafora yang kuat dalam ajaran Hindu dan Buddha. Semua bagiannya, dari biji hingga akarnya, dapat dimakan.",
+    "manfaat": "Simbol spiritual, bunga hias kolam, semua bagian bisa dimakan.",
+    "cara_perawatan": {
+      "penyiraman": "Tumbuh di dalam air.",
+      "cahaya": "Sinar matahari penuh (wajib untuk berbunga).",
+      "suhu": "25-35°C",
+      "media_tanam": "Lumpur di dasar kolam atau pot besar."
+    },
+    "asal": "Asia Selatan dan Tenggara",
+    "tinggi_maksimal": "1.5 meter (di atas air)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 75000,
+    "gambar_url": "https://images.unsplash.com/photo-1567881997560-d45c8ed4f16a?w=600&q=80"
+  },
+  {
+    "id": 4,
+    "nama_tanaman": "Teh",
+    "nama_latin": "Camellia sinensis",
+    "kategori": "Tanaman Perkebunan",
+    "deskripsi": "Dari pucuk daun teh inilah lahir minuman kedua yang paling banyak dikonsumsi di dunia setelah air. Ritual minum teh yang meditatif di Jepang, budaya 'yum cha' yang ramai di Tiongkok, hingga teh tarik yang manis di Asia Tenggara, semuanya berawal dari tanaman perdu sederhana yang tumbuh subur di pegunungan beriklim sejuk ini.",
+    "manfaat": "Bahan dasar minuman teh, kaya antioksidan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan yang tinggi dan teratur.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "15-25°C",
+      "media_tanam": "Tanah yang agak masam (acidic) di dataran tinggi."
+    },
+    "asal": "Asia Timur",
+    "tinggi_maksimal": "2 meter (dipangkas)",
+    "tingkat_kesulitan": "Sulit (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1597318371403-d83e5ef07511?w=600&q=80"
+  },
+  {
+    "id": 5,
+    "nama_tanaman": "Pohon Bodhi",
+    "nama_latin": "Ficus religiosa",
+    "kategori": "Pohon Spiritual",
+    "deskripsi": "Ini bukan sekadar pohon, melainkan sebuah simbol pencerahan. Di bawah pohon inilah Siddhartha Gautama bermeditasi dan mencapai pencerahan menjadi Buddha. Daunnya yang berbentuk hati dengan ujung meruncing sangat ikonik. Menanam atau berada di dekat pohon Bodhi memberikan rasa damai dan spiritualitas.",
+    "manfaat": "Pohon peneduh, nilai spiritual dan religius yang sangat tinggi.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-32°C",
+      "media_tanam": "Sangat adaptif di berbagai jenis tanah."
+    },
+    "asal": "India, Nepal",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Sedang (butuh lahan luas)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 200000,
+    "gambar_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=600&q=80"
+  },
+  {
+    "id": 6,
+    "nama_tanaman": "Sakura",
+    "nama_latin": "Prunus serrulata",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Sakura adalah perayaan keindahan yang fana. Mekarnya yang serentak dan masif mengubah Jepang menjadi lautan merah muda dan putih, namun hanya bertahan selama seminggu. Fenomena ini mengajarkan filosofi 'mono no aware', kesadaran akan kefanaan segala sesuatu, dan dirayakan dengan tradisi 'hanami' (melihat bunga).",
+    "manfaat": "Daya tarik wisata (hanami), simbol nasional Jepang.",
+    "cara_perawatan": {
+      "penyiraman": "Teratur, terutama saat cuaca kering.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang (membutuhkan musim dingin).",
+      "media_tanam": "Tanah dengan drainase yang baik."
+    },
+    "asal": "Jepang",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan iklim khusus)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 500000,
+    "gambar_url": "https://images.unsplash.com/photo-1522383489734-116ce907aae0?w=600&q=80"
+  },
+  {
+    "id": 7,
+    "nama_tanaman": "Peony",
+    "nama_latin": "Paeonia",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Di Tiongkok, Peony dikenal sebagai 'Raja Bunga'. Kelopaknya yang besar, berlapis-lapis, dan rimbun melambangkan kemakmuran, keberuntungan, dan kehormatan. Bunganya yang mewah dan seringkali harum menjadikannya primadona dalam seni lukis dan dekorasi, terutama saat perayaan Imlek.",
+    "manfaat": "Bunga potong mewah, simbol kemakmuran, dekorasi taman.",
+    "cara_perawatan": {
+      "penyiraman": "Secara mendalam tapi tidak sering.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang (membutuhkan musim dingin untuk berbunga).",
+      "media_tanam": "Tanah gembur dan kaya nutrisi."
+    },
+    "asal": "Tiongkok",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan iklim khusus)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 350000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 8,
+    "nama_tanaman": "Ginseng",
+    "nama_latin": "Panax ginseng",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Ginseng adalah 'akar kehidupan' dalam pengobatan tradisional Tiongkok dan Korea. Akarnya yang berbentuk seperti manusia dipercaya memiliki khasiat luar biasa untuk meningkatkan energi, stamina, dan vitalitas. Proses budidayanya yang lambat dan sulit membuat ginseng berkualitas tinggi sangat berharga.",
+    "manfaat": "Meningkatkan stamina, adaptogen (membantu tubuh mengatasi stres).",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap namun tidak basah.",
+      "cahaya": "Teduh total, di bawah kanopi hutan.",
+      "suhu": "Iklim sejuk dan lembap.",
+      "media_tanam": "Tanah hutan yang kaya humus."
+    },
+    "asal": "Korea, Tiongkok Utara",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Sangat Sulit",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 400000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 9,
+    "nama_tanaman": "Lychee (Leci)",
+    "nama_latin": "Litchi chinensis",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Leci adalah buah musim panas yang elegan. Kulit merahnya yang sedikit kasar menyembunyikan daging buah putih transparan yang sangat manis, berair, dengan aroma seperti mawar. Buah ini pernah menjadi upeti yang sangat berharga di kalangan bangsawan Tiongkok kuno.",
+    "manfaat": "Buah konsumsi segar, bahan minuman dan dessert.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air, terutama saat berbuah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Subtropis (butuh musim dingin yang sejuk).",
+      "media_tanam": "Tanah yang kaya bahan organik."
+    },
+    "asal": "Tiongkok Selatan",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 120000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 10,
+    "nama_tanaman": "Pohon Maple Jepang",
+    "nama_latin": "Acer palmatum",
+    "kategori": "Pohon Hias",
+    "deskripsi": "Maple Jepang adalah perwujudan keindahan empat musim. Daunnya yang menjari dengan elegan berubah warna secara dramatis, dari hijau segar di musim semi, menjadi merah menyala atau oranye cemerlang di musim gugur. Pohon ini adalah elemen kunci dalam desain taman Zen Jepang.",
+    "manfaat": "Pohon hias utama untuk taman, bahan bonsai.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap secara konsisten.",
+      "cahaya": "Sinar matahari pagi, naungan di sore hari.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tanah gembur dengan drainase baik."
+    },
+    "asal": "Jepang, Korea, Tiongkok",
+    "tinggi_maksimal": "8 meter",
+    "tingkat_kesulitan": "Sedang (membutuhkan iklim khusus)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 600000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 11,
+    "nama_tanaman": "Anggrek Bulan",
+    "nama_latin": "Phalaenopsis amabilis",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Anggrek Bulan adalah Puspa Pesona, salah satu bunga nasional Indonesia. Keanggunannya terpancar dari kelopak bunga putih bersih yang menjuntai seperti rangkaian kupu-kupu. Tanaman ini melambangkan kemewahan, cinta, dan keindahan. Sangat cocok sebagai hiasan dalam ruangan yang memberikan sentuhan elegan dan eksotis.",
+    "manfaat": "Dekorasi interior premium, meningkatkan mood, hadiah mewah.",
+    "cara_perawatan": {
+      "penyiraman": "1-2 kali seminggu, siram saat media benar-benar kering.",
+      "cahaya": "Cahaya terang tidak langsung (indirect sunlight).",
+      "suhu": "22-28°C",
+      "media_tanam": "Pakis cacah, arang, atau moss sphagnum."
+    },
+    "asal": "Indonesia, Filipina",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor / Teduh",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 12,
+    "nama_tanaman": "Jahe",
+    "nama_latin": "Zingiber officinale",
+    "kategori": "Tanaman Herbal & Rempah",
+    "deskripsi": "Rimpang ajaib ini adalah sahabat dapur dan apotek hidup di setiap rumah Asia. Rasa pedasnya yang khas dapat menghangatkan tubuh, sementara aromanya memperkaya cita rasa masakan. Dari wedang jahe hingga bumbu kari, peran jahe tak tergantikan.",
+    "manfaat": "Menghangatkan tubuh, meredakan mual, bumbu masak utama.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah lembap tapi jangan tergenang.",
+      "cahaya": "Sinar matahari pagi atau naungan parsial.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah gembur kaya kompos."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 13,
+    "nama_tanaman": "Kunyit",
+    "nama_latin": "Curcuma longa",
+    "kategori": "Tanaman Herbal & Rempah",
+    "deskripsi": "Warna kuning-oranye dari kunyit adalah warna keemasan masakan Asia. Rimpang ini bukan hanya memberikan warna yang cantik pada gulai atau soto, tetapi juga mengandung kurkumin, senyawa anti-inflamasi yang kuat. Kunyit adalah bahan dasar dari jamu dan pengobatan Ayurveda.",
+    "manfaat": "Anti-inflamasi alami, bumbu dan pewarna masakan, bahan jamu.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh kelembapan yang konsisten.",
+      "cahaya": "Sinar matahari parsial.",
+      "suhu": "22-29°C",
+      "media_tanam": "Tanah gembur dan subur."
+    },
+    "asal": "Asia Selatan",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 14,
+    "nama_tanaman": "Sereh Dapur",
+    "nama_latin": "Cymbopogon citratus",
+    "kategori": "Tanaman Herbal & Rempah",
+    "deskripsi": "Sereh adalah tanaman rumput sederhana dengan kekuatan aroma yang luar biasa. Wangi sitrusnya yang segar mampu menghilangkan bau amis pada masakan dan memberikan aroma yang khas pada sup Tom Yum Thailand. Batangnya yang digeprek melepaskan minyak esensial yang menenangkan.",
+    "manfaat": "Pengharum masakan, bahan minuman herbal, pengusir nyamuk alami.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur, suka tanah lembap.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah biasa, sangat mudah tumbuh."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 15,
+    "nama_tanaman": "Mangga",
+    "nama_latin": "Mangifera indica",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Siapa yang tak kenal Mangga? Buah tropis ini adalah simbol musim panas yang manis dan menyegarkan. Dari Asia, mangga telah menyebar dan menjadi buah favorit di seluruh dunia. Berbagai varietas menawarkan rasa yang berbeda, dari manis legit hingga sedikit asam segar.",
+    "manfaat": "Sumber Vitamin C dan A, buah konsumsi populer, pohon peneduh.",
+    "cara_perawatan": {
+      "penyiraman": "Siram secara mendalam saat musim kemarau.",
+      "cahaya": "Sinar matahari penuh (wajib untuk berbuah).",
+      "suhu": "26-35°C",
+      "media_tanam": "Tanah lempung berpasir dengan drainase baik."
+    },
+    "asal": "Asia Selatan",
+    "tinggi_maksimal": ">10 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 75000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 16,
+    "nama_tanaman": "Durian",
+    "nama_latin": "Durio zibethinus",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Dijuluki 'Raja Buah', Durian adalah buah yang mem polarizing; Anda akan sangat suka atau sangat benci. Kulitnya yang tajam melindungi daging buah lembut (pongge) dengan rasa kompleks yang tak tertandingi. Bagi para pecintanya, aroma kuat durian adalah wangi surga tropis Asia Tenggara.",
+    "manfaat": "Buah bernutrisi tinggi, komoditas ekonomi penting.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh air yang konsisten, terutama saat pembungaan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur dan subur di area dengan curah hujan tinggi."
+    },
+    "asal": "Asia Tenggara (Borneo, Sumatera)",
+    "tinggi_maksimal": ">20 meter",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 17,
+    "nama_tanaman": "Rambutan",
+    "nama_latin": "Nephelium lappaceum",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Buah asli Asia Tenggara ini seperti permata berambut. Kulitnya yang unik melindungi daging buah bening (ngelotok atau tidak) yang manis dan penuh air. Makan rambutan segar yang baru dipetik dari pohon adalah salah satu kenikmatan sederhana hidup di iklim tropis.",
+    "manfaat": "Sumber serat dan vitamin, buah segar yang populer.",
+    "cara_perawatan": {
+      "penyiraman": "Cukup air saat musim kemarau untuk mencegah kerontokan buah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah lempung berpasir yang subur."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 18,
+    "nama_tanaman": "Manggis",
+    "nama_latin": "Garcinia mangostana",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Jika Durian adalah raja, maka Manggis adalah ratunya. Kulit ungunya yang tebal menyembunyikan segmen daging buah seputih salju dengan rasa manis-asam yang seimbang dan sangat elegan. Buah asli Kepulauan Sunda ini adalah salah satu hadiah terbaik dari alam tropis.",
+    "manfaat": "Buah kaya antioksidan, kulitnya diekstrak untuk suplemen.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan kelembapan tanah yang stabil.",
+      "cahaya": "Butuh naungan saat muda, sinar matahari penuh saat dewasa.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah organik yang kaya dan lembap."
+    },
+    "asal": "Asia Tenggara (Kepulauan Sunda)",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 80000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 19,
+    "nama_tanaman": "Pisang",
+    "nama_latin": "Musa",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Lebih dari sekadar buah, pisang adalah sumber energi yang praktis. Tanaman ini sangat penting dalam ketahanan pangan di seluruh Asia Tenggara. Hampir semua bagiannya bermanfaat: buahnya untuk dimakan, jantungnya untuk disayur, dan daunnya untuk pembungkus makanan.",
+    "manfaat": "Sumber karbohidrat dan potasium, bahan makanan serbaguna.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "26-30°C",
+      "media_tanam": "Tanah yang sangat subur dan kaya nutrisi."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "7 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 20,
+    "nama_tanaman": "Hoya",
+    "nama_latin": "Hoya carnosa",
+    "kategori": "Tanaman Hias Gantung",
+    "deskripsi": "Hoya atau 'Wax Plant' adalah tanaman rambat epifit dengan daun tebal seperti lilin. Namun keajaibannya terletak pada bunganya yang berkelompok membentuk bola bintang sempurna, seringkali dengan aroma manis yang kuat di malam hari. Hoya adalah koleksi wajib bagi pecinta tanaman gantung.",
+    "manfaat": "Tanaman gantung yang indah, bunga yang sangat harum.",
+    "cara_perawatan": {
+      "penyiraman": "Jarang, biarkan media kering sebelum disiram lagi.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam anggrek atau yang sangat porous."
+    },
+    "asal": "Asia Timur dan Tenggara",
+    "tinggi_maksimal": "3 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 85000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 21,
+    "nama_tanaman": "Sirih Gading",
+    "nama_latin": "Epipremnum aureum",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Sirih Gading adalah teman terbaik bagi para pemula. Tanaman rambat ini sangat pemaaf, dapat tumbuh subur dalam berbagai kondisi, dan sangat mudah diperbanyak. Daunnya yang berbentuk hati dengan corak kuning atau putih menjadikannya pilihan populer untuk digantung atau dirambatkan di dalam ruangan.",
+    "manfaat": "Membersihkan udara, sangat mudah dirawat, cocok untuk pemula.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah bagian atas mulai kering.",
+      "cahaya": "Sangat toleran, dari cahaya rendah hingga terang tidak langsung.",
+      "suhu": "18-30°C",
+      "media_tanam": "Tanah biasa atau bahkan bisa di air."
+    },
+    "asal": "Asia Tenggara (naturalisasi)",
+    "tinggi_maksimal": "20 meter (merambat)",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 22,
+    "nama_tanaman": "Ficus Ginseng",
+    "nama_latin": "Ficus microcarpa",
+    "kategori": "Bonsai Indoor",
+    "deskripsi": "Ficus Ginseng menampilkan keindahan seni bonsai dengan cara yang mudah diakses. Akarnya yang gemuk dan bengkak seperti rimpang ginseng menopang batang berdaun kecil yang rimbun. Tanaman ini membawa aura ketenangan dan estetika Zen ke atas meja kerja atau sudut ruangan.",
+    "manfaat": "Bonsai untuk pemula, pembersih udara, elemen dekorasi Zen.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap sedikit lembap.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah bonsai atau tanah pot dengan drainase baik."
+    },
+    "asal": "Asia Tenggara, Tiongkok",
+    "tinggi_maksimal": "1 meter (sebagai bonsai)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 23,
+    "nama_tanaman": "Cendana",
+    "nama_latin": "Santalum album",
+    "kategori": "Pohon Aromatik",
+    "deskripsi": "Pohon Cendana adalah penghasil salah satu kayu paling mahal di dunia, bukan karena kekuatannya, tapi karena aromanya. Kayu terasnya menghasilkan minyak atsiri dengan wangi manis-kayu yang menenangkan. Aroma ini sangat penting dalam ritual keagamaan, meditasi, dan industri parfum mewah.",
+    "manfaat": "Sumber minyak atsiri (sandalwood oil), bahan dupa, nilai ekonomi tinggi.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tumbuh di tanah kering dan berbatu (semi-parasit)."
+    },
+    "asal": "India, Indonesia (Timor)",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sangat Sulit (dilindungi)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 24,
+    "nama_tanaman": "Kelengkeng",
+    "nama_latin": "Dimocarpus longan",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Kelengkeng atau 'Mata Naga' adalah sepupu dekat dari leci. Buahnya yang berkulit coklat tipis menyimpan daging buah bening yang sangat manis dengan biji hitam di tengahnya. Rasa manisnya yang khas dan teksturnya yang renyah menjadikannya camilan sehat yang populer.",
+    "manfaat": "Buah konsumsi kaya vitamin C.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air cukup, terutama saat musim panas.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "22-30°C",
+      "media_tanam": "Tanah lempung berpasir."
+    },
+    "asal": "Asia Selatan dan Tenggara",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 90000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 25,
+    "nama_tanaman": "Jeruk Bali",
+    "nama_latin": "Citrus maxima",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Pomelo atau Jeruk Bali adalah jeruk terbesar di dunia. Kulitnya yang sangat tebal melindungi bulir-bulir buah yang besar, renyah, dan tidak terlalu berair. Rasanya bervariasi dari manis hingga sedikit asam, menjadikannya buah yang menyegarkan untuk salad atau dimakan langsung.",
+    "manfaat": "Buah rendah kalori dan kaya serat, sumber vitamin C.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur dan mendalam.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah yang subur dengan drainase baik."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 65000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 26,
+    "nama_tanaman": "Kedondong",
+    "nama_latin": "Spondias dulcis",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Kedondong adalah buah rujak yang paling ikonik. Dagingnya yang renyah dan rasanya yang asam-segar sangat cocok dipadukan dengan bumbu rujak yang manis-pedas. Bijinya yang berserabut juga menjadi ciri khas yang unik dari buah ini.",
+    "manfaat": "Bahan utama rujak dan asinan, kaya serat.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air yang cukup.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Sangat adaptif di berbagai jenis tanah."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "18 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 27,
+    "nama_tanaman": "Gaharu",
+    "nama_latin": "Aquilaria",
+    "kategori": "Pohon Aromatik",
+    "deskripsi": "Gaharu adalah pohon yang menghasilkan salah satu bahan aromatik paling langka dan mahal di dunia, dikenal sebagai 'oud'. Kayunya, ketika terinfeksi oleh jamur tertentu, akan menghasilkan resin gelap yang sangat harum. Aroma oud yang kompleks, hangat, dan mistis sangat dihargai dalam industri parfum dan ritual Timur Tengah.",
+    "manfaat": "Sumber resin oud untuk parfum dan dupa, investasi jangka panjang.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim hutan hujan yang basah.",
+      "cahaya": "Sinar matahari parsial.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah hutan yang subur."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sangat Sulit (proses pembentukan resinnya langka)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 28,
+    "nama_tanaman": "Tebu",
+    "nama_latin": "Saccharum officinarum",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Batang tebu adalah sumber utama gula di dunia. Tanaman rumput raksasa ini menyimpan sari manis di dalam batangnya. Di Asia, air tebu segar yang diperas langsung dari batangnya adalah minuman pinggir jalan yang sangat populer dan menyegarkan di tengah cuaca panas.",
+    "manfaat": "Sumber utama produksi gula, minuman air tebu segar.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air selama masa pertumbuhan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "28-35°C",
+      "media_tanam": "Tanah gembur dengan drainase baik."
+    },
+    "asal": "Nugini",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Sedang (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 29,
+    "nama_tanaman": "Lengkuas",
+    "nama_latin": "Alpinia galanga",
+    "kategori": "Tanaman Herbal & Rempah",
+    "deskripsi": "Sering disebut 'saudara' jahe, lengkuas memiliki aroma yang lebih tajam seperti pinus dan rasa pedas yang lebih ringan. Rimpang ini adalah bumbu wajib dalam masakan berkuah khas Asia Tenggara seperti rendang, tom yum, dan soto, memberikan kedalaman rasa yang tidak bisa digantikan rempah lain.",
+    "manfaat": "Bumbu penyedap masakan, obat tradisional untuk masalah pencernaan.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Sinar matahari parsial atau penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur kaya kompos."
+    },
+    "asal": "Asia Tenggara (Indonesia)",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 30,
+    "nama_tanaman": "Pohon Asam Jawa",
+    "nama_latin": "Tamarindus indica",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Pohon Asam Jawa yang rindang memberikan naungan yang sejuk. Buahnya yang berbentuk polong berisi daging buah dengan rasa asam yang khas. Asam Jawa adalah kunci rasa asam segar dalam hidangan seperti sayur asam, kuah pempek, dan saus Pad Thai.",
+    "manfaat": "Bumbu pemberi rasa asam alami, bahan minuman (gula asam), pohon peneduh.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Sangat adaptif di berbagai jenis tanah."
+    },
+    "asal": "Afrika Tropis (dinaturalisasi luas di seluruh Asia)",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 31,
+    "nama_tanaman": "Terong",
+    "nama_latin": "Solanum melongena",
+    "kategori": "Sayuran Buah",
+    "deskripsi": "Terong ungu yang mengkilap adalah sayuran serbaguna dalam masakan Asia. Teksturnya yang lembut seperti spons mampu menyerap bumbu dengan sempurna. Dari terong balado di Indonesia, kari di India, hingga moussaka yang dipengaruhi Asia Kecil, terong selalu menjadi primadona.",
+    "manfaat": "Bahan masakan serbaguna, sumber serat.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah yang subur dan gembur."
+    },
+    "asal": "India, Myanmar",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 32,
+    "nama_tanaman": "Kacang Panjang",
+    "nama_latin": "Vigna unguiculata subsp. sesquipedalis",
+    "kategori": "Sayuran Kacang",
+    "deskripsi": "Seperti namanya, kacang ini bisa tumbuh sangat panjang, mencapai lebih dari setengah meter. Teksturnya yang renyah dan rasanya yang manis membuatnya menjadi sayuran favorit untuk ditumis, dijadikan lalapan, atau bahan dalam sayur lodeh dan kari.",
+    "manfaat": "Sumber protein nabati dan serat.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur, terutama saat berbunga.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah subur, membutuhkan media rambat."
+    },
+    "asal": "Asia Timur",
+    "tinggi_maksimal": "4 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 33,
+    "nama_tanaman": "Daun Bawang",
+    "nama_latin": "Allium fistulosum",
+    "kategori": "Sayuran Daun",
+    "deskripsi": "Daun bawang adalah sentuhan akhir yang memberikan kesegaran pada banyak masakan Asia. Irisannya yang ditaburkan di atas sup, mi, atau bubur memberikan aroma bawang yang lembut dan warna hijau yang cantik. Tanaman ini sangat mudah ditanam kembali dari akarnya.",
+    "manfaat": "Penyedap dan garnis masakan.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah gembur yang subur."
+    },
+    "asal": "Asia Timur",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 5000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 34,
+    "nama_tanaman": "Bayam",
+    "nama_latin": "Amaranthus",
+    "kategori": "Sayuran Daun",
+    "deskripsi": "Bayam di Asia, khususnya jenis Amaranthus, adalah sayuran daun yang tumbuh cepat dan bergizi tinggi. Berbeda dengan bayam Eropa (spinach), bayam ini lebih tahan panas. Sangat populer diolah menjadi sayur bening yang sederhana dan menyehatkan.",
+    "manfaat": "Sumber zat besi, vitamin, dan mineral.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah gembur yang kaya nitrogen."
+    },
+    "asal": "Amerika (dibudidayakan luas dan menjadi sayuran utama di Asia)",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 5000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 35,
+    "nama_tanaman": "Cabai Rawit",
+    "nama_latin": "Capsicum frutescens",
+    "kategori": "Sayuran Buah",
+    "deskripsi": "Kecil-kecil cabai rawit. Ukurannya yang mungil menyimpan ledakan pedas yang dahsyat. Bagi banyak masyarakat di Asia Tenggara, makanan tidak lengkap tanpa sensasi pedas dari cabai rawit, baik dalam bentuk sambal maupun sebagai lalapan.",
+    "manfaat": "Memberikan rasa pedas, meningkatkan metabolisme.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap namun tidak becek.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur kaya kompos."
+    },
+    "asal": "Amerika Selatan (telah menjadi bagian tak terpisahkan dari kuliner Asia)",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 36,
+    "nama_tanaman": "Jering (Jengkol)",
+    "nama_latin": "Archidendron pauciflorum",
+    "kategori": "Sayuran Biji",
+    "deskripsi": "Jengkol adalah buah polong dengan aroma yang sangat khas dan kuat. Meskipun baunya menyengat, teksturnya yang pulen dan rasanya yang gurih setelah diolah menjadikannya hidangan favorit bagi para penggemarnya, terutama dalam sajian rendang atau semur.",
+    "manfaat": "Sumber protein nabati, bahan masakan unik.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air yang cukup.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah yang subur di dataran rendah."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 37,
+    "nama_tanaman": "Petai",
+    "nama_latin": "Parkia speciosa",
+    "kategori": "Sayuran Biji",
+    "deskripsi": "Sama seperti jengkol, petai atau 'stinky bean' memiliki aroma kuat yang menjadi ciri khasnya. Biji hijaunya yang renyah sering dijadikan lalapan atau dimasak bersama sambal dan hidangan laut, memberikan kontras tekstur dan rasa yang unik.",
+    "manfaat": "Lalapan, kaya antioksidan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim tropis yang basah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah hutan yang subur."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 65000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 38,
+    "nama_tanaman": "Kecubung",
+    "nama_latin": "Datura metel",
+    "kategori": "Tanaman Beracun",
+    "deskripsi": "Kecubung memiliki bunga berbentuk terompet yang indah dan memikat, namun seluruh bagian tanaman ini sangat beracun. Efek halusinogeniknya yang kuat membuatnya disalahgunakan, namun dalam dosis yang tepat, ia telah lama digunakan dalam pengobatan tradisional sebagai pereda nyeri dan asma.",
+    "manfaat": "Tanaman hias (dengan kehati-hatian), bahan pengobatan tradisional (oleh ahli).",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tumbuh liar di berbagai jenis tanah."
+    },
+    "asal": "Asia",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Mudah (PERINGATAN: BERACUN)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 39,
+    "nama_tanaman": "Waru",
+    "nama_latin": "Hibiscus tiliaceus",
+    "kategori": "Pohon Peneduh",
+    "deskripsi": "Pohon waru sering ditemukan di pesisir pantai. Daunnya yang lebar berbentuk hati memberikan naungan yang sangat teduh. Bunganya yang mirip kembang sepatu berubah warna dari kuning di pagi hari menjadi oranye kemerahan di sore hari sebelum akhirnya gugur.",
+    "manfaat": "Pohon peneduh, penahan abrasi pantai, daunnya bisa untuk makanan ternak.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan terhadap genangan dan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Sangat adaptif, termasuk di tanah berpasir dan asin."
+    },
+    "asal": "Pesisir tropis di seluruh dunia, termasuk Asia",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 40000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 40,
+    "nama_tanaman": "Jarak Pagar",
+    "nama_latin": "Jatropha curcas",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Jarak Pagar sempat menjadi sorotan sebagai sumber biofuel potensial. Bijinya mengandung minyak yang tidak bisa dimakan tetapi dapat diolah menjadi biodiesel. Tanaman ini sangat kuat, mampu tumbuh di lahan kritis dan kering di mana tanaman lain sulit bertahan hidup.",
+    "manfaat": "Sumber potensial biodiesel, tanaman pagar.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tumbuh di lahan kering dan tidak subur."
+    },
+    "asal": "Amerika Tropis (dinaturalisasi luas di Asia)",
+    "tinggi_maksimal": "5 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 41,
+    "nama_tanaman": "Ketapang Kencana",
+    "nama_latin": "Terminalia mantaly",
+    "kategori": "Pohon Peneduh",
+    "deskripsi": "Ketapang Kencana adalah pohon peneduh arsitektural yang sangat populer. Cabangnya yang tumbuh datar dan berlapis-lapis menciptakan kanopi seperti payung yang rapi dan elegan. Sangat cocok untuk taman modern, peneduh jalan, dan area parkir.",
+    "manfaat": "Pohon peneduh dengan bentuk yang unik dan modern.",
+    "cara_perawatan": {
+      "penyiraman": "Cukup saat awal tanam, tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Sangat adaptif di berbagai jenis tanah."
+    },
+    "asal": "Madagaskar (sangat populer di Asia Tropis)",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 80000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 42,
+    "nama_tanaman": "Srikaya",
+    "nama_latin": "Annona squamosa",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Srikaya memiliki penampilan luar yang unik, dengan kulit berbenjol-benjol seperti sisik. Di baliknya, terdapat daging buah putih yang sangat manis dan lembut dengan banyak biji. Rasa manisnya yang khas dan teksturnya yang 'creamy' membuatnya populer sebagai buah meja.",
+    "manfaat": "Buah konsumsi, kaya akan energi dan vitamin.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah dengan drainase yang baik."
+    },
+    "asal": "Amerika Tropis (dibudidayakan luas di Asia)",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 43,
+    "nama_tanaman": "Bawang Merah",
+    "nama_latin": "Allium cepa (Aggregatum Group)",
+    "kategori": "Sayuran Umbi",
+    "deskripsi": "Tidak ada dapur Asia tanpa bawang merah. Umbi kecil berwarna merah keunguan ini adalah bumbu dasar yang memberikan rasa gurih dan aroma fundamental pada hampir semua jenis masakan. Bawang merah goreng yang renyah adalah taburan wajib yang tak tergantikan.",
+    "manfaat": "Bumbu dasar masakan, taburan (bawang goreng).",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur, jangan sampai tanah mengering.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah gembur dan porous."
+    },
+    "asal": "Asia Tengah",
+    "tinggi_maksimal": "40 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 5000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 44,
+    "nama_tanaman": "Bawang Putih",
+    "nama_latin": "Allium sativum",
+    "kategori": "Sayuran Umbi",
+    "deskripsi": "Bawang putih adalah partner abadi bawang merah. Aromanya yang tajam dan rasanya yang kuat berubah menjadi manis dan gurih saat dimasak. Selain sebagai bumbu, ia juga dikenal di seluruh dunia karena khasiatnya sebagai antibiotik alami dan baik untuk kesehatan jantung.",
+    "manfaat": "Bumbu dasar masakan, herbal untuk kesehatan jantung dan imunitas.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tumbuh baik di iklim yang lebih sejuk (dataran tinggi).",
+      "media_tanam": "Tanah gembur yang subur."
+    },
+    "asal": "Asia Tengah",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 5000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 45,
+    "nama_tanaman": "Kangkung",
+    "nama_latin": "Ipomoea aquatica",
+    "kategori": "Sayuran Daun",
+    "deskripsi": "Kangkung adalah sayuran rakyat yang tumbuh sangat cepat, baik di darat maupun di air. Batangnya yang berongga dan daunnya yang lembut sangat nikmat diolah menjadi tumis kangkung dengan terasi dan bawang putih. Sayuran sederhana ini adalah definisi dari masakan rumah yang lezat.",
+    "manfaat": "Sayuran yang cepat panen, kaya zat besi.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan sangat banyak air atau ditanam di air.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah lumpur atau sistem hidroponik."
+    },
+    "asal": "Asia",
+    "tinggi_maksimal": "2 meter (merambat)",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 5000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 46,
+    "nama_tanaman": "Pare",
+    "nama_latin": "Momordica charantia",
+    "kategori": "Sayuran Buah",
+    "deskripsi": "Pare dikenal dengan rasanya yang sangat pahit, namun di balik itu ia menyimpan banyak khasiat, terutama dalam mengontrol gula darah. Bagi yang terbiasa, rasa pahitnya justru menjadi sensasi yang dicari, terutama saat diolah menjadi siomay atau ditumis dengan telur.",
+    "manfaat": "Membantu mengontrol gula darah, bahan masakan.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah subur, membutuhkan media rambat."
+    },
+    "asal": "Asia Selatan",
+    "tinggi_maksimal": "5 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 47,
+    "nama_tanaman": "Sawi Hijau",
+    "nama_latin": "Brassica rapa subsp. parachinensis",
+    "kategori": "Sayuran Daun",
+    "deskripsi": "Sawi hijau atau caisim adalah sayuran wajib dalam semangkuk mi ayam atau bakso. Batangnya yang renyah dan daunnya yang sedikit pahit memberikan keseimbangan yang sempurna. Sayuran ini tumbuh cepat dan mudah dibudidayakan, menjadikannya sayuran ekonomis yang selalu tersedia.",
+    "manfaat": "Sayuran pelengkap populer, sumber vitamin K.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-28°C (lebih suka sejuk).",
+      "media_tanam": "Tanah gembur yang kaya nitrogen."
+    },
+    "asal": "Asia",
+    "tinggi_maksimal": "30 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 5000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 48,
+    "nama_tanaman": "Singkong",
+    "nama_latin": "Manihot esculenta",
+    "kategori": "Tanaman Umbi",
+    "deskripsi": "Singkong adalah tanaman tangguh yang menjadi sumber karbohidrat penting. Umbinya bisa diolah menjadi aneka ragam makanan, dari singkong goreng, getuk, hingga keripik. Daunnya pun lezat dimasak sebagai sayur, terutama dengan bumbu gulai.",
+    "manfaat": "Sumber karbohidrat, daunnya bisa disayur.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Sangat adaptif di tanah kurang subur."
+    },
+    "asal": "Amerika Selatan (telah menjadi makanan pokok di sebagian Asia)",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 49,
+    "nama_tanaman": "Ubi Jalar",
+    "nama_latin": "Ipomoea batatas",
+    "kategori": "Tanaman Umbi",
+    "deskripsi": "Ubi jalar hadir dalam berbagai warna, dari ungu, oranye, hingga putih, masing-masing dengan keunikan nutrisinya. Rasanya yang manis alami menjadikannya favorit untuk direbus, dibakar, atau diolah menjadi jajanan pasar seperti kolak dan bola-bola ubi.",
+    "manfaat": "Sumber karbohidrat kompleks dan vitamin A (untuk yang oranye).",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, namun butuh air untuk umbi besar.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah gembur berpasir."
+    },
+    "asal": "Amerika Tropis (dibudidayakan luas di Asia)",
+    "tinggi_maksimal": "4 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 50,
+    "nama_tanaman": "Talas",
+    "nama_latin": "Colocasia esculenta",
+    "kategori": "Tanaman Umbi",
+    "deskripsi": "Talas adalah tanaman umbi purba yang menjadi sumber pangan penting di banyak kebudayaan. Umbinya yang bertepung bisa diolah menjadi makanan gurih maupun manis, seperti talas Bogor yang terkenal. Daunnya yang lebar dan tahan air juga digunakan sebagai pembungkus.",
+    "manfaat": "Sumber karbohidrat, daunnya bisa dimasak (setelah diolah).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan sangat banyak air dan tanah basah.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah lumpur atau yang sangat lembap."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 51,
+    "nama_tanaman": "Kacang Tanah",
+    "nama_latin": "Arachis hypogaea",
+    "kategori": "Tanaman Kacang",
+    "deskripsi": "Uniknya, kacang tanah berbuah di dalam tanah. Setelah bunganya diserbuki, tangkainya akan memanjang dan masuk ke dalam tanah tempat buahnya berkembang. Kacang tanah adalah camilan favorit, bahan dasar saus sate, dan sumber minyak nabati.",
+    "manfaat": "Sumber protein nabati dan lemak baik, bahan dasar saus sate.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur, terutama saat pembentukan polong.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur dan berpasir."
+    },
+    "asal": "Amerika Selatan (telah menjadi tanaman pangan penting di Asia)",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 52,
+    "nama_tanaman": "Jagung",
+    "nama_latin": "Zea mays",
+    "kategori": "Tanaman Pangan",
+    "deskripsi": "Meskipun bukan asli Asia, jagung telah menjadi tanaman pangan krusial di banyak daerah, terutama sebagai alternatif nasi. Dari jagung bakar di puncak, bakwan jagung yang renyah, hingga nasi jagung, tanaman serbaguna ini telah terintegrasi dalam kuliner lokal.",
+    "manfaat": "Sumber karbohidrat, pakan ternak.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air, terutama saat pembungaan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah subur yang kaya nitrogen."
+    },
+    "asal": "Meksiko (dibudidayakan luas di Asia)",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 53,
+    "nama_tanaman": "Kedelai",
+    "nama_latin": "Glycine max",
+    "kategori": "Tanaman Kacang",
+    "deskripsi": "Kedelai adalah keajaiban protein nabati. Dari biji kecil inilah lahir produk-produk ikonik Asia seperti tahu, tempe, kecap, dan susu kedelai. Kemampuannya untuk diolah menjadi begitu banyak variasi makanan menjadikannya salah satu tanaman paling penting di dunia.",
+    "manfaat": "Sumber protein nabati utama (tahu, tempe), bahan kecap.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah gembur dengan drainase baik."
+    },
+    "asal": "Asia Timur",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 54,
+    "nama_tanaman": "Kacang Hijau",
+    "nama_latin": "Vigna radiata",
+    "kategori": "Tanaman Kacang",
+    "deskripsi": "Kacang hijau adalah bahan dasar dari bubur manis yang menenangkan dan isian onde-onde serta bakpia yang lezat. Kecambahnya, yang dikenal sebagai tauge, adalah tambahan renyah dan segar untuk berbagai hidangan seperti soto, lumpia, dan tumisan.",
+    "manfaat": "Bahan bubur, isian kue, kecambahnya (tauge) untuk sayuran.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, tidak butuh banyak air.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "28-35°C",
+      "media_tanam": "Tumbuh baik di lahan kering."
+    },
+    "asal": "India",
+    "tinggi_maksimal": "80 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 55,
+    "nama_tanaman": "Bunga Matahari",
+    "nama_latin": "Helianthus annuus",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Bunga besar yang ceria ini selalu menghadap ke arah matahari, seolah menyembah sang pemberi kehidupan. Selain keindahannya, bijinya diolah menjadi camilan kuaci yang adiktif atau minyak nabati yang sehat. Bunga matahari adalah simbol optimisme dan kebahagiaan.",
+    "manfaat": "Bunga hias, sumber biji kuaci, minyak nabati.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur dan mendalam.",
+      "cahaya": "Sinar matahari penuh (wajib).",
+      "suhu": "21-26°C",
+      "media_tanam": "Tanah gembur yang subur."
+    },
+    "asal": "Amerika Utara (sangat populer dan dibudidayakan luas di Asia)",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1597848212624-753a6d2c3fb9?w=600&q=80"
+  },
+  {
+    "id": 56,
+    "nama_tanaman": "Wijen",
+    "nama_latin": "Sesamum indicum",
+    "kategori": "Tanaman Biji",
+    "deskripsi": "Biji wijen yang kecil memberikan kontribusi rasa dan tekstur yang besar dalam kuliner Asia. Ditaburkan di atas onde-onde, menjadi bahan dasar saus shabu-shabu, atau diolah menjadi minyak wijen yang aromatik, biji kecil ini adalah penyedap yang tak tergantikan.",
+    "manfaat": "Taburan makanan (onde-onde), sumber minyak wijen.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tumbuh di lahan kering."
+    },
+    "asal": "Afrika, India (dibudidayakan luas di Asia)",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 57,
+    "nama_tanaman": "Kapas",
+    "nama_latin": "Gossypium",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Serat putih lembut yang menyelimuti biji kapas adalah bahan dasar dari pakaian katun yang kita kenakan sehari-hari. Tanaman ini telah merevolusi industri tekstil global. Meskipun membutuhkan banyak air dan perawatan, kapas tetap menjadi salah satu komoditas non-pangan terpenting di dunia.",
+    "manfaat": "Sumber serat alami untuk industri tekstil (kain katun).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air, terutama saat pembentukan buah (boll).",
+      "cahaya": "Sinar matahari penuh dan musim tanam yang panjang.",
+      "suhu": "28-35°C",
+      "media_tanam": "Tanah aluvial yang subur."
+    },
+    "asal": "Benua-benua tropis dan subtropis, termasuk Asia.",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Sulit (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 58,
+    "nama_tanaman": "Seledri",
+    "nama_latin": "Apium graveolens",
+    "kategori": "Sayuran Daun",
+    "deskripsi": "Aroma seledri yang khas memberikan kesegaran pada hidangan berkuah seperti sop dan soto. Batang dan daunnya yang renyah menjadi elemen penting yang tidak hanya menambah rasa, tetapi juga memberikan aroma yang membangkitkan selera.",
+    "manfaat": "Penyedap masakan (sop, soto), jus kesehatan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan sangat banyak air secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "16-21°C (tumbuh baik di daerah sejuk).",
+      "media_tanam": "Tanah gembur yang kaya bahan organik."
+    },
+    "asal": "Eropa (dibudidayakan luas di dataran tinggi Asia)",
+    "tinggi_maksimal": "80 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 59,
+    "nama_tanaman": "Timun",
+    "nama_latin": "Cucumis sativus",
+    "kategori": "Sayuran Buah",
+    "deskripsi": "Timun adalah pendingin alami. Kandungan airnya yang sangat tinggi menjadikannya lalapan yang sempurna untuk meredakan rasa pedas, atau diolah menjadi acar yang menyegarkan. Selain sebagai makanan, irisan timun juga populer sebagai masker mata untuk mengurangi bengkak.",
+    "manfaat": "Lalapan segar, bahan acar, masker mata.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah subur, membutuhkan media rambat."
+    },
+    "asal": "India",
+    "tinggi_maksimal": "3 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 60,
+    "nama_tanaman": "Pakis Sayur",
+    "nama_latin": "Diplazium esculentum",
+    "kategori": "Sayuran Pakis",
+    "deskripsi": "Pucuk daun pakis yang masih muda dan menggulung adalah sayuran hutan yang lezat. Teksturnya yang renyah dan rasanya yang khas sangat nikmat saat ditumis dengan terasi atau dimasak dalam kuah gulai. Pakis adalah cara menikmati sayuran langsung dari alam.",
+    "manfaat": "Sayuran unik, kaya akan antioksidan dan mineral.",
+    "cara_perawatan": {
+      "penyiraman": "Tumbuh di tempat yang sangat basah dan lembap.",
+      "cahaya": "Teduh, seperti di tepi sungai atau hutan.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah yang selalu lembap dan kaya humus."
+    },
+    "asal": "Asia",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah (di habitat yang tepat)",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 61,
+    "nama_tanaman": "Tebu Telur",
+    "nama_latin": "Saccharum edule",
+    "kategori": "Sayuran Unik",
+    "deskripsi": "Meski berkerabat dengan tebu, tanaman ini tidak menghasilkan gula. Bagian yang dipanen adalah perbungaannya yang belum mekar, yang bentuknya mirip telur ikan atau sosis. Sayuran unik dari Papua ini memiliki tekstur lembut dan rasa manis gurih saat dimasak.",
+    "manfaat": "Sayuran unik khas Indonesia Timur.",
+    "cara_perawatan": {
+      "penyiraman": "Suka tanah yang lembap.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur."
+    },
+    "asal": "Papua, Indonesia",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 62,
+    "nama_tanaman": "Buah Naga",
+    "nama_latin": "Hylocereus",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Buah Naga adalah buah dari sejenis kaktus. Penampilannya sangat dramatis, dengan kulit merah muda cerah dan sisik hijau. Daging buahnya, yang berwarna putih atau merah dengan bintik-bintik biji hitam, memiliki rasa manis ringan yang sangat menyegarkan.",
+    "manfaat": "Kaya antioksidan, baik untuk pencernaan.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, siram saat media kering.",
+      "cahaya": "Sinar matahari penuh, membutuhkan tiang panjatan.",
+      "suhu": "25-34°C",
+      "media_tanam": "Tanah porous berpasir."
+    },
+    "asal": "Meksiko (dibudidayakan luas di Asia Tenggara)",
+    "tinggi_maksimal": "6 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 35000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 63,
+    "nama_tanaman": "Alpukat",
+    "nama_latin": "Persea americana",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Alpukat adalah buah unik yang kaya akan lemak sehat. Teksturnya yang lembut seperti mentega menjadikannya favorit untuk jus kental, isian roti, atau bahkan dimakan begitu saja. Pohonnya yang besar dan rindang juga menjadi peneduh yang baik.",
+    "manfaat": "Sumber lemak baik, serat, dan potasium.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh air yang cukup namun tidak suka tergenang.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah gembur dengan drainase yang sangat baik."
+    },
+    "asal": "Meksiko (dibudidayakan luas di dataran tinggi Asia)",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 64,
+    "nama_tanaman": "Kecapi",
+    "nama_latin": "Sandoricum koetjape",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Kecapi adalah buah nostalgia bagi banyak orang. Kulitnya yang tebal seperti beludru melindungi daging buah putih yang menempel pada biji besar. Rasanya yang manis-asam sangat khas. Buah ini semakin jarang ditemukan di perkotaan.",
+    "manfaat": "Buah konsumsi, sering dibuat manisan.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tumbuh subur di dataran rendah."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 50000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 65,
+    "nama_tanaman": "Ruku-Ruku",
+    "nama_latin": "Ocimum tenuiflorum",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Dianggap sebagai tanaman suci dalam Hinduisme (dikenal sebagai Tulsi), Ruku-Ruku adalah sejenis kemangi dengan aroma cengkeh yang kuat. Di masakan Minang, daun ini menjadi bumbu kunci yang memberikan aroma khas pada gulai dan hidangan lainnya.",
+    "manfaat": "Bumbu masakan khas, tanaman herbal suci dalam Hinduisme.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur."
+    },
+    "asal": "India",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 66,
+    "nama_tanaman": "Ketumbar",
+    "nama_latin": "Coriandrum sativum",
+    "kategori": "Tanaman Herbal & Rempah",
+    "deskripsi": "Ketumbar adalah tanaman dua wajah. Bijinya yang dikeringkan adalah rempah hangat yang menjadi dasar banyak bumbu masakan Asia. Daunnya (dikenal sebagai cilantro) memiliki aroma segar yang tajam, menjadi garnis dan penyedap utama dalam hidangan seperti pho Vietnam dan salsa.",
+    "manfaat": "Biji sebagai rempah, daunnya (cilantro) sebagai penyegar masakan.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Sinar matahari penuh atau parsial (lebih suka sejuk).",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah gembur yang subur."
+    },
+    "asal": "Eropa Selatan, Afrika Utara (telah menjadi rempah esensial di Asia)",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 67,
+    "nama_tanaman": "Kemiri",
+    "nama_latin": "Aleurites moluccanus",
+    "kategori": "Tanaman Rempah",
+    "deskripsi": "Biji kemiri yang kaya minyak adalah pengental alami dan penambah rasa gurih dalam masakan Indonesia. Sebelum digunakan, kemiri harus disangrai atau dibakar terlebih dahulu untuk menghilangkan racun ringannya dan mengeluarkan aroma kacangnya yang khas.",
+    "manfaat": "Pengental dan penambah gurih masakan, minyaknya untuk perawatan rambut.",
+    "cara_perawatan": {
+      "penyiraman": "Tidak perlu perlakuan khusus.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tumbuh baik di iklim tropis."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Mudah (sebagai pohon)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 40000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 68,
+    "nama_tanaman": "Pinang",
+    "nama_latin": "Areca catechu",
+    "kategori": "Tanaman Budaya",
+    "deskripsi": "Pohon pinang yang langsing dan tinggi adalah pemandangan umum di pedesaan Asia. Bijinya, jika digabung dengan sirih dan kapur, menjadi bahan utama 'menyirih'. Batangnya yang licin juga menjadi pusat atraksi dalam lomba panjat pinang saat perayaan kemerdekaan.",
+    "manfaat": "Bahan 'menyirih', pohon untuk lomba panjat pinang.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air yang cukup.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Sangat adaptif di berbagai jenis tanah."
+    },
+    "asal": "Asia Tenggara",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 69,
+    "nama_tanaman": "Mengkudu",
+    "nama_latin": "Morinda citrifolia",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Mengkudu dikenal dengan buahnya yang beraroma sangat tajam dan tidak sedap. Namun di balik baunya, buah ini dipercaya memiliki segudang khasiat kesehatan dan telah digunakan dalam pengobatan tradisional selama berabad-abad, biasanya dalam bentuk jus.",
+    "manfaat": "Tanaman obat, terutama untuk jus kesehatan.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Sangat adaptif di tanah pesisir."
+    },
+    "asal": "Asia Tenggara, Australia",
+    "tinggi_maksimal": "7 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 70,
+    "nama_tanaman": "Bunga Kancing",
+    "nama_latin": "Gomphrena globosa",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Bunga kancing memiliki bunga bulat kecil seperti pom-pom yang sangat awet. Bahkan setelah dipetik dan dikeringkan, bunga ini tetap mempertahankan bentuk dan warnanya, menjadikannya pilihan favorit untuk kerajinan bunga kering dan teh herbal.",
+    "manfaat": "Bunga potong, bunga kering (everlasting), teh herbal.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah biasa dengan drainase baik."
+    },
+    "asal": "Amerika Tengah (sangat populer di Asia)",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  }
+]

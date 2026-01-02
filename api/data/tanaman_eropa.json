@@ -1,0 +1,802 @@
+[
+  {
+    "id": 221,
+    "nama_tanaman": "Lavender",
+    "nama_latin": "Lavandula angustifolia",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Bayangkan ladang ungu yang tak berujung di Provence, Prancis. Itulah kekuatan visual Lavender. Lebih dari sekadar warna, aromanya yang menenangkan telah menjadikannya primadona dalam dunia aromaterapi, parfum, dan bahkan kuliner. Tanaman tangguh dari Mediterania ini adalah simbol ketenangan dan keanggunan pedesaan.",
+    "manfaat": "Aromaterapi (meredakan stres), minyak esensial, teh herbal, pengusir serangga alami.",
+    "cara_perawatan": {
+      "penyiraman": "Jarang; sangat tahan kekeringan. Biarkan tanah kering sepenuhnya.",
+      "cahaya": "Sinar matahari penuh (wajib untuk aroma dan bunga).",
+      "suhu": "Tahan panas, membutuhkan iklim kering.",
+      "media_tanam": "Tanah berpasir atau berkerikil dengan drainase sempurna."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "80 cm",
+    "tingkat_kesulitan": "Mudah (di iklim yang tepat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1596050380589-49b5a4cb55ba?w=600&q=80"
+  },
+  {
+    "id": 222,
+    "nama_tanaman": "Tulip",
+    "nama_latin": "Tulipa gesneriana",
+    "kategori": "Bunga Hias Musiman",
+    "deskripsi": "Meskipun berasal dari Asia Tengah, Tulip adalah bunga yang mendefinisikan musim semi di Eropa, terutama Belanda. Bentuknya yang sederhana namun elegan hadir dalam spektrum warna yang tak terbatas. Kisah 'Tulip Mania' di abad ke-17, di mana harga umbinya bisa setara dengan rumah, menjadi bukti pesonanya yang abadi.",
+    "manfaat": "Bunga potong, ikon musim semi, daya tarik wisata (Keukenhof).",
+    "cara_perawatan": {
+      "penyiraman": "Selama masa pertumbuhan aktif di musim semi.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Membutuhkan musim dingin yang sejuk untuk dormansi umbi.",
+      "media_tanam": "Tanah gembur dengan drainase baik."
+    },
+    "asal": "Eropa (dibudidayakan secara masif)",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Sedang (butuh iklim 4 musim)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1572454591674-2739f30d8c40?w=600&q=80"
+  },
+  {
+    "id": 223,
+    "nama_tanaman": "Rosemary",
+    "nama_latin": "Salvia rosmarinus",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Semak berkayu dari pesisir Mediterania ini memiliki daun seperti jarum yang melepaskan aroma pinus yang kuat saat diremas. Dalam kuliner, Rosemary adalah sahabat dari daging panggang dan kentang. Secara tradisional, ia dianggap sebagai simbol ingatan.",
+    "manfaat": "Bumbu masakan (terutama daging panggang), meningkatkan memori.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, jangan terlalu sering disiram.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tahan panas dan iklim kering.",
+      "media_tanam": "Tanah berpasir dengan drainase sangat baik."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 50000,
+    "gambar_url": "https://images.unsplash.com/photo-1615485925792-74d39f697415?w=600&q=80"
+  },
+  {
+    "id": 224,
+    "nama_tanaman": "Pohon Zaitun (Olive)",
+    "nama_latin": "Olea europaea",
+    "kategori": "Pohon Buah Ikonik",
+    "deskripsi": "Dengan batangnya yang keriput dan daun peraknya yang berkilauan, pohon Zaitun adalah simbol perdamaian, kebijaksanaan, dan Mediterania itu sendiri. Beberapa pohon Zaitun dapat hidup selama ribuan tahun. Dari buahnya yang pahit dihasilkan 'emas cair' yaitu minyak zaitun, pilar dari diet Mediterania yang sehat.",
+    "manfaat": "Sumber buah untuk minyak zaitun, simbol perdamaian.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh dan musim panas yang panjang.",
+      "suhu": "Iklim panas dan kering.",
+      "media_tanam": "Tanah berbatu dengan drainase sempurna."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 400000,
+    "gambar_url": "https://images.unsplash.com/photo-1473215682181-4221a719c8f2?w=600&q=80"
+  },
+  {
+    "id": 225,
+    "nama_tanaman": "English Oak (Pohon Ek)",
+    "nama_latin": "Quercus robur",
+    "kategori": "Pohon Ikonik",
+    "deskripsi": "Pohon Ek adalah raja hutan Eropa, simbol kekuatan, daya tahan, dan umur panjang. Kayunya yang sangat kuat telah membangun kapal perang dan katedral. Di bawah kanopinya yang lebar, ekosistem yang kaya berkembang, dengan biji acorn-nya menjadi makanan vital bagi banyak satwa liar.",
+    "manfaat": "Sumber kayu keras berkualitas, peneduh, ikon lanskap Inggris.",
+    "cara_perawatan": {
+      "penyiraman": "Tidak perlu setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tanah hutan yang dalam dan subur."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "40 meter",
+    "tingkat_kesulitan": "Sulit (tumbuh sangat lambat, butuh ruang)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 300000,
+    "gambar_url": "https://images.unsplash.com/photo-1521990499299-6e3e15777176?w=600&q=80"
+  },
+  {
+    "id": 226,
+    "nama_tanaman": "Edelweiss",
+    "nama_latin": "Leontopodium nivale",
+    "kategori": "Bunga Pegunungan",
+    "deskripsi": "Bunga liar yang menjadi legenda Pegunungan Alpen. Edelweiss tumbuh di dataran tinggi yang ekstrem, di antara bebatuan kapur. Bunganya yang seperti bintang ditutupi oleh bulu-bulu wol putih, sebuah adaptasi untuk melindunginya dari dingin dan radiasi UV. Bunga ini melambangkan keberanian dan cinta sejati.",
+    "manfaat": "Simbol Pegunungan Alpen, bunga yang dilindungi.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat sedikit, benci genangan air.",
+      "cahaya": "Sinar matahari penuh di ketinggian.",
+      "suhu": "Iklim pegunungan yang sejuk hingga dingin.",
+      "media_tanam": "Tanah berpasir dan berbatu (alkaline)."
+    },
+    "asal": "Eropa (Pegunungan Alpen, Pyrenees)",
+    "tinggi_maksimal": "20 cm",
+    "tingkat_kesulitan": "Sangat Sulit (butuh iklim spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1596323605869-7ee4a161c15f?w=600&q=80"
+  },
+  {
+    "id": 227,
+    "nama_tanaman": "Anggur (Grape Vine)",
+    "nama_latin": "Vitis vinifera",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Dari tanaman rambat inilah lahir minuman yang telah membentuk peradaban: anggur (wine). Selama ribuan tahun, petani di seluruh Eropa telah membudidayakan anggur, mengubah lereng bukit menjadi pemandangan kebun yang menakjubkan. Setiap daerah, dari Bordeaux hingga Tuscany, menghasilkan anggur dengan karakter unik.",
+    "manfaat": "Sumber buah untuk wine, jus, dan dimakan segar.",
+    "cara_perawatan": {
+      "penyiraman": "Siram secara mendalam namun tidak sering.",
+      "cahaya": "Sinar matahari penuh (wajib untuk kemanisan).",
+      "suhu": "Musim panas yang hangat dan musim dingin yang sejuk.",
+      "media_tanam": "Tanah berbatu dengan drainase sempurna."
+    },
+    "asal": "Eropa (Mediterania), Asia Barat",
+    "tinggi_maksimal": "15 meter (merambat)",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1554580665-27a3a921d723?w=600&q=80"
+  },
+  {
+    "id": 228,
+    "nama_tanaman": "Scots Pine (Pinus Skotlandia)",
+    "nama_latin": "Pinus sylvestris",
+    "kategori": "Pohon Konifer",
+    "deskripsi": "Satu-satunya pohon pinus asli Inggris Raya, Pinus Skotlandia adalah penyintas yang tangguh. Batang bagian atasnya yang berwarna oranye-merah yang khas dan siluetnya yang seringkali bengkok oleh angin menjadi pemandangan ikonik di Dataran Tinggi Skotlandia. Pohon ini adalah bagian dari hutan purba Caledonia.",
+    "manfaat": "Sumber kayu pinus, ikon lanskap Skotlandia.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Sangat tahan terhadap dingin dan embun beku.",
+      "media_tanam": "Tanah masam dan miskin nutrisi."
+    },
+    "asal": "Eropa Utara, Skotlandia",
+    "tinggi_maksimal": "35 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1566442805470-3d750c333068?w=600&q=80"
+  },
+  {
+    "id": 229,
+    "nama_tanaman": "Thyme",
+    "nama_latin": "Thymus vulgaris",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Herbal mungil ini melepaskan aroma Mediterania yang hangat dan sedikit pedas. Daun-daun kecilnya adalah bumbu esensial dalam masakan Prancis dan Italia, terutama untuk sup, semur, dan daging panggang. Thyme juga memiliki sejarah panjang sebagai tanaman obat karena sifat antiseptiknya.",
+    "manfaat": "Bumbu masakan, antiseptik alami, menarik lebah.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tahan panas.",
+      "media_tanam": "Tanah kering dan berbatu."
+    },
+    "asal": "Eropa Selatan",
+    "tinggi_maksimal": "30 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 35000,
+    "gambar_url": "https://images.unsplash.com/photo-1625938887640-df04892c556b?w=600&q=80"
+  },
+  {
+    "id": 230,
+    "nama_tanaman": "Common Poppy (Bunga Opium)",
+    "nama_latin": "Papaver somniferum",
+    "kategori": "Tanaman Bunga & Obat",
+    "deskripsi": "Bunga Poppy memiliki keindahan yang rapuh dan sejarah yang kompleks. Kelopaknya yang tipis seperti kertas hadir dalam warna merah, pink, atau putih. Dari getah buahnya yang belum matang dihasilkan opium, sumber dari morfin dan heroin. Di banyak negara, poppy merah menjadi simbol peringatan bagi para tentara yang gugur dalam perang.",
+    "manfaat": "Simbol peringatan, sumber senyawa untuk obat pereda nyeri (morfin).",
+    "cara_perawatan": {
+      "penyiraman": "Tidak perlu banyak air.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tanah gembur. Penanamannya diatur secara hukum di banyak negara."
+    },
+    "asal": "Eropa Selatan, Mediterania",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah (penanamannya ilegal di banyak tempat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1525547633212-32a225916d54?w=600&q=80"
+  },
+  {
+    "id": 231,
+    "nama_tanaman": "Foxglove",
+    "nama_latin": "Digitalis purpurea",
+    "kategori": "Tanaman Bunga & Obat",
+    "deskripsi": "Foxglove adalah tanaman dongeng yang indah namun mematikan. Tangkai bunganya yang tinggi dihiasi oleh bunga-bunga berbentuk lonceng dengan bintik-bintik di dalamnya, seolah mengundang lebah untuk masuk. Namun, seluruh bagian tanaman ini mengandung digitalis, senyawa yang sangat beracun namun juga merupakan obat jantung yang penting.",
+    "manfaat": "Bunga hias yang dramatis, sumber senyawa obat jantung (digitalis).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan tanah yang lembap.",
+      "cahaya": "Teduh parsial, di bawah pohon.",
+      "suhu": "Iklim sedang yang sejuk.",
+      "media_tanam": "Tanah hutan yang kaya humus. (PERINGATAN: SANGAT BERACUN)"
+    },
+    "asal": "Eropa Barat",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1593348612140-5e3a89304724?w=600&q=80"
+  },
+  {
+    "id": 232,
+    "nama_tanaman": "Daffodil",
+    "nama_latin": "Narcissus",
+    "kategori": "Bunga Hias Musiman",
+    "deskripsi": "Saat bunga Daffodil yang berwarna kuning cerah mulai mekar, itu adalah pertanda pasti bahwa musim dingin telah berakhir dan musim semi telah tiba. Bunga berbentuk terompet ini adalah salah satu bunga umbi yang paling ceria dan mudah dirawat, membawa harapan dan kebahagiaan setelah musim yang gelap.",
+    "manfaat": "Tanda datangnya musim semi, bunga potong, naturalisasi di taman.",
+    "cara_perawatan": {
+      "penyiraman": "Selama masa pertumbuhan.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "Membutuhkan musim dingin untuk dormansi.",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Eropa Barat",
+    "tinggi_maksimal": "40 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1553531580-652231dae097?w=600&q=80"
+  },
+  {
+    "id": 233,
+    "nama_tanaman": "Silver Birch (Pohon Betula Perak)",
+    "nama_latin": "Betula pendula",
+    "kategori": "Pohon Hias",
+    "deskripsi": "Pohon Birch Perak adalah keanggunan di hutan utara. Batangnya yang putih ramping dengan aksen hitam dan cabangnya yang menjuntai menciptakan penampilan yang lembut. Daun kecilnya yang bergetar tertiup angin dan berubah menjadi kuning keemasan di musim gugur. Pohon ini adalah simbol pembaharuan dan awal yang baru.",
+    "manfaat": "Pohon hias, kulit kayunya anti-air, ikon lanskap Eropa Utara.",
+    "cara_perawatan": {
+      "penyiraman": "Adaptif, tapi suka tanah lembap.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Sangat tahan dingin.",
+      "media_tanam": "Tanah ringan dengan drainase baik."
+    },
+    "asal": "Eropa, Asia Utara",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 280000,
+    "gambar_url": "https://images.unsplash.com/photo-1469041240356-9ce838a6ba7d?w=600&q=80"
+  },
+  {
+    "id": 234,
+    "nama_tanaman": "Sage",
+    "nama_latin": "Salvia officinalis",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Dengan daun beludru berwarna abu-abu kehijauan, Sage adalah herbal Mediterania dengan aroma yang kuat dan sedikit pedas. Ia adalah bumbu klasik untuk hidangan berlemak seperti babi dan unggas, karena dipercaya dapat membantu pencernaan. Dalam tradisi kuno, membakar sage digunakan untuk membersihkan energi negatif.",
+    "manfaat": "Bumbu masakan, membantu pencernaan, pembersih spiritual (smudging).",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tahan panas.",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 40000,
+    "gambar_url": "https://images.unsplash.com/photo-1554316027-f4174c828065?w=600&q=80"
+  },
+  {
+    "id": 235,
+    "nama_tanaman": "Oregano",
+    "nama_latin": "Origanum vulgare",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Tidak ada pizza atau saus pasta Italia yang lengkap tanpa aroma Oregano. Herbal tangguh ini tumbuh liar di perbukitan Yunani dan Italia. Rasanya yang hangat dan sedikit pahit menjadi lebih kuat saat dikeringkan. Selain sebagai bumbu, minyaknya juga dikenal memiliki sifat antibakteri yang kuat.",
+    "manfaat": "Bumbu utama masakan Italia dan Yunani, antibakteri alami.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tahan panas.",
+      "media_tanam": "Tanah kering dan berbatu."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 35000,
+    "gambar_url": "https://images.unsplash.com/photo-1591524317920-5c6d36e2f69e?w=600&q=80"
+  },
+  {
+    "id": 236,
+    "nama_tanaman": "Apel",
+    "nama_latin": "Malus domestica",
+    "kategori": "Pohon Buah",
+    "deskripsi": "Buah apel modern adalah hasil persilangan yang berasal dari nenek moyang liarnya di Asia Tengah, namun telah menjadi buah paling ikonik dari iklim sedang di Eropa dan Amerika. Dari varietas Granny Smith yang asam hingga Gala yang manis, apel adalah buah yang serbaguna dan bergizi.",
+    "manfaat": "Buah konsumsi, bahan pai apel, sari apel (cider).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Membutuhkan musim dingin yang dingin.",
+      "media_tanam": "Tanah lempung yang subur."
+    },
+    "asal": "Eropa (budidaya), Asia Tengah (asal)",
+    "tinggi_maksimal": "8 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 200000,
+    "gambar_url": "https://images.unsplash.com/photo-1589218436045-ee9f386267f8?w=600&q=80"
+  },
+  {
+    "id": 237,
+    "nama_tanaman": "Holly",
+    "nama_latin": "Ilex aquifolium",
+    "kategori": "Tanaman Hias Musiman",
+    "deskripsi": "Dengan daun hijau tua berduri yang mengkilap dan buah beri merah cerah, Holly adalah dekorasi Natal yang paling klasik. Tanaman ini tetap hijau sepanjang musim dingin, memberikan harapan dan warna di tengah lanskap yang muram. Buah berinya beracun bagi manusia tetapi menjadi makanan penting bagi burung.",
+    "manfaat": "Dekorasi Natal tradisional, sumber makanan musim dingin bagi burung.",
+    "cara_perawatan": {
+      "penyiraman": "Adaptif.",
+      "cahaya": "Sinar matahari penuh atau teduh.",
+      "suhu": "Tahan dingin.",
+      "media_tanam": "Tanah yang agak masam."
+    },
+    "asal": "Eropa, Afrika Utara, Asia Barat",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1577443195252-c322d7d6f51c?w=600&q=80"
+  },
+  {
+    "id": 238,
+    "nama_tanaman": "Mistletoe",
+    "nama_latin": "Viscum album",
+    "kategori": "Tanaman Parasit",
+    "deskripsi": "Mistletoe adalah tanaman semi-parasit yang tumbuh di cabang pohon lain. Ia memiliki tradisi kuno dalam paganisme Eropa dan kini terkenal sebagai dekorasi Natal, di mana berdiri di bawahnya adalah undangan untuk berciuman. Buah berinya yang berwarna putih lengket dan disebarkan oleh burung.",
+    "manfaat": "Dekorasi Natal tradisional, nilai budaya.",
+    "cara_perawatan": {
+      "penyiraman": "Mengambil air dari pohon inangnya.",
+      "cahaya": "Di kanopi pohon.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tumbuh di pohon inang."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "1 meter (rumpun)",
+    "tingkat_kesulitan": "Sangat Sulit (tumbuh secara alami)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1576402832822-482a8747bf62?w=600&q=80"
+  },
+  {
+    "id": 239,
+    "nama_tanaman": "Heather (Calluna)",
+    "nama_latin": "Calluna vulgaris",
+    "kategori": "Tanaman Semak",
+    "deskripsi": "Tanaman semak rendah ini mengubah perbukitan dan padang rumput di Skotlandia dan Eropa Utara menjadi lautan ungu di akhir musim panas. Ketahanannya terhadap angin dan tanah yang miskin nutrisi membuatnya menjadi pemandangan yang ikonik. Madu yang dihasilkan dari bunga heather sangat dihargai.",
+    "manfaat": "Menutupi lanskap, sumber madu heather.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sejuk dan berangin.",
+      "media_tanam": "Tanah masam dan miskin nutrisi."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Mudah (di iklim yang tepat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 90000,
+    "gambar_url": "https://images.unsplash.com/photo-1601389334812-70b106294747?w=600&q=80"
+  },
+  {
+    "id": 240,
+    "nama_tanaman": "Elderflower (Bunga Elder)",
+    "nama_latin": "Sambucus nigra",
+    "kategori": "Tanaman Bunga & Buah",
+    "deskripsi": "Di awal musim panas, semak Elder dipenuhi oleh payung-payung bunga putih krem yang harum. Bunga-bunga ini diolah menjadi sirup dan minuman bersoda yang sangat menyegarkan. Kemudian di musim gugur, ia menghasilkan buah beri hitam kecil (elderberry) yang kaya vitamin C dan diolah menjadi selai atau sirup obat flu.",
+    "manfaat": "Bunga untuk sirup, buahnya (elderberry) untuk suplemen kesehatan.",
+    "cara_perawatan": {
+      "penyiraman": "Tumbuh liar, sangat adaptif.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tumbuh di mana saja."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 120000,
+    "gambar_url": "https://images.unsplash.com/photo-1595085698941-86a011270557?w=600&q=80"
+  },
+  {
+    "id": 241,
+    "nama_tanaman": "Hops",
+    "nama_latin": "Humulus lupulus",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Bunga betina dari tanaman merambat inilah yang memberikan rasa pahit, aroma, dan efek pengawet pada bir. Tanpa hops, bir modern tidak akan ada. Di akhir musim panas, kebun-kebun hops di Jerman dan Inggris dipenuhi oleh 'kerucut' hijau pucat yang harum ini.",
+    "manfaat": "Bahan utama pembuatan bir.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air.",
+      "cahaya": "Sinar matahari penuh, butuh teralis tinggi.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tanah yang subur."
+    },
+    "asal": "Eropa, Asia Barat",
+    "tinggi_maksimal": "8 meter (merambat)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 242,
+    "nama_tanaman": "Italian Cypress",
+    "nama_latin": "Cupressus sempervirens",
+    "kategori": "Pohon Hias",
+    "deskripsi": "Tidak ada yang lebih menggambarkan lanskap Tuscany selain barisan pohon Cypress yang ramping dan menjulang tinggi seperti menara. Siluetnya yang sangat sempit dan hijau tua menciptakan aksen vertikal yang dramatis di perbukitan Italia dan Yunani.",
+    "manfaat": "Pohon peneduh jalan yang arsitektural, penahan angin.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim panas dan kering.",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Eropa (Mediterania Timur)",
+    "tinggi_maksimal": "35 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 350000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 243,
+    "nama_tanaman": "Chamomile Jerman",
+    "nama_latin": "Matricaria chamomilla",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Bunga daisy kecil ini memiliki aroma seperti apel manis dan dikenal luas sebagai teh herbal yang menenangkan. Secangkir teh chamomile hangat sebelum tidur telah menjadi ritual relaksasi selama berabad-abad, membantu meredakan kecemasan dan mempermudah tidur.",
+    "manfaat": "Teh herbal yang menenangkan, membantu tidur.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Sangat mudah tumbuh, menyebar sendiri."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 30000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 244,
+    "nama_tanaman": "English Ivy",
+    "nama_latin": "Hedera helix",
+    "kategori": "Tanaman Merambat",
+    "deskripsi": "Tanaman merambat yang sangat kuat ini mampu menutupi dinding kastil-kastil kuno, memberikan nuansa romantis dan abadi. Daunnya yang hijau tua dan berbentuk khas menjadikannya tanaman penutup tanah atau dinding yang populer. Namun, ia bisa menjadi sangat invasif jika tidak dikontrol.",
+    "manfaat": "Penutup dinding atau tanah.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat toleran berbagai kondisi.",
+      "cahaya": "Tumbuh subur di tempat teduh.",
+      "suhu": "Sangat tahan dingin.",
+      "media_tanam": "Sangat adaptif, tidak pemilih."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "25 meter (merambat)",
+    "tingkat_kesulitan": "Sangat Mudah (cenderung invasif)",
+    "kategori_cahaya": "Teduh / Outdoor",
+    "harga_perkiraan": 40000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 245,
+    "nama_tanaman": "Snowdrop",
+    "nama_latin": "Galanthus nivalis",
+    "kategori": "Bunga Hias Musiman",
+    "deskripsi": "Snowdrop adalah pejuang pertama musim semi. Bunga kecilnya yang berwarna putih dan menjuntai seperti tetesan susu mampu menembus lapisan salju terakhir di akhir musim dingin. Kemunculannya adalah janji bahwa hari-hari yang lebih hangat akan segera tiba.",
+    "manfaat": "Tanda pertama musim semi.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan tanah lembap.",
+      "cahaya": "Di bawah pohon gugur (mendapat sinar sebelum daun pohon tumbuh).",
+      "suhu": "Membutuhkan musim dingin bersalju.",
+      "media_tanam": "Tanah hutan yang lembap."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "15 cm",
+    "tingkat_kesulitan": "Mudah (di iklim yang tepat)",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 246,
+    "nama_tanaman": "English Bluebell",
+    "nama_latin": "Hyacinthoides non-scripta",
+    "kategori": "Bunga Liar",
+    "deskripsi": "Di bulan April dan Mei, lantai hutan-hutan kuno di Inggris Raya bertransformasi menjadi karpet biru-ungu yang magis berkat mekarnya jutaan bunga Bluebell. Pemandangan dan aromanya yang manis adalah salah satu keajaiban alam paling spektakuler di negara itu.",
+    "manfaat": "Daya tarik wisata alam, bunga liar yang dilindungi.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan tanah hutan yang lembap.",
+      "cahaya": "Teduh di bawah kanopi hutan.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tanah hutan yang kaya humus."
+    },
+    "asal": "Eropa Barat (terutama Inggris)",
+    "tinggi_maksimal": "40 cm",
+    "tingkat_kesulitan": "Sedang (spesifik habitat)",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 247,
+    "nama_tanaman": "Gandum",
+    "nama_latin": "Triticum aestivum",
+    "kategori": "Tanaman Pangan Global",
+    "deskripsi": "Dari biji rumput inilah lahir roti, pasta, dan kue. Gandum adalah sereal paling penting di iklim sedang dan telah menjadi pilar peradaban Barat selama ribuan tahun. Ladang gandum yang keemasan tertiup angin adalah pemandangan khas pedesaan Eropa di musim panas.",
+    "manfaat": "Sumber utama tepung untuk roti dan pasta.",
+    "cara_perawatan": {
+      "penyiraman": "Mengandalkan curah hujan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tanah lempung yang subur."
+    },
+    "asal": "Timur Tengah (dibudidayakan di Eropa sejak prasejarah)",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah (skala besar)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 248,
+    "nama_tanaman": "Kubis",
+    "nama_latin": "Brassica oleracea",
+    "kategori": "Sayuran Daun",
+    "deskripsi": "Dari satu spesies liar di pesisir Eropa, manusia telah membudidayakannya menjadi berbagai macam sayuran yang luar biasa: kubis, kembang kol, brokoli, kale, dan kohlrabi semuanya berasal dari nenek moyang yang sama. Kubis sendiri adalah sayuran musim dingin yang vital, diolah menjadi hidangan seperti sauerkraut.",
+    "manfaat": "Sayuran bergizi, bahan dasar sauerkraut dan coleslaw.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air yang konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tumbuh terbaik di cuaca sejuk.",
+      "media_tanam": "Tanah subur kaya nitrogen."
+    },
+    "asal": "Eropa (pesisir)",
+    "tinggi_maksimal": "40 cm (diameter)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 249,
+    "nama_tanaman": "Clover (Semanggi)",
+    "nama_latin": "Trifolium repens",
+    "kategori": "Tanaman Penutup Tanah",
+    "deskripsi": "Tanaman kecil ini sering dianggap gulma, namun sangat bermanfaat. Ia mampu mengikat nitrogen dari udara dan menyuburkan tanah. Bunga putihnya adalah sumber nektar penting bagi lebah. Semanggi berdaun empat (mutasi langka) dianggap sebagai jimat keberuntungan di Irlandia.",
+    "manfaat": "Menyuburkan tanah, pakan ternak, simbol keberuntungan.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat adaptif.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tumbuh di mana saja."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "20 cm (merayap)",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 5000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 250,
+    "nama_tanaman": "Buah Pir",
+    "nama_latin": "Pyrus",
+    "kategori": "Pohon Buah",
+    "deskripsi": "Buah Pir memiliki tekstur yang unik, sedikit 'berpasir' (gritty) namun berair dengan rasa manis yang lembut. Pohonnya juga indah, menghasilkan bunga-bunga putih yang melimpah di musim semi. Pir sering dinikmati segar, direbus dalam anggur, atau dijadikan bahan pai.",
+    "manfaat": "Buah konsumsi, sumber serat.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Membutuhkan musim dingin yang dingin.",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Eropa, Asia",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 220000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 251,
+    "nama_tanaman": "Buah Ceri",
+    "nama_latin": "Prunus avium",
+    "kategori": "Pohon Buah",
+    "deskripsi": "Buah ceri merah yang mengkilap adalah hadiah pertama musim panas. Rasa manisnya yang kaya menjadikannya favorit untuk dimakan segar langsung dari pohon. Pohonnya sendiri menghasilkan salah satu pemandangan bunga musim semi terindah, seringkali menyaingi kerabatnya, Sakura.",
+    "manfaat": "Buah konsumsi, bunga musim semi yang indah.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh air cukup, terutama saat berbuah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Membutuhkan musim dingin yang dingin.",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Eropa, Asia Barat",
+    "tinggi_maksimal": "12 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 252,
+    "nama_tanaman": "Fig (Buah Tin)",
+    "nama_latin": "Ficus carica",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Buah Tin adalah salah satu buah tertua yang dibudidayakan manusia. Buahnya yang unik sebenarnya adalah bunga terbalik. Dagingnya yang lembut dan sangat manis dipenuhi oleh biji-biji kecil yang renyah. Di Mediterania, tidak ada taman yang lengkap tanpa pohon Tin.",
+    "manfaat": "Buah kaya serat dan mineral, daunnya dapat dijadikan teh.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh dan panas.",
+      "suhu": "Iklim Mediterania.",
+      "media_tanam": "Sangat adaptif, suka tanah berbatu."
+    },
+    "asal": "Asia Barat, Mediterania",
+    "tinggi_maksimal": "8 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 253,
+    "nama_tanaman": "Parsley (Peterseli)",
+    "nama_latin": "Petroselinum crispum",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Peterseli adalah herbal yang sering diremehkan sebagai hiasan (garnish), padahal rasanya yang segar dan 'bersih' mampu menyeimbangkan dan mencerahkan hidangan yang berat. Daunnya kaya akan vitamin K dan C.",
+    "manfaat": "Garnish dan penyegar masakan, kaya vitamin.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "Tumbuh baik di cuaca sejuk.",
+      "media_tanam": "Tanah yang subur."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "30 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 254,
+    "nama_tanaman": "Mint",
+    "nama_latin": "Mentha",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Sensasi dingin menyegarkan dari mentol menjadikan mint salah satu herbal paling populer di dunia. Dari teh mint Maroko yang manis hingga saus mint Inggris untuk domba panggang, atau mojito Kuba, keserbagunaan mint tidak terbatas. Sangat mudah tumbuh dan cenderung invasif.",
+    "manfaat": "Penyegar napas, bahan minuman, saus, aromaterapi.",
+    "cara_perawatan": {
+      "penyiraman": "Suka tanah yang lembap.",
+      "cahaya": "Sinar matahari parsial.",
+      "suhu": "Sangat adaptif.",
+      "media_tanam": "Sebaiknya ditanam di pot untuk mengontrol penyebarannya."
+    },
+    "asal": "Eropa, Asia",
+    "tinggi_maksimal": "60 cm (menyebar)",
+    "tingkat_kesulitan": "Sangat Mudah (invasif)",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 255,
+    "nama_tanaman": "Carnation (Anyelir)",
+    "nama_latin": "Dianthus caryophyllus",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Anyelir adalah bunga potong klasik dengan sejarah panjang. Kelopaknya yang berkerut dan seringkali memiliki aroma pedas seperti cengkeh membuatnya populer selama berabad-abad. Bunga ini sering diasosiasikan dengan cinta ibu dan menjadi bunga utama untuk Hari Ibu di banyak negara.",
+    "manfaat": "Bunga potong yang tahan lama, simbol cinta.",
+    "cara_perawatan": {
+      "penyiraman": "Jangan terlalu sering, hindari daun basah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sejuk.",
+      "media_tanam": "Tanah alkalin dengan drainase baik."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "80 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 35000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 256,
+    "nama_tanaman": "Thistle (Onak)",
+    "nama_latin": "Cirsium",
+    "kategori": "Bunga Liar",
+    "deskripsi": "Meskipun sering dianggap sebagai gulma berduri, Thistle adalah simbol nasional Skotlandia. Menurut legenda, pasukan Viking yang menyelinap tanpa alas kaki menginjak onak ini dan teriakan mereka membangunkan para prajurit Skotlandia, menyelamatkan negara. Bunganya yang ungu adalah sumber nektar penting.",
+    "manfaat": "Simbol nasional Skotlandia, sumber nektar bagi lebah.",
+    "cara_perawatan": {
+      "penyiraman": "Tumbuh liar.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Sangat tangguh.",
+      "media_tanam": "Tumbuh di mana saja."
+    },
+    "asal": "Eropa",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 257,
+    "nama_tanaman": "Cork Oak (Ek Gabus)",
+    "nama_latin": "Quercus suber",
+    "kategori": "Pohon Industri",
+    "deskripsi": "Pohon Ek ini memiliki kulit kayu yang luar biasa tebal, ringan, dan anti-air. Kulit inilah yang dipanen secara berkelanjutan (tanpa menebang pohon) untuk dijadikan gabus (cork), terutama sebagai penyumbat botol anggur. Hutan Ek Gabus di Portugal dan Spanyol adalah hotspot keanekaragaman hayati.",
+    "manfaat": "Sumber gabus alami yang terbarukan.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim Mediterania.",
+      "media_tanam": "Tanah yang agak masam."
+    },
+    "asal": "Eropa (Portugal, Spanyol)",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sulit (tumbuh lambat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 258,
+    "nama_tanaman": "Snapdragon",
+    "nama_latin": "Antirrhinum majus",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Bunga ini adalah favorit anak-anak. Jika bunganya ditekan dari samping, ia akan membuka dan menutup seperti mulut naga yang sedang berbicara. Bunga-bunga ini tersusun pada tangkai yang tinggi dan hadir dalam berbagai warna cerah.",
+    "manfaat": "Bunga potong, bunga hias yang interaktif.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tumbuh baik di cuaca sejuk.",
+      "media_tanam": "Tanah yang subur."
+    },
+    "asal": "Eropa (Mediterania)",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 30000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 259,
+    "nama_tanaman": "Basil",
+    "nama_latin": "Ocimum basilicum",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Aroma basil yang manis dan sedikit pedas adalah jiwa dari pesto Italia dan topping wajib untuk pizza Margherita. Meskipun berasal dari Asia, herbal ini telah menjadi bagian tak terpisahkan dari kuliner Mediterania. Sangat mudah ditanam di pot di ambang jendela yang cerah.",
+    "manfaat": "Bumbu utama masakan Italia, mudah ditanam di pot.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Membutuhkan banyak sinar matahari.",
+      "suhu": "Suka cuaca hangat.",
+      "media_tanam": "Tanah pot yang subur."
+    },
+    "asal": "Asia (menyatu dengan kuliner Eropa)",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 260,
+    "nama_tanaman": "Leek (Bawang Perai)",
+    "nama_latin": "Allium ampeloprasum",
+    "kategori": "Sayuran Umbi",
+    "deskripsi": "Berkerabat dengan bawang merah dan bawang putih, Leek memiliki rasa bawang yang jauh lebih lembut dan manis. Bagian batangnya yang berwarna putih dan hijau muda adalah yang biasa digunakan, menjadi bahan dasar sup klasik seperti 'vichyssoise' atau 'cock-a-leekie'. Ia adalah simbol nasional Wales.",
+    "manfaat": "Sayuran untuk sup dan semur, simbol nasional Wales.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tumbuh terbaik di cuaca sejuk.",
+      "media_tanam": "Tanah yang sangat subur dan digemburkan dalam."
+    },
+    "asal": "Mediterania",
+    "tinggi_maksimal": "80 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 71,
+    "nama_tanaman": "Eucalyptus Pelangi",
+    "nama_latin": "Eucalyptus deglupta",
+    "kategori": "Pohon Ikonik",
+    "deskripsi": "Salah satu pohon paling menakjubkan di dunia. Eucalyptus Pelangi adalah kanvas hidup. Kulit batangnya mengelupas secara berkala, menyingkap lapisan baru berwarna hijau cerah yang kemudian berubah menjadi biru, ungu, oranye, dan merah marun. Pohon ini adalah satu-satunya Eucalyptus yang habitat aslinya meluas hingga belahan bumi utara.",
+    "manfaat": "Pohon peneduh yang sangat artistik, produksi pulp kertas.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air, terutama saat masih muda.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C (iklim tropis basah).",
+      "media_tanam": "Tanah subur yang menahan kelembapan."
+    },
+    "asal": "Papua, Sulawesi, Mindanao (menyebar ke utara Australia)",
+    "tinggi_maksimal": "70 meter",
+    "tingkat_kesulitan": "Sedang (butuh ruang dan air)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 72,
+    "nama_tanaman": "Golden Wattle",
+    "nama_latin": "Acacia pycnantha",
+    "kategori": "Bunga Nasional",
+    "deskripsi": "Sebagai lambang floral resmi Australia, Golden Wattle adalah perayaan keceriaan. Di akhir musim dingin, pohon kecil ini meledak dengan ribuan bunga kuning keemasan berbentuk pom-pom yang cerah dan harum. Warnanya yang mencolok melambangkan optimisme dan ketahanan rakyat Australia.",
+    "manfaat": "Simbol nasional, menarik lebah dan penyerbuk, fiksasi nitrogen di tanah.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "18-30°C",
+      "media_tanam": "Sangat adaptif, suka tanah dengan drainase baik."
+    },
+    "asal": "Australia Tenggara",
+    "tinggi_maksimal": "8 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 73,
+    "nama_tanaman": "Waratah",
+    "nama_latin": "Telopea speciosissima",
+    "kategori": "Bunga Unik",
+    "deskripsi": "Waratah adalah bunga yang megah dan dramatis, menjadi lambang floral negara bagian New South Wales. Bunga merahnya yang besar dan padat, dikelilingi oleh seludang berwarna senada, menciptakan siluet yang tak terlupakan. Nama 'Waratah' berasal dari bahasa suku Aborigin Eora yang berarti 'terlihat dari jauh'.",
+    "manfaat": "Bunga potong premium, menarik burung pemakan madu.",
+    "cara_perawatan": {
+      "penyiraman": "Siram secara mendalam dan jarang, butuh drainase sempurna.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "15-25°C",
+      "media_tanam": "Tanah berpasir yang agak masam."
+    },
+    "asal": "New South Wales, Australia",
+    "tinggi_maksimal": "4 meter",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 400000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 74,
+    "nama_tanaman": "Kangaroo Paw (Cakar Kanguru)",
+    "nama_latin": "Anigozanthos",
+    "kategori": "Bunga Unik",
+    "deskripsi": "Bentuk bunganya yang unik dan berbulu seperti beludru benar-benar menyerupai cakar kanguru. Tanaman ini hadir dalam berbagai warna cerah, dari merah, hijau, hingga kuning. Nektarnya yang melimpah menjadikannya sumber makanan penting bagi burung-burung asli Australia.",
+    "manfaat": "Menarik burung, bunga potong yang tahan lama, tanaman hias eksotis.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah kering, hindari daun basah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah sangat porous, idealnya berpasir."
+    },
+    "asal": "Australia Barat",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 75,
+    "nama_tanaman": "Banksia",
+    "nama_latin": "Banksia",
+    "kategori": "Bunga Unik",
+    "deskripsi": "Banksia adalah esensi dari semak belukar Australia. Perbungaannya yang besar dan padat seperti sikat botol atau lilin raksasa, terdiri dari ratusan hingga ribuan bunga kecil. Setelah layu, ia meninggalkan buah kerucut kayu yang ikonik, yang hanya akan melepaskan bijinya setelah dipicu oleh api kebakaran hutan.",
+    "manfaat": "Menarik satwa liar (burung, possum), bunga potong kering, simbol adaptasi api.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah miskin nutrisi dengan drainase sempurna."
+    },
+    "asal": "Australia (terutama Australia Barat dan Timur)",
+    "tinggi_maksimal": "10 meter (tergantung jenis)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 220000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 76,
+    "nama_tanaman": "Pohon Teh (Tea Tree)",
+    "nama_latin": "Melaleuca alternifolia",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Dari daun pohon inilah minyak esensial 'tea tree' yang terkenal diekstrak. Tanaman ini memiliki sifat antiseptik, anti-jamur, dan anti-bakteri yang kuat. Suku Aborigin telah lama menggunakan daunnya yang diremas untuk mengobati luka dan infeksi kulit.",
+    "manfaat": "Sumber minyak atsiri tea tree, sifat antiseptik alami.",
+    "cara_perawatan": {
+      "penyiraman": "Suka tanah yang lembap atau bahkan tergenang.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "22-30°C",
+      "media_tanam": "Tumbuh di area rawa atau tepi sungai."
+    },
+    "asal": "New South Wales, Australia",
+    "tinggi_maksimal": "7 meter",
+    "tingkat_kesulitan": "Mudah (di lokasi basah)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 130000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 77,
+    "nama_tanaman": "Grevillea (Bunga Laba-laba)",
+    "nama_latin": "Grevillea",
+    "kategori": "Bunga Unik",
+    "deskripsi": "Bunga Grevillea tidak memiliki kelopak konvensional. Keindahannya terletak pada benang sari (stamen) yang panjang dan melengkung, menyerupai kaki laba-laba atau jepit rambut eksotis. Bunga-bunga ini menghasilkan nektar yang sangat melimpah, menjadikannya 'restoran' favorit bagi burung pemakan madu.",
+    "manfaat": "Sumber makanan utama bagi burung madu, ground cover, tanaman pagar.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase sangat baik."
+    },
+    "asal": "Australia",
+    "tinggi_maksimal": "5 meter (tergantung jenis)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 160000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 78,
+    "nama_tanaman": "Sturt's Desert Pea",
+    "nama_latin": "Swainsona formosa",
+    "kategori": "Bunga Padang Pasir",
+    "deskripsi": "Di tengah lanskap gersang pedalaman Australia, Sturt's Desert Pea mekar dengan warna merah darah yang menyala dan kontras dengan bagian tengah hitam mengkilap. Bunga ini adalah simbol keindahan yang lahir dari kesulitan, mampu tumbuh subur setelah hujan langka di gurun.",
+    "manfaat": "Simbol floral Australia Selatan, tanaman hias yang dramatis.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh periode kering, tidak suka kelembapan berlebih.",
+      "cahaya": "Sinar matahari penuh dan panas.",
+      "suhu": "25-40°C",
+      "media_tanam": "Tanah berpasir atau berbatu."
+    },
+    "asal": "Daerah kering dan gersang Australia",
+    "tinggi_maksimal": "2 meter (merambat di tanah)",
+    "tingkat_kesulitan": "Sangat Sulit (butuh kondisi spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 200000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 79,
+    "nama_tanaman": "Pohon Rumput (Grass Tree)",
+    "nama_latin": "Xanthorrhoea",
+    "kategori": "Tanaman Ikonik",
+    "deskripsi": "Pohon Rumput adalah fosil hidup yang tumbuh sangat lambat, beberapa spesimen diperkirakan berusia ratusan tahun. Batangnya yang menghitam (seringkali bekas terbakar api) menopang mahkota daun yang ramping seperti rumput. Sekali dalam beberapa tahun, ia akan menghasilkan tangkai bunga raksasa yang menjulang ke langit.",
+    "manfaat": "Simbol ketahanan lanskap Australia, lem/resin dari batangnya digunakan oleh suku Aborigin.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-35°C",
+      "media_tanam": "Tanah miskin nutrisi dengan drainase sempurna."
+    },
+    "asal": "Australia",
+    "tinggi_maksimal": "6 meter (setelah ratusan tahun)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 700000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 80,
+    "nama_tanaman": "Pohon Botol Queensland",
+    "nama_latin": "Brachychiton rupestris",
+    "kategori": "Pohon Unik",
+    "deskripsi": "Pohon ini memiliki adaptasi yang luar biasa terhadap kekeringan. Batangnya membengkak seperti botol raksasa untuk menyimpan air. Bentuknya yang unik dan lucu menjadikannya tanaman hias populer di taman-taman di seluruh dunia. Suku Aborigin memanfaatkan air yang tersimpan di dalamnya.",
+    "manfaat": "Menyimpan air, pohon hias arsitektural.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah dengan drainase sangat baik."
+    },
+    "asal": "Queensland, Australia",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 450000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 81,
+    "nama_tanaman": "Macadamia",
+    "nama_latin": "Macadamia integrifolia",
+    "kategori": "Pohon Kacang",
+    "deskripsi": "Hadiah Australia untuk dunia kuliner, kacang macadamia dikenal dengan rasanya yang gurih (buttery) dan teksturnya yang renyah. Cangkangnya adalah salah satu yang paling keras di dunia, membutuhkan alat khusus untuk membukanya. Pohonnya sendiri rimbun dan hijau sepanjang tahun.",
+    "manfaat": "Sumber kacang macadamia yang lezat dan bergizi.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah subur dan terlindung dari angin kencang."
+    },
+    "asal": "Queensland dan New South Wales, Australia",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 200000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 82,
+    "nama_tanaman": "Wollemi Pine (Pohon Dinosaurus)",
+    "nama_latin": "Wollemia nobilis",
+    "kategori": "Fosil Hidup",
+    "deskripsi": "Salah satu penemuan botani terhebat abad ke-20. Wollemi Pine dianggap punah dan hanya diketahui dari fosil berusia 200 juta tahun, hingga ditemukan hidup di sebuah ngarai rahasia pada tahun 1994. Ia memiliki daun hijau tua yang unik dan kulit batang 'berbuih' seperti cokelat.",
+    "manfaat": "Ikon konservasi global, tanaman koleksi langka.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga agar tidak kering, tapi juga jangan tergenang.",
+      "cahaya": "Sangat adaptif, dari teduh hingga sinar matahari penuh.",
+      "suhu": "Tahan terhadap berbagai suhu, termasuk beku ringan.",
+      "media_tanam": "Tanah pot berkualitas dengan drainase baik."
+    },
+    "asal": "New South Wales, Australia (lokasi rahasia)",
+    "tinggi_maksimal": "40 meter (di alam liar)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor / Indoor (jika cukup cahaya)",
+    "harga_perkiraan": 1000000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 83,
+    "nama_tanaman": "Pakis Pohon Australia",
+    "nama_latin": "Dicksonia antarctica",
+    "kategori": "Tanaman Pakis",
+    "deskripsi": "Berjalan di bawah rumpun Pakis Pohon ini terasa seperti kembali ke zaman prasejarah. Batangnya yang tebal dan berserat menopang mahkota daun pakis hijau yang anggun dan menjuntai, menciptakan kanopi yang teduh dan lembap. Pertumbuhannya sangat lambat.",
+    "manfaat": "Menciptakan nuansa hutan hujan, peneduh di taman.",
+    "cara_perawatan": {
+      "penyiraman": "Wajib menjaga batang dan tanah tetap lembap.",
+      "cahaya": "Teduh total, sangat tidak suka sinar matahari langsung.",
+      "suhu": "15-25°C (iklim sejuk).",
+      "media_tanam": "Tanah yang kaya humus dan menahan air."
+    },
+    "asal": "Australia Tenggara (Tasmania, Victoria)",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 500000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 84,
+    "nama_tanaman": "Lilly Pilly",
+    "nama_latin": "Syzygium smithii",
+    "kategori": "Tanaman Pagar & Buah",
+    "deskripsi": "Lilly Pilly adalah tanaman pagar favorit di Australia. Daun barunya seringkali muncul dengan warna merah muda atau perunggu yang cantik. Setelah bunganya yang seperti kapas mekar, ia menghasilkan buah beri berwarna-warni (pink, ungu) yang dapat dimakan, rasanya asam manis dan sering diolah menjadi selai.",
+    "manfaat": "Tanaman pagar yang rimbun, buahnya dapat dimakan (bush tucker).",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur, terutama saat musim panas.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah subur dengan drainase baik."
+    },
+    "asal": "Pesisir Timur Australia",
+    "tinggi_maksimal": "5 meter (dapat dipangkas)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 120000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 85,
+    "nama_tanaman": "Finger Lime (Jeruk Kaviar)",
+    "nama_latin": "Citrus australasica",
+    "kategori": "Tanaman Buah Unik",
+    "deskripsi": "Buah asli Australia ini adalah sebuah sensasi. Bentuknya seperti jari, dan saat dibuka, dagingnya tidak berbentuk segmen melainkan butiran-butiran kecil seperti kaviar. Butiran ini 'meletup' di mulut, melepaskan rasa asam jeruk nipis yang tajam. Sangat digemari oleh koki-koki fine dining.",
+    "manfaat": "Buah unik untuk kuliner (garnish), sumber vitamin C.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap, tidak basah.",
+      "cahaya": "Sinar matahari parsial, di bawah naungan pohon besar.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah subur dengan drainase baik."
+    },
+    "asal": "Queensland dan New South Wales, Australia",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor / Teduh",
+    "harga_perkiraan": 350000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 86,
+    "nama_tanaman": "Lemon Myrtle",
+    "nama_latin": "Backhousia citriodora",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Lemon Myrtle adalah 'ratu herbal lemon'. Daunnya, jika diremas, melepaskan aroma lemon-sitrus yang sangat kuat dan murni, lebih kuat dari lemon itu sendiri. Digunakan sebagai bumbu masak, teh herbal yang menyegarkan, dan bahan dalam produk pembersih serta perawatan tubuh.",
+    "manfaat": "Pengharum masakan, teh herbal, sumber minyak atsiri.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara teratur.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah subur dan lembap."
+    },
+    "asal": "Queensland, Australia",
+    "tinggi_maksimal": "8 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 170000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 87,
+    "nama_tanaman": "Bottlebrush",
+    "nama_latin": "Callistemon",
+    "kategori": "Bunga Unik",
+    "deskripsi": "Seperti namanya, bunga tanaman ini benar-benar terlihat seperti sikat pembersih botol. Biasanya berwarna merah menyala, bunga ini terdiri dari ratusan benang sari yang panjang. Bunga ini sangat kaya akan nektar dan menjadi magnet bagi burung, lebah, dan serangga lainnya.",
+    "manfaat": "Menarik burung dan lebah, tanaman pagar yang tangguh.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-35°C",
+      "media_tanam": "Sangat adaptif di berbagai jenis tanah, bahkan yang tergenang sesekali."
+    },
+    "asal": "Australia",
+    "tinggi_maksimal": "4 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 95000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 88,
+    "nama_tanaman": "Everlasting Paper Daisy",
+    "nama_latin": "Rhodanthe chlorocephala",
+    "kategori": "Bunga Padang Pasir",
+    "deskripsi": "Setiap musim semi setelah hujan, padang pasir di Australia Barat bertransformasi menjadi lautan bunga berwarna-warni. Paper Daisy adalah bintangnya. Kelopak bunganya yang tipis seperti kertas sangat awet. Bahkan setelah kering, ia tetap mempertahankan bentuk dan warnanya.",
+    "manfaat": "Bunga kering (everlasting), bunga potong, daya tarik wisata.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan periode kering setelah tumbuh.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah berpasir dengan drainase cepat."
+    },
+    "asal": "Australia Barat",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Mudah (dari biji di iklim yang tepat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 80000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 89,
+    "nama_tanaman": "Davidson's Plum",
+    "nama_latin": "Davidsonia pruriens",
+    "kategori": "Tanaman Buah Unik",
+    "deskripsi": "Buah plum asli dari hutan hujan Australia ini memiliki rasa asam yang sangat tajam dan kaya akan antioksidan. Tidak seperti plum biasa, buahnya tumbuh bergerombol langsung di batang pohon. Rasanya yang kuat membuatnya ideal untuk diolah menjadi selai, saus, dan sirup.",
+    "manfaat": "Buah untuk selai dan saus, kaya antioksidan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan tanah yang lembap.",
+      "cahaya": "Tumbuh di bawah kanopi hutan, suka tempat teduh.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah humus yang subur."
+    },
+    "asal": "Queensland dan New South Wales, Australia",
+    "tinggi_maksimal": "12 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 280000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 90,
+    "nama_tanaman": "Flannel Flower",
+    "nama_latin": "Actinotus helianthi",
+    "kategori": "Bunga Unik",
+    "deskripsi": "Seperti namanya, seluruh tanaman ini, dari kelopak bunga hingga daunnya, dilapisi oleh bulu-bulu halus berwarna putih keperakan yang membuatnya terasa lembut seperti kain flanel. Bunga daisy putihnya yang besar memiliki ujung berwarna hijau yang unik.",
+    "manfaat": "Bunga hias, bunga potong, menarik serangga.",
+    "cara_perawatan": {
+      "penyiraman": "Tidak suka terlalu basah, butuh drainase sempurna.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah berpasir yang miskin nutrisi."
+    },
+    "asal": "Sekitar Sydney, Australia",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 91,
+    "nama_tanaman": "Gymea Lily",
+    "nama_latin": "Doryanthes excelsa",
+    "kategori": "Tanaman Ikonik",
+    "deskripsi": "Gymea Lily adalah tanaman yang dramatis dalam skala besar. Dari dasar rumpun daun raksasa berbentuk pedang, ia menumbuhkan satu tangkai bunga raksasa yang bisa mencapai tinggi 6 meter. Di ujungnya, terdapat kepala bunga besar berwarna merah yang terdiri dari banyak bunga individu. Benar-benar pemandangan yang spektakuler.",
+    "manfaat": "Tanaman focal point yang sangat dramatis untuk taman besar.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "New South Wales, Australia",
+    "tinggi_maksimal": "6 meter (tangkai bunga)",
+    "tingkat_kesulitan": "Mudah (butuh ruang sangat besar)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 600000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 92,
+    "nama_tanaman": "Pigface (Wajah Babi)",
+    "nama_latin": "Carpobrotus",
+    "kategori": "Tanaman Sukulen Pesisir",
+    "deskripsi": "Tanaman sukulen ini adalah pemulih pesisir yang tangguh. Daunnya yang tebal dan berdaging mampu menahan semprotan garam dan angin laut. Ia merayap menutupi bukit pasir, membantu mencegah erosi. Bunganya yang berwarna ungu cerah dan buahnya yang bisa dimakan membuatnya serbaguna.",
+    "manfaat": "Pencegah erosi pantai, ground cover, buahnya dapat dimakan.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah berpasir."
+    },
+    "asal": "Pesisir Australia",
+    "tinggi_maksimal": "30 cm (merayap)",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 85000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 93,
+    "nama_tanaman": "Silver Dollar Gum",
+    "nama_latin": "Eucalyptus cinerea",
+    "kategori": "Pohon Hias",
+    "deskripsi": "Sangat populer di kalangan florist dan dekorator, Silver Dollar Gum terkenal dengan daun mudanya yang berbentuk bulat sempurna seperti koin dolar perak, dengan warna biru-abu-abu yang cantik. Daun ini memiliki aroma eucalyptus yang khas dan tahan lama saat dikeringkan.",
+    "manfaat": "Daun potong untuk rangkaian bunga, tanaman hias.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Australia Tenggara",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 190000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 94,
+    "nama_tanaman": "Flame Tree",
+    "nama_latin": "Brachychiton acerifolius",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Illawarra Flame Tree adalah pemandangan yang tak terlupakan. Tepat sebelum musim hujan, pohon ini akan menggugurkan semua daunnya dan kemudian meledak dengan ribuan bunga berbentuk lonceng berwarna merah menyala, mengubah seluruh kanopinya menjadi lautan api yang cemerlang.",
+    "manfaat": "Pohon peneduh dengan bunga musiman yang spektakuler.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, menyukai periode kering untuk memicu pembungaan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah yang subur dengan drainase baik."
+    },
+    "asal": "Pesisir Timur Australia",
+    "tinggi_maksimal": "35 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 210000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 95,
+    "nama_tanaman": "Flowering Gum",
+    "nama_latin": "Corymbia ficifolia",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Jika Anda menginginkan ledakan warna, Flowering Gum adalah jawabannya. Pohon Eucalyptus kecil ini menghasilkan gerombolan bunga yang sangat lebat dan mencolok, dengan warna mulai dari merah tua, oranye terang, hingga pink lembut. Pohon ini adalah magnet bagi burung dan lebah.",
+    "manfaat": "Pohon hias dengan bunga yang sangat indah, menarik satwa liar.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara teratur di musim panas.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Australia Barat",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 96,
+    "nama_tanaman": "Mint Bush",
+    "nama_latin": "Prostanthera",
+    "kategori": "Tanaman Herbal Aromatik",
+    "deskripsi": "Mint Bush Australia adalah tanaman perdu yang daunnya melepaskan aroma mint yang kuat dan menyegarkan saat disentuh atau diremas. Selain aromanya, tanaman ini juga menghasilkan bunga-bunga mungil berwarna ungu atau putih yang menutupi seluruh cabangnya saat mekar.",
+    "manfaat": "Daun aromatik, menarik serangga penyerbuk.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Sinar matahari pagi, naungan di sore yang panas.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah sejuk dan lembap dengan drainase baik."
+    },
+    "asal": "Australia Timur",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 140000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 97,
+    "nama_tanaman": "Quandong (Desert Peach)",
+    "nama_latin": "Santalum acuminatum",
+    "kategori": "Tanaman Buah Unik",
+    "deskripsi": "Quandong adalah 'persik gurun' dari pedalaman Australia. Buahnya yang merah cerah memiliki kulit tipis dan daging buah yang rasanya asam tajam, sering diolah menjadi selai atau pai. Uniknya, biji di dalamnya memiliki tekstur seperti otak dan mengandung minyak yang berharga.",
+    "manfaat": "Buah kaya vitamin C (bush tucker), minyak dari bijinya.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-40°C",
+      "media_tanam": "Tanah berpasir (semi-parasit)."
+    },
+    "asal": "Daerah kering dan gersang Australia",
+    "tinggi_maksimal": "4 meter",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 320000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 98,
+    "nama_tanaman": "Happy Wanderer",
+    "nama_latin": "Hardenbergia violacea",
+    "kategori": "Tanaman Merambat",
+    "deskripsi": "Tanaman merambat ini adalah pembawa pesan musim semi di Australia. Rangkaian bunga ungunya yang cerah dan melimpah akan menutupi seluruh tanaman, menciptakan pemandangan yang spektakuler. Tumbuh dengan cepat dan dapat digunakan untuk menutupi pagar atau sebagai ground cover.",
+    "manfaat": "Menutupi pagar dengan cepat, bunga musim semi yang indah.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Australia Timur",
+    "tinggi_maksimal": "2 meter (merambat)",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 130000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 99,
+    "nama_tanaman": "Kakadu Plum",
+    "nama_latin": "Terminalia ferdinandiana",
+    "kategori": "Tanaman Buah Unik",
+    "deskripsi": "Buah kecil dari Australia Utara ini memegang rekor sebagai sumber vitamin C alami terkonsentrasi tertinggi di dunia, bisa 100 kali lebih banyak dari jeruk. Rasanya sangat asam dan sering diolah menjadi bubuk untuk suplemen kesehatan atau bahan dalam produk perawatan kulit.",
+    "manfaat": "Sumber Vitamin C tertinggi di dunia, superfood.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, beradaptasi dengan musim hujan dan kemarau.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah berpasir di sabana tropis."
+    },
+    "asal": "Australia Utara",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan iklim spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 450000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 100,
+    "nama_tanaman": "Sydney Rock Orchid",
+    "nama_latin": "Dendrobium speciosum",
+    "kategori": "Anggrek",
+    "deskripsi": "Anggrek ini adalah raksasa yang tangguh. Ia bisa tumbuh menempel di bebatuan karang yang terpapar sinar matahari langsung. Saat mekar, ia menghasilkan ratusan bunga berwarna krem atau kuning yang sangat harum. Ketahanannya yang luar biasa membuatnya sangat berbeda dari anggrek tropis yang rapuh.",
+    "manfaat": "Anggrek yang sangat tangguh dan harum.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan periode kering di musim dingin untuk memicu pembungaan.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "20-30°C",
+      "media_tanam": "Media anggrek yang sangat kasar, atau ditempel di batu."
+    },
+    "asal": "Pesisir Timur Australia",
+    "tinggi_maksimal": "1 meter (rumpun)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 380000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 101,
+    "nama_tanaman": "Blackwood Wattle",
+    "nama_latin": "Acacia melanoxylon",
+    "kategori": "Pohon Kayu",
+    "deskripsi": "Pohon akasia ini sangat dihargai karena kayunya yang indah, memiliki warna dan serat yang kaya, sering disamakan dengan saudaranya, Koa dari Hawaii. Uniknya, 'daun' dewasa pada pohon ini sebenarnya bukan daun sejati, melainkan tangkai daun yang melebar dan pipih yang disebut 'phyllodes'.",
+    "manfaat": "Sumber kayu berkualitas tinggi untuk furnitur dan alat musik.",
+    "cara_perawatan": {
+      "penyiraman": "Adaptif terhadap kondisi kering dan basah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "15-25°C",
+      "media_tanam": "Tumbuh subur di tanah liat di hutan yang sejuk."
+    },
+    "asal": "Australia Tenggara",
+    "tinggi_maksimal": "35 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 102,
+    "nama_tanaman": "Firewheel Tree",
+    "nama_latin": "Stenocarpus sinuatus",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Pohon ini menghasilkan salah satu perbungaan paling unik. Bunga-bunga merah terangnya tersusun dalam lingkaran sempurna seperti kincir atau roda kembang api. Bunga-bunga ini muncul langsung dari cabang-cabang tua, menciptakan kontras yang indah dengan daun hijau gelapnya.",
+    "manfaat": "Pohon hias dengan bunga yang sangat unik, menarik burung.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara teratur.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "22-30°C",
+      "media_tanam": "Tanah subur dari hutan hujan."
+    },
+    "asal": "Hutan Hujan Pesisir Timur Australia",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 300000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 103,
+    "nama_tanaman": "Native Fuchsia",
+    "nama_latin": "Correa",
+    "kategori": "Tanaman Semak",
+    "deskripsi": "Tanaman semak kecil ini adalah favorit para burung pemakan madu. Bunganya yang berbentuk lonceng menjuntai ke bawah, sangat cocok untuk paruh kecil mereka. Native Fuchsia sangat tangguh, mampu berbunga bahkan di tengah musim dingin yang sejuk.",
+    "manfaat": "Sumber nektar penting bagi burung di musim dingin.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari parsial atau teduh.",
+      "suhu": "15-25°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Australia Tenggara",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Teduh",
+    "harga_perkiraan": 140000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 104,
+    "nama_tanaman": "Waxflower",
+    "nama_latin": "Chamelaucium uncinatum",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Geraldton Waxflower adalah pengisi yang sangat populer dalam rangkaian bunga komersial. Bunga-bunga kecilnya yang seperti lilin, biasanya berwarna pink atau putih, menutupi seluruh cabang dan tahan lama setelah dipotong. Daunnya yang seperti jarum akan melepaskan aroma wangi saat diremas.",
+    "manfaat": "Bunga potong yang sangat populer, tanaman hias tahan kering.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan, benci kelembapan berlebih.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah berpasir dengan drainase super cepat."
+    },
+    "asal": "Australia Barat",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 160000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 105,
+    "nama_tanaman": "Old Man Saltbush",
+    "nama_latin": "Atriplex nummularia",
+    "kategori": "Tanaman Gurun",
+    "deskripsi": "Tanaman semak ini adalah penyintas sejati dari pedalaman Australia yang kering dan asin. Daunnya yang berwarna abu-abu keperakan dilapisi garam, yang membantunya menahan air. Daun ini bisa dimakan, memiliki rasa asin alami, dan kini menjadi bahan populer dalam kuliner modern Australia.",
+    "manfaat": "Pakan ternak di daerah kering, bahan kuliner (bush tucker).",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan dan salinitas.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-40°C",
+      "media_tanam": "Tanah kering, bahkan yang bergaram."
+    },
+    "asal": "Pedalaman Kering Australia",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 110000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 106,
+    "nama_tanaman": "Wonga Wonga Vine",
+    "nama_latin": "Pandorea pandorana",
+    "kategori": "Tanaman Merambat",
+    "deskripsi": "Tanaman rambat yang kuat ini akan menghasilkan rangkaian bunga berbentuk terompet yang melimpah di musim semi. Warnanya bervariasi dari putih krem hingga sedikit merah muda, seringkali dengan tanda ungu di dalamnya. Namanya, Wonga Wonga, berasal dari bahasa Aborigin.",
+    "manfaat": "Tanaman rambat untuk menutupi pergola atau teralis.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur saat musim panas.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah subur dengan drainase baik."
+    },
+    "asal": "Australia Timur",
+    "tinggi_maksimal": "6 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 107,
+    "nama_tanaman": "Queensland Kauri Pine",
+    "nama_latin": "Agathis robusta",
+    "kategori": "Pohon Purba",
+    "deskripsi": "Kauri adalah pohon konifer raksasa dari zaman purba, berkerabat dengan Wollemi Pine. Batangnya yang lurus dan masif menjulang tinggi di hutan hujan. Pohon ini menghasilkan damar (resin) dalam jumlah besar, yang secara historis sangat berharga.",
+    "manfaat": "Pohon peneduh raksasa, sumber kayu dan damar.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air dan iklim basah.",
+      "cahaya": "Sinar matahari penuh saat dewasa.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah hutan hujan yang dalam dan subur."
+    },
+    "asal": "Queensland (Australia), Papua",
+    "tinggi_maksimal": "50 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 350000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 108,
+    "nama_tanaman": "Native Hibiscus",
+    "nama_latin": "Alyogyne huegelii",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Hibiscus asli Australia ini memiliki bunga besar yang anggun dengan tekstur seperti sutra, biasanya berwarna ungu lavender atau biru pucat. Berbeda dengan hibiscus tropis, tanaman ini beradaptasi dengan iklim yang lebih kering dan mekar dengan sangat melimpah.",
+    "manfaat": "Tanaman hias tahan kering dengan bunga yang indah.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase sangat baik."
+    },
+    "asal": "Australia Barat dan Selatan",
+    "tinggi_maksimal": "2.5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 160000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 109,
+    "nama_tanaman": "Cabbage Palm",
+    "nama_latin": "Livistona australis",
+    "kategori": "Pohon Palem",
+    "deskripsi": "Palem asli Australia ini memiliki batang yang ramping dan mahkota daun berbentuk kipas yang rimbun. 'Kubis' di namanya merujuk pada pucuk tunasnya yang dapat dimakan. Palem ini sangat tangguh, mampu bertahan dari embun beku ringan hingga panas pesisir.",
+    "manfaat": "Pohon palem hias yang tangguh.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air saat muda, tahan kering setelah dewasa.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "Adaptif terhadap berbagai suhu.",
+      "media_tanam": "Suka tanah yang lembap dan berdrainase baik."
+    },
+    "asal": "Pesisir Timur Australia",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 280000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 110,
+    "nama_tanaman": "Native Gardenia",
+    "nama_latin": "Randia fitzalanii",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Bunga putih besar dari tanaman ini melepaskan aroma gardenia yang sangat kuat dan manis, mampu mengharumkan seluruh taman di malam hari. Setelah bunga layu, ia menghasilkan buah kuning besar yang menurut catatan, dimakan oleh suku Aborigin setelah dimasak.",
+    "manfaat": "Bunga yang sangat wangi, menarik ngengat penyerbuk.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur.",
+      "cahaya": "Sinar matahari parsial atau teduh.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah hutan hujan yang kaya humus."
+    },
+    "asal": "Queensland, Australia",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Teduh / Outdoor",
+    "harga_perkiraan": 220000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  }
+]
