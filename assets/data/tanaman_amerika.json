@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 171,
+    "nama_tanaman": "Saguaro Cactus",
+    "nama_latin": "Carnegiea gigantea",
+    "kategori": "Kaktus Ikonik",
+    "deskripsi": "Saguaro adalah penjaga gurun yang agung, sebuah simbol abadi dari lanskap Barat Amerika. Kaktus raksasa ini tumbuh sangat lambat, bisa memakan waktu hingga 75 tahun hanya untuk menumbuhkan 'lengan' pertamanya. Ia adalah ekosistem vertikal, menyediakan rumah dan makanan bagi banyak hewan gurun. Saat mekar, bunganya yang putih besar menjadi pemandangan menakjubkan di tengah kegersangan.",
+    "manfaat": "Ikon Gurun Sonora, sumber makanan dan sarang bagi satwa liar.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat jarang, hampir tidak perlu disiram di iklim basah.",
+      "cahaya": "Sinar matahari penuh dan terik.",
+      "suhu": "30-50°C",
+      "media_tanam": "Tanah gurun yang sangat berbatu dan berpasir."
+    },
+    "asal": "Gurun Sonora (Arizona, California, Meksiko)",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sangat Sulit (dilindungi, butuh iklim spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 172,
+    "nama_tanaman": "Venus Flytrap",
+    "nama_latin": "Dionaea muscipula",
+    "kategori": "Tanaman Karnivora",
+    "deskripsi": "Venus Flytrap adalah keajaiban evolusi yang membalik tatanan alam. Tanaman ini 'berburu' serangga. Daunnya yang termodifikasi membentuk perangkap berengsel yang akan mengatup dalam sepersekian detik saat rambut sensornya disentuh. Ia berevolusi menjadi karnivora karena tumbuh di tanah rawa yang sangat miskin nutrisi.",
+    "manfaat": "Tanaman edukatif, mengontrol populasi serangga kecil.",
+    "cara_perawatan": {
+      "penyiraman": "Wajib menggunakan air rendah mineral (air hujan/AC), jaga media tetap basah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Spaghnum moss murni atau campuran dengan perlit."
+    },
+    "asal": "Carolina Utara & Selatan, AS",
+    "tinggi_maksimal": "15 cm",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 173,
+    "nama_tanaman": "Kakao (Pohon Cokelat)",
+    "nama_latin": "Theobroma cacao",
+    "kategori": "Tanaman Pangan Global",
+    "deskripsi": "'Makanan para dewa', begitulah arti nama latinnya. Dari biji yang terfermentasi di dalam buah pohon inilah lahir salah satu makanan paling dicintai di dunia: cokelat. Peradaban Maya dan Aztec kuno memuja biji kakao sebagai komoditas berharga dan minuman suci.",
+    "manfaat": "Sumber biji kakao untuk produksi cokelat, kaya antioksidan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan yang tinggi dan kelembapan konstan.",
+      "cahaya": "Tumbuh di bawah naungan pohon hutan hujan yang lebih tinggi.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah hutan yang dalam dan subur."
+    },
+    "asal": "Lembah Amazon",
+    "tinggi_maksimal": "8 meter",
+    "tingkat_kesulitan": "Sulit (Skala Perkebunan)",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 174,
+    "nama_tanaman": "Vanili",
+    "nama_latin": "Vanilla planifolia",
+    "kategori": "Tanaman Rempah",
+    "deskripsi": "Vanili adalah satu-satunya anggrek di dunia yang menghasilkan buah yang dapat dimakan. Polongnya yang panjang dan ramping, setelah melalui proses pengeringan dan curing yang rumit, menjadi rempah termahal kedua di dunia setelah saffron. Penyerbukan bunganya yang mekar hanya satu hari seringkali harus dilakukan secara manual dengan tangan.",
+    "manfaat": "Rempah pengharum kue dan parfum.",
+    "cara_perawatan": {
+      "penyiraman": "Menyukai kelembapan tinggi.",
+      "cahaya": "Cahaya terang tidak langsung, membutuhkan media rambat.",
+      "suhu": "25-32°C",
+      "media_tanam": "Media tanam anggrek yang kaya bahan organik."
+    },
+    "asal": "Meksiko, Amerika Tengah",
+    "tinggi_maksimal": "30 meter (merambat)",
+    "tingkat_kesulitan": "Sangat Sulit",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 200000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 175,
+    "nama_tanaman": "Jagung (Maize)",
+    "nama_latin": "Zea mays",
+    "kategori": "Tanaman Pangan Global",
+    "deskripsi": "Dari sejenis rumput liar sederhana bernama teosinte, peradaban kuno di Meksiko selama ribuan tahun secara selektif membudidayakannya menjadi jagung modern yang kita kenal. Tanaman ini adalah pilar pertanian dunia, menjadi sumber makanan pokok, pakan ternak, dan bahkan bahan bakar nabati.",
+    "manfaat": "Sumber karbohidrat, pakan ternak, bahan dasar biofuel (etanol).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air, terutama saat pembungaan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah subur yang kaya nitrogen."
+    },
+    "asal": "Meksiko",
+    "tinggi_maksimal": "4 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 176,
+    "nama_tanaman": "Bunga Matahari",
+    "nama_latin": "Helianthus annuus",
+    "kategori": "Bunga Ikonik",
+    "deskripsi": "Bunga besar yang ceria ini selalu menghadap ke arah matahari (heliotropisme), seolah menyembah sang pemberi kehidupan. Dibudidayakan oleh suku-suku asli Amerika selama ribuan tahun, bijinya menjadi sumber makanan (kuaci) dan minyak yang penting. Bunga matahari adalah simbol optimisme, kebahagiaan, dan adorasi.",
+    "manfaat": "Bunga hias, sumber biji kuaci, minyak nabati.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur dan mendalam.",
+      "cahaya": "Sinar matahari penuh (wajib).",
+      "suhu": "21-26°C",
+      "media_tanam": "Tanah gembur yang subur."
+    },
+    "asal": "Amerika Utara",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1597848212624-753a6d2c3fb9?w=600&q=80"
+  },
+  {
+    "id": 177,
+    "nama_tanaman": "Alpukat",
+    "nama_latin": "Persea americana",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Alpukat adalah buah unik yang kaya akan lemak sehat tak jenuh tunggal. Teksturnya yang lembut seperti mentega menjadikannya favorit untuk jus kental, isian roti (guacamole), atau bahkan dimakan begitu saja. Pohonnya yang besar dan rindang juga menjadi peneduh yang baik.",
+    "manfaat": "Sumber lemak baik, serat, dan potasium.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh air yang cukup namun tidak suka tergenang.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah gembur dengan drainase yang sangat baik."
+    },
+    "asal": "Meksiko Selatan, Amerika Tengah",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 178,
+    "nama_tanaman": "Cabai",
+    "nama_latin": "Capsicum annuum",
+    "kategori": "Tanaman Rempah",
+    "deskripsi": "Sensasi terbakar yang adiktif dari cabai, yang berasal dari senyawa capsaicin, telah menaklukkan lidah dunia. Dari cabai jalapeño yang ringan hingga habanero yang membakar, variasi bentuk, warna, dan tingkat kepedasan cabai sangatlah luas. Tanaman ini adalah kontribusi terbesar benua Amerika bagi dunia bumbu.",
+    "manfaat": "Memberikan rasa pedas pada masakan, meningkatkan metabolisme.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap namun tidak becek.",
+      "cahaya": "Sinar matahari penuh dan cuaca hangat.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur kaya kompos."
+    },
+    "asal": "Meksiko, Amerika Selatan",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 179,
+    "nama_tanaman": "Pohon Redwood",
+    "nama_latin": "Sequoia sempervirens",
+    "kategori": "Pohon Raksasa",
+    "deskripsi": "Redwood Pesisir adalah organisme hidup tertinggi di Bumi. Pohon-pohon raksasa ini membentuk katedral alam yang sunyi di sepanjang pesisir California. Berjalan di antara mereka adalah pengalaman yang merendahkan hati, mengingatkan kita pada skala waktu geologis. Mereka dapat hidup lebih dari 2.000 tahun.",
+    "manfaat": "Penyerap karbon yang luar biasa, ikon konservasi, daya tarik wisata.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim pesisir yang lembap dan berkabut.",
+      "cahaya": "Sinar matahari penuh saat dewasa.",
+      "suhu": "Iklim sedang yang sejuk dan basah.",
+      "media_tanam": "Tanah hutan yang dalam dan subur."
+    },
+    "asal": "Pesisir California Utara, AS",
+    "tinggi_maksimal": "115 meter",
+    "tingkat_kesulitan": "Sangat Sulit (butuh ekosistem spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 180,
+    "nama_tanaman": "Blue Agave",
+    "nama_latin": "Agave tequilana",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Dari hati tanaman sukulen inilah lahir minuman spirit nasional Meksiko, Tequila. Tanaman ini membutuhkan waktu bertahun-tahun untuk dewasa, menyimpan gula di dalam 'piña' atau intinya yang besar. Setelah dipanen, piña dipanggang, dihancurkan, difermentasi, dan didistilasi untuk menghasilkan Tequila.",
+    "manfaat": "Bahan dasar pembuatan Tequila.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh dan panas.",
+      "suhu": "25-40°C",
+      "media_tanam": "Tanah vulkanik yang gembur di dataran tinggi."
+    },
+    "asal": "Jalisco, Meksiko",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sedang (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 181,
+    "nama_tanaman": "Kentang",
+    "nama_latin": "Solanum tuberosum",
+    "kategori": "Tanaman Umbi",
+    "deskripsi": "Dari Pegunungan Andes, umbi sederhana ini menyebar ke seluruh dunia dan menjadi makanan pokok keempat terbesar setelah gandum, beras, dan jagung. Peradaban Inka berhasil membudidayakan ribuan varietas kentang, beradaptasi dengan berbagai ketinggian dan iklim di Andes.",
+    "manfaat": "Sumber karbohidrat utama, sangat serbaguna dalam masakan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Tumbuh baik di iklim sejuk (15-20°C).",
+      "media_tanam": "Tanah gembur dan berpasir."
+    },
+    "asal": "Pegunungan Andes (Peru, Bolivia)",
+    "tinggi_maksimal": "80 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 182,
+    "nama_tanaman": "Tomat",
+    "nama_latin": "Solanum lycopersicum",
+    "kategori": "Sayuran Buah",
+    "deskripsi": "Sulit membayangkan masakan Italia tanpa tomat, namun buah ini sebenarnya berasal dari Andes. Awalnya dianggap beracun oleh orang Eropa, tomat kini menjadi salah satu 'sayuran' paling populer di dunia, menjadi dasar saus, sup, dan salad.",
+    "manfaat": "Bahan dasar saus, kaya antioksidan (likopen).",
+    "cara_perawatan": {
+      "penyiraman": "Siram secara konsisten dan mendalam di bagian akar.",
+      "cahaya": "Sinar matahari penuh (minimal 6-8 jam).",
+      "suhu": "22-28°C",
+      "media_tanam": "Tanah subur kaya kompos dengan drainase baik."
+    },
+    "asal": "Pegunungan Andes",
+    "tinggi_maksimal": "2 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 183,
+    "nama_tanaman": "Kacang Tanah",
+    "nama_latin": "Arachis hypogaea",
+    "kategori": "Tanaman Kacang",
+    "deskripsi": "Uniknya, kacang tanah berbuah di dalam tanah. Setelah bunganya diserbuki, tangkainya akan memanjang dan masuk ke dalam tanah tempat buahnya berkembang. Kacang tanah adalah camilan favorit, bahan dasar saus sate dan selai kacang, serta sumber minyak nabati.",
+    "manfaat": "Sumber protein nabati dan lemak baik, bahan selai kacang.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur, terutama saat pembentukan polong.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur dan berpasir."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 184,
+    "nama_tanaman": "Victoria Amazonica (Teratai Raksasa)",
+    "nama_latin": "Victoria amazonica",
+    "kategori": "Tanaman Air Ikonik",
+    "deskripsi": "Ini adalah ratu dari semua tanaman air. Daunnya yang raksasa dapat tumbuh hingga diameter 3 meter dan cukup kuat untuk menopang berat seorang anak kecil. Bagian bawah daunnya memiliki struktur rusuk yang kokoh dan duri untuk melindunginya dari ikan. Bunganya yang besar mekar di malam hari.",
+    "manfaat": "Daya tarik utama kebun raya dan taman air.",
+    "cara_perawatan": {
+      "penyiraman": "Tumbuh di dalam air yang tenang dan hangat.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "28-35°C",
+      "media_tanam": "Lumpur yang sangat subur di dasar kolam."
+    },
+    "asal": "Lembah Sungai Amazon",
+    "tinggi_maksimal": "3 meter (diameter daun)",
+    "tingkat_kesulitan": "Sangat Sulit (butuh kolam tropis besar)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 185,
+    "nama_tanaman": "Pohon Kina",
+    "nama_latin": "Cinchona",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Kulit dari pohon Andes inilah yang menyelamatkan jutaan nyawa. Ia adalah sumber alami dari kina (quinine), obat pertama yang efektif melawan malaria. Penemuan ini memungkinkan eksplorasi dan kolonisasi daerah tropis di seluruh dunia. Kina juga merupakan bahan pemberi rasa pahit pada air tonik.",
+    "manfaat": "Sumber kina untuk obat malaria, pemberi rasa pada air tonik.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan tinggi.",
+      "cahaya": "Tumbuh di lereng gunung yang berkabut.",
+      "suhu": "15-25°C",
+      "media_tanam": "Tanah hutan yang subur."
+    },
+    "asal": "Pegunungan Andes",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 186,
+    "nama_tanaman": "Nanas",
+    "nama_latin": "Ananas comosus",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Nanas adalah simbol keramahan dan selamat datang di daerah tropis. Daging buahnya yang kuning keemasan menawarkan perpaduan sempurna antara rasa manis dan asam, dengan aroma yang khas. Uniknya, nanas sebenarnya adalah gabungan dari banyak buah beri kecil yang menyatu.",
+    "manfaat": "Melancarkan pencernaan (enzim bromelain), bahan masakan.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, siram secukupnya.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur dan sedikit berpasir."
+    },
+    "asal": "Brazil, Paraguay",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 187,
+    "nama_tanaman": "Singkong (Cassava)",
+    "nama_latin": "Manihot esculenta",
+    "kategori": "Tanaman Umbi",
+    "deskripsi": "Singkong adalah tanaman tangguh yang menjadi sumber karbohidrat penting bagi jutaan orang di seluruh dunia tropis. Umbinya yang kaya pati harus dimasak dengan benar untuk menghilangkan sianida. Daunnya pun lezat dimasak sebagai sayur.",
+    "manfaat": "Sumber karbohidrat (tepung tapioka), daunnya bisa disayur.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Sangat adaptif di tanah kurang subur."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 188,
+    "nama_tanaman": "Dahlia",
+    "nama_latin": "Dahlia",
+    "kategori": "Bunga Nasional",
+    "deskripsi": "Sebagai bunga nasional Meksiko, Dahlia memukau dengan keragaman bentuk kelopaknya yang luar biasa. Dari bentuk bola pom-pom yang padat hingga bentuk 'anemone' yang unik. Peradaban Aztec membudidayakan tanaman umbi ini tidak hanya untuk bunganya, tetapi juga sebagai sumber makanan.",
+    "manfaat": "Bunga potong dengan variasi bentuk tak terbatas.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah yang subur dan gembur."
+    },
+    "asal": "Meksiko",
+    "tinggi_maksimal": "1.8 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 50000,
+    "gambar_url": "https://images.unsplash.com/photo-1560707303-4e980ce876ad?w=600&q=80"
+  },
+  {
+    "id": 189,
+    "nama_tanaman": "Marigold (Bunga Gemitir)",
+    "nama_latin": "Tagetes erecta",
+    "kategori": "Bunga Budaya",
+    "deskripsi": "Warna oranyenya yang menyala menjadikan Marigold bunga yang sangat penting dalam perayaan Hari Kematian (Día de los Muertos) di Meksiko. Aromanya yang kuat dipercaya dapat memandu arwah orang yang telah meninggal kembali ke altar mereka. Di Bali, bunga ini juga penting sebagai bunga untuk sesajen.",
+    "manfaat": "Bunga untuk perayaan budaya dan religius, pengusir hama alami.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Sangat adaptif, mudah tumbuh dari biji."
+    },
+    "asal": "Meksiko",
+    "tinggi_maksimal": "90 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 190,
+    "nama_tanaman": "Prayer Plant",
+    "nama_latin": "Maranta leuconeura",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Prayer Plant atau Maranta adalah tanaman yang hidup. Ia dinamai demikian karena daunnya yang indah akan terlipat ke atas di malam hari, seperti tangan yang sedang berdoa. Gerakan ini (nyctinasty) adalah respons terhadap siklus terang dan gelap, menjadikannya tanaman indoor yang interaktif dan menawan.",
+    "manfaat": "Tanaman indoor interaktif, pembersih udara.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap, suka kelembapan udara tinggi.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah pot yang menahan kelembapan."
+    },
+    "asal": "Hutan Hujan Brazil",
+    "tinggi_maksimal": "30 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 70000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 191,
+    "nama_tanaman": "Poinsettia (Kastuba)",
+    "nama_latin": "Euphorbia pulcherrima",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Poinsettia adalah simbol Natal yang paling ikonik. Apa yang kita kira sebagai kelopak bunga merahnya yang besar sebenarnya adalah daun termodifikasi (bracht) yang berubah warna saat hari memendek. Tanaman asli Meksiko ini dipopulerkan di seluruh dunia sebagai hiasan liburan musim dingin.",
+    "manfaat": "Tanaman hias ikonik untuk Hari Natal.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah kering, jangan sampai tergenang.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "18-24°C",
+      "media_tanam": "Tanah pot dengan drainase baik."
+    },
+    "asal": "Meksiko",
+    "tinggi_maksimal": "3 meter (di alam liar)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 85000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 192,
+    "nama_tanaman": "Kacang Pikan (Pecan)",
+    "nama_latin": "Carya illinoinensis",
+    "kategori": "Pohon Kacang",
+    "deskripsi": "Pohon pikan adalah pohon raksasa dari keluarga hickory yang menghasilkan kacang dengan rasa gurih manis (buttery) yang khas. Kacang pikan adalah bintang utama dalam hidangan penutup klasik Amerika Selatan seperti 'pecan pie'.",
+    "manfaat": "Sumber kacang pikan yang lezat, pohon peneduh besar.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air, sering tumbuh di dekat sungai.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Membutuhkan musim panas yang panjang dan panas.",
+      "media_tanam": "Tanah aluvial yang dalam dan subur."
+    },
+    "asal": "Amerika Serikat Bagian Selatan, Meksiko Utara",
+    "tinggi_maksimal": "40 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan kondisi dan ruang spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 193,
+    "nama_tanaman": "Pohon Maple Gula",
+    "nama_latin": "Acer saccharum",
+    "kategori": "Pohon Serbaguna",
+    "deskripsi": "Daun dari pohon inilah yang menjadi lambang di bendera Kanada. Pohon ini memiliki peran ganda: di musim gugur, daunnya berubah menjadi lautan warna merah, oranye, dan kuning yang spektakuler. Di akhir musim dingin, getahnya disadap dan direbus untuk menghasilkan sirup maple yang lezat.",
+    "manfaat": "Sumber sirup maple, pemandangan musim gugur yang indah.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim empat musim.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang dengan musim dingin yang beku.",
+      "media_tanam": "Tanah hutan yang subur."
+    },
+    "asal": "Amerika Utara Bagian Timur",
+    "tinggi_maksimal": "35 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan iklim spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 400000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 194,
+    "nama_tanaman": "Pohon Karet",
+    "nama_latin": "Hevea brasiliensis",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Revolusi industri berjalan di atas karet dari pohon ini. Getah putihnya (lateks), yang disadap dari kulit batang, adalah sumber utama karet alam di dunia. Penemuannya memicu 'demam karet' di Amazon dan kini menjadi komoditas perkebunan vital di Asia Tenggara.",
+    "manfaat": "Sumber utama lateks untuk produksi karet alam.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim tropis yang sangat basah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah laterit yang dalam."
+    },
+    "asal": "Lembah Sungai Amazon",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Sulit (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 195,
+    "nama_tanaman": "Ubi Jalar",
+    "nama_latin": "Ipomoea batatas",
+    "kategori": "Tanaman Umbi",
+    "deskripsi": "Ubi jalar hadir dalam berbagai warna, dari ungu, oranye, hingga putih, masing-masing dengan keunikan nutrisinya. Rasanya yang manis alami menjadikannya favorit untuk direbus, dibakar, atau diolah menjadi hidangan penutup yang lezat. Tanaman ini adalah sumber karbohidrat penting sejak zaman kuno.",
+    "manfaat": "Sumber karbohidrat kompleks dan vitamin A (untuk yang oranye).",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, namun butuh air untuk umbi besar.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah gembur berpasir."
+    },
+    "asal": "Amerika Tengah atau Selatan",
+    "tinggi_maksimal": "4 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 10000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 196,
+    "nama_tanaman": "Tembakau",
+    "nama_latin": "Nicotiana tabacum",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Tembakau adalah tanaman dengan sejarah yang kompleks. Digunakan secara sakral oleh suku asli Amerika selama ribuan tahun, ia kemudian menjadi salah satu komoditas global paling menguntungkan dan kontroversial. Daunnya yang dikeringkan dan diolah adalah bahan utama rokok dan cerutu.",
+    "manfaat": "Bahan dasar produk tembakau (rokok, cerutu).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air yang teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah yang sangat subur."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sulit (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 197,
+    "nama_tanaman": "Petunia",
+    "nama_latin": "Petunia",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Petunia adalah bunga favorit untuk pot gantung dan hamparan taman. Bunga-bunganya yang berbentuk terompet hadir dalam hampir semua warna pelangi dan mekar tanpa henti sepanjang musim panas. Tanaman sederhana dari Amerika Selatan ini telah menjadi salah satu tanaman hias paling populer di dunia.",
+    "manfaat": "Tanaman pot gantung, tanaman hamparan (bedding plant).",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "22-30°C",
+      "media_tanam": "Tanah pot yang subur dan gembur."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "40 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 198,
+    "nama_tanaman": "Bromelia",
+    "nama_latin": "Bromeliaceae",
+    "kategori": "Tanaman Epifit",
+    "deskripsi": "Keluarga Bromelia sangat beragam, dari nanas yang tumbuh di tanah hingga Tillandsia (air plant) yang hidup di kabel telepon. Ciri khasnya adalah daun yang tumbuh membentuk roset (tangkup) yang berfungsi menampung air. Banyak bromelia menghasilkan bunga yang sangat eksotis dan berwarna-warni dari tengah roset.",
+    "manfaat": "Tanaman hias indoor yang eksotis dan mudah dirawat.",
+    "cara_perawatan": {
+      "penyiraman": "Isi 'cangkir' di tengah tanaman dengan air, bukan tanahnya.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam anggrek atau ditempel di kayu."
+    },
+    "asal": "Benua Amerika (Utara dan Selatan)",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 90000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 199,
+    "nama_tanaman": "Quinoa",
+    "nama_latin": "Chenopodium quinoa",
+    "kategori": "Tanaman Pangan",
+    "deskripsi": "Dianggap sebagai 'biji-bijian ibu' oleh peradaban Inka, quinoa sebenarnya bukan sereal sejati. Biji kecil ini adalah sumber protein lengkap yang sangat bergizi. Ia mampu tumbuh di dataran tinggi Andes yang keras di mana tanaman lain sulit bertahan. Kini quinoa telah menjadi superfood global.",
+    "manfaat": "Sumber protein lengkap nabati, bebas gluten.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sejuk dan kering di dataran tinggi.",
+      "media_tanam": "Toleran terhadap tanah yang kurang subur."
+    },
+    "asal": "Pegunungan Andes",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 200,
+    "nama_tanaman": "Pohon Jacaranda",
+    "nama_latin": "Jacaranda mimosifolia",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Di musim semi, pohon Jacaranda akan meledak dalam lautan bunga ungu-biru yang menakjubkan, seringkali sebelum daunnya muncul. Bunga-bunganya kemudian akan berguguran dan membentuk karpet ungu yang indah di jalanan. Pemandangan ini sangat ikonik di banyak kota di seluruh dunia.",
+    "manfaat": "Pohon peneduh jalan dengan bunga musiman yang spektakuler.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 201,
+    "nama_tanaman": "Fuchsia",
+    "nama_latin": "Fuchsia",
+    "kategori": "Bunga Hias Gantung",
+    "deskripsi": "Bunga Fuchsia yang menjuntai tampak seperti anting-anting atau penari balet yang anggun. Kombinasi warna kelopak dan mahkotanya yang kontras, seringkali pink dan ungu, sangatlah menawan. Sangat ideal untuk ditanam di pot gantung di lokasi yang sejuk dan teduh.",
+    "manfaat": "Tanaman pot gantung, menarik burung kolibri.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap secara konsisten.",
+      "cahaya": "Teduh atau sinar matahari pagi.",
+      "suhu": "Iklim sejuk (15-24°C).",
+      "media_tanam": "Tanah pot yang kaya bahan organik."
+    },
+    "asal": "Pegunungan Andes, Amerika Tengah",
+    "tinggi_maksimal": "60 cm (menjuntai)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 55000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 202,
+    "nama_tanaman": "Yerba Mate",
+    "nama_latin": "Ilex paraguariensis",
+    "kategori": "Tanaman Minuman",
+    "deskripsi": "Dari daun pohon inilah dibuat 'mate', minuman sosial yang menjadi ikon budaya di Argentina, Uruguay, dan sekitarnya. Minuman kaya kafein ini secara tradisional disajikan dalam labu (calabash) dan diminum melalui sedotan logam (bombilla), seringkali dibagikan di antara teman-teman sebagai simbol persahabatan.",
+    "manfaat": "Bahan dasar minuman stimulan 'mate'.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan yang teratur.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "Iklim subtropis.",
+      "media_tanam": "Tanah yang agak masam."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan iklim spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 203,
+    "nama_tanaman": "Buah Naga (Pitaya)",
+    "nama_latin": "Hylocereus undatus",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Buah Naga adalah buah dari sejenis kaktus epifit. Penampilannya sangat dramatis, dengan kulit merah muda cerah dan sisik hijau. Daging buahnya, yang berwarna putih atau merah dengan bintik-bintik biji hitam, memiliki rasa manis ringan yang sangat menyegarkan. Bunganya yang raksasa hanya mekar satu malam.",
+    "manfaat": "Kaya antioksidan, baik untuk pencernaan.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, siram saat media kering.",
+      "cahaya": "Sinar matahari penuh, membutuhkan tiang panjatan.",
+      "suhu": "25-34°C",
+      "media_tanam": "Tanah porous berpasir."
+    },
+    "asal": "Meksiko, Amerika Tengah",
+    "tinggi_maksimal": "6 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 35000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 204,
+    "nama_tanaman": "Blueberry",
+    "nama_latin": "Vaccinium corymbosum",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Blueberry adalah superfood yang lezat. Buah beri kecil berwarna biru tua ini penuh dengan antioksidan. Selain itu, tanaman semaknya juga sangat dekoratif. Di musim gugur, daunnya berubah menjadi merah menyala yang indah. Tanaman ini membutuhkan tanah yang sangat masam untuk bisa tumbuh subur.",
+    "manfaat": "Superfood kaya antioksidan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan tanah yang lembap secara konsisten.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang dengan musim dingin.",
+      "media_tanam": "Tanah yang sangat masam (pH 4.5-5.5)."
+    },
+    "asal": "Amerika Utara",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sulit (butuh tanah masam)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 205,
+    "nama_tanaman": "Cranberry",
+    "nama_latin": "Vaccinium macrocarpon",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Cranberry adalah buah beri dengan rasa asam yang sangat kuat, menjadi bahan utama saus untuk makan malam Thanksgiving. Uniknya, tanaman ini tumbuh merambat di tanah rawa yang masam. Saat panen, rawa seringkali digenangi air agar buahnya yang memiliki kantung udara bisa mengapung dan mudah dikumpulkan.",
+    "manfaat": "Bahan saus, jus, baik untuk kesehatan saluran kemih.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan tanah rawa yang sangat basah dan masam.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang dengan musim dingin.",
+      "media_tanam": "Tanah rawa gambut yang masam."
+    },
+    "asal": "Amerika Utara",
+    "tinggi_maksimal": "20 cm (merayap)",
+    "tingkat_kesulitan": "Sangat Sulit (membutuhkan rawa)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 206,
+    "nama_tanaman": "Giant Sequoia",
+    "nama_latin": "Sequoiadendron giganteum",
+    "kategori": "Pohon Raksasa",
+    "deskripsi": "Jika Redwood adalah yang tertinggi, maka Giant Sequoia adalah yang terbesar dari segi volume. Pohon-pohon purba ini adalah organisme hidup terbesar di planet ini. Berdiri di samping 'General Sherman', spesimen terbesar, adalah pengalaman spiritual yang menghubungkan kita dengan keabadian alam.",
+    "manfaat": "Pohon terbesar di dunia, ikon Taman Nasional Sequoia.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim pegunungan dengan salju di musim dingin.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim sedang di pegunungan.",
+      "media_tanam": "Tanah pegunungan yang gembur."
+    },
+    "asal": "Pegunungan Sierra Nevada, California, AS",
+    "tinggi_maksimal": "95 meter",
+    "tingkat_kesulitan": "Sangat Sulit (membutuhkan ekosistem spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 207,
+    "nama_tanaman": "Pohon Joshua",
+    "nama_latin": "Yucca brevifolia",
+    "kategori": "Tanaman Gurun Ikonik",
+    "deskripsi": "Pohon Joshua bukanlah pohon sejati, melainkan sejenis Yucca raksasa. Bentuknya yang aneh dan bercabang-cabang seperti sedang berdoa menjadi ikon dari Gurun Mojave. Tanaman ini memiliki hubungan simbiosis mutualisme yang sangat unik dengan ngengat Yucca; satu tidak bisa bertahan hidup tanpa yang lain.",
+    "manfaat": "Ikon Gurun Mojave.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim gurun dengan suhu ekstrem (panas dan dingin).",
+      "media_tanam": "Tanah gurun berpasir."
+    },
+    "asal": "Gurun Mojave, AS",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sulit (tumbuh sangat lambat, butuh iklim gurun)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 208,
+    "nama_tanaman": "Kaktus Pir Berduri (Prickly Pear)",
+    "nama_latin": "Opuntia",
+    "kategori": "Kaktus Serbaguna",
+    "deskripsi": "Kaktus ini sangat serbaguna. Batangnya yang pipih seperti dayung ('nopal') dapat dimasak sebagai sayuran di masakan Meksiko setelah durinya dibersihkan. Buahnya ('tuna') memiliki rasa manis menyegarkan seperti persilangan semangka dan permen karet. Sangat tangguh dan mudah diperbanyak.",
+    "manfaat": "Batang dan buahnya dapat dimakan.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-40°C",
+      "media_tanam": "Tanah berpasir dengan drainase baik."
+    },
+    "asal": "Benua Amerika (terutama Meksiko)",
+    "tinggi_maksimal": "5 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 80000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 209,
+    "nama_tanaman": "Anggrek Cattleya",
+    "nama_latin": "Cattleya",
+    "kategori": "Anggrek",
+    "deskripsi": "Sering dijuluki 'Ratu Anggrek', Cattleya terkenal dengan bunganya yang sangat besar, mencolok, dan seringkali sangat harum. Labellum (lidah)-nya yang bergelombang dan berwarna kontras menjadi ciri khasnya. Anggrek ini adalah simbol kemewahan dan keindahan dalam dunia hortikultura.",
+    "manfaat": "Bunga anggrek yang sangat besar dan wangi, tanaman koleksi.",
+    "cara_perawatan": {
+      "penyiraman": "Biarkan media kering sempurna sebelum disiram lagi.",
+      "cahaya": "Cahaya terang, terlindung dari matahari siang.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media anggrek yang sangat kasar (arang, kulit pinus)."
+    },
+    "asal": "Amerika Tengah dan Selatan",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor (di jendela) / Teduh",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 210,
+    "nama_tanaman": "Allspice (Pimento)",
+    "nama_latin": "Pimenta dioica",
+    "kategori": "Tanaman Rempah",
+    "deskripsi": "Dinamakan 'Allspice' karena aromanya merupakan kombinasi kompleks dari cengkeh, kayu manis, dan pala. Buah berinya yang dikeringkan menjadi rempah penting dalam masakan Karibia (seperti 'jerk chicken') dan bumbu kue di Eropa. Semua aroma ini berasal dari satu tanaman tunggal.",
+    "manfaat": "Rempah masakan dengan aroma kompleks.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan yang teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah yang subur di iklim tropis."
+    },
+    "asal": "Karibia, Meksiko Selatan",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan iklim spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 211,
+    "nama_tanaman": "Jabuticaba",
+    "nama_latin": "Myrciaria cauliflora",
+    "kategori": "Tanaman Buah Unik",
+    "deskripsi": "Pohon ini berbuah dengan cara yang sangat aneh: buahnya yang berwarna ungu gelap dan mirip anggur tumbuh menempel langsung di batang utama dan cabang-cabang besarnya, bukan di ranting. Fenomena ini disebut 'cauliflory'. Buahnya memiliki rasa manis yang lezat.",
+    "manfaat": "Buah unik yang tumbuh di batang.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air, terutama saat berbuah.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "Iklim subtropis yang lembap.",
+      "media_tanam": "Tanah yang agak masam dan kaya organik."
+    },
+    "asal": "Brazil",
+    "tinggi_maksimal": "12 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 400000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 212,
+    "nama_tanaman": "Kacang Brazil",
+    "nama_latin": "Bertholletia excelsa",
+    "kategori": "Pohon Kacang",
+    "deskripsi": "Kacang Brazil tumbuh liar di dalam buah keras seperti batok kelapa di pohon-pohon raksasa yang menjulang tinggi di hutan Amazon. Panennya sangat bergantung pada ekosistem hutan yang utuh dan penyerbuk alaminya, sejenis lebah anggrek besar. Kacang ini sangat kaya akan selenium.",
+    "manfaat": "Sumber selenium yang sangat tinggi.",
+    "cara_perawatan": {
+      "penyiraman": "Tumbuh liar di hutan hujan.",
+      "cahaya": "Menjulang tinggi di atas kanopi hutan.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah hutan Amazon."
+    },
+    "asal": "Hutan Hujan Amazon",
+    "tinggi_maksimal": "50 meter",
+    "tingkat_kesulitan": "Sangat Sulit (hampir tidak bisa dibudidayakan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 213,
+    "nama_tanaman": "Coca",
+    "nama_latin": "Erythroxylum coca",
+    "kategori": "Tanaman Budaya & Kontroversial",
+    "deskripsi": "Selama ribuan tahun, suku-suku di Andes telah mengunyah daun coca untuk mengatasi kelelahan, kelaparan, dan penyakit ketinggian. Tanaman ini memiliki peran budaya dan spiritual yang dalam. Namun, dari daun inilah alkaloid kokain diekstraksi, menjadikannya salah satu tanaman paling kontroversial di dunia.",
+    "manfaat": "Stimulan tradisional di Andes, sumber kokain (ilegal).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim pegunungan yang lembap.",
+      "cahaya": "Tumbuh di lereng yang cerah.",
+      "suhu": "18-25°C",
+      "media_tanam": "Tanah pegunungan."
+    },
+    "asal": "Pegunungan Andes",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Sedang (penanamannya diatur secara ketat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 214,
+    "nama_tanaman": "Achiote (Kesumba)",
+    "nama_latin": "Bixa orellana",
+    "kategori": "Tanaman Pewarna",
+    "deskripsi": "Dari biji kecil berwarna merah di dalam buah berduri inilah diekstrak pigmen alami annatto. Pigmen ini telah digunakan selama berabad-abad sebagai pewarna makanan (memberi warna oranye pada keju cheddar), pewarna tubuh, dan bahkan lipstik oleh suku-suku asli Amazon.",
+    "manfaat": "Sumber pewarna makanan dan kosmetik alami.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah yang subur."
+    },
+    "asal": "Amerika Tropis",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 70000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 215,
+    "nama_tanaman": "Jicama (Bengkuang)",
+    "nama_latin": "Pachyrhizus erosus",
+    "kategori": "Tanaman Umbi",
+    "deskripsi": "Bengkuang adalah umbi yang unik karena tetap renyah bahkan setelah dimasak. Teksturnya yang seperti apel atau pir air dengan rasa sedikit manis membuatnya menjadi tambahan yang menyegarkan untuk rujak dan asinan. Umbinya kaya akan serat prebiotik inulin.",
+    "manfaat": "Bahan rujak dan asinan, kaya serat prebiotik.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, namun butuh air untuk umbi besar.",
+      "cahaya": "Sinar matahari penuh dan musim panas yang panjang.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah gembur berpasir."
+    },
+    "asal": "Meksiko",
+    "tinggi_maksimal": "5 meter (merambat)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 216,
+    "nama_tanaman": "Philodendron Selloum",
+    "nama_latin": "Thaumatophyllum bipinnatifidum",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Tanaman ini adalah monster tropis yang ramah. Daunnya yang sangat besar, hijau tua, dan menjari dalam memberikan kesan hutan hujan yang rimbun pada lanskap atau ruangan besar. Batangnya yang tebal meninggalkan 'bekas luka' mata saat daun tua gugur, menambah karakternya.",
+    "manfaat": "Memberikan nuansa hutan tropis yang kuat, pembersih udara.",
+    "cara_perawatan": {
+      "penyiraman": "Siram secara mendalam saat tanah mulai kering.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah pot yang kaya bahan organik."
+    },
+    "asal": "Brazil Selatan",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Indoor / Outdoor (Teduh)",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 217,
+    "nama_tanaman": "Calathea Ornata",
+    "nama_latin": "Goeppertia ornata",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Calathea Ornata atau 'Pinstripe Calathea' adalah sebuah karya seni. Daun hijau gelapnya dihiasi dengan garis-garis merah muda tipis yang dilukis dengan sempurna oleh alam. Seperti Calathea lainnya, daunnya akan naik dan turun mengikuti siklus siang dan malam, memberinya julukan 'prayer plant'.",
+    "manfaat": "Tanaman hias indoor dengan corak daun yang sangat detail.",
+    "cara_perawatan": {
+      "penyiraman": "Wajib menggunakan air rendah mineral, jaga tanah tetap lembap.",
+      "cahaya": "Cahaya sedang hingga terang, tidak langsung. Butuh kelembapan tinggi.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam yang menahan kelembapan."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 95000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 218,
+    "nama_tanaman": "Peperomia Watermelon",
+    "nama_latin": "Peperomia argyreia",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Tanaman hias kecil ini sangat populer karena daunnya yang benar-benar menyerupai kulit semangka. Daunnya yang bulat dengan corak garis perak dan hijau tumbuh dari batang berwarna merah yang kontras. Ukurannya yang mungil dan penampilannya yang unik membuatnya menjadi primadona tanaman meja.",
+    "manfaat": "Tanaman hias meja yang sangat dekoratif.",
+    "cara_perawatan": {
+      "penyiraman": "Biarkan tanah bagian atas mengering sebelum disiram lagi.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "18-26°C",
+      "media_tanam": "Tanah pot dengan drainase baik."
+    },
+    "asal": "Amerika Selatan",
+    "tinggi_maksimal": "20 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 80000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 219,
+    "nama_tanaman": "Pohon Ipe (Lapacho)",
+    "nama_latin": "Handroanthus",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Di musim kering, pohon Ipe akan menggugurkan daunnya dan meledak dalam bunga berbentuk terompet berwarna kuning cerah atau merah muda yang spektakuler. Pohon ini adalah salah satu sumber kayu teras terkeras dan terpadat di dunia (ironwood), sangat tahan terhadap pelapukan dan serangga.",
+    "manfaat": "Pohon peneduh dengan bunga yang indah, sumber kayu yang sangat awet.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Sangat adaptif di iklim tropis."
+    },
+    "asal": "Amerika Tengah dan Selatan",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 220000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 220,
+    "nama_tanaman": "Poison Ivy",
+    "nama_latin": "Toxicodendron radicans",
+    "kategori": "Tanaman Beracun",
+    "deskripsi": "'Leaves of three, let it be.' Pepatah ini adalah pengingat untuk menjauhi tanaman ini. Ciri khasnya adalah tiga helai daun dalam satu tangkai. Getahnya, urushiol, menyebabkan ruam gatal yang parah pada kebanyakan orang. Meskipun berbahaya bagi manusia, buah berinya adalah makanan penting bagi burung di musim dingin.",
+    "manfaat": "Sumber makanan bagi satwa liar.",
+    "cara_perawatan": {
+      "penyiraman": "Tumbuh liar.",
+      "cahaya": "Sangat adaptif.",
+      "suhu": "Iklim sedang.",
+      "media_tanam": "Tumbuh di mana saja (PERINGATAN: SANGAT IRITAN)."
+    },
+    "asal": "Amerika Utara, Asia Timur",
+    "tinggi_maksimal": "30 cm (atau merambat tinggi)",
+    "tingkat_kesulitan": "Sangat Mudah (invasif)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  }
+]

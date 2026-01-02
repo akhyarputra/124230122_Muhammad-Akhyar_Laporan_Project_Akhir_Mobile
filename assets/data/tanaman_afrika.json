@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 111,
+    "nama_tanaman": "Pohon Baobab",
+    "nama_latin": "Adansonia digitata",
+    "kategori": "Pohon Ikonik",
+    "deskripsi": "Dikenal sebagai 'Pohon Kehidupan', Baobab adalah siluet paling ikonik dari sabana Afrika. Batangnya yang sangat gemuk mampu menyimpan ribuan liter air untuk bertahan di musim kering. Dengan penampilannya yang seperti pohon terbalik (akar di atas), Baobab dikelilingi oleh banyak mitos dan legenda, serta menjadi pusat kehidupan bagi manusia dan hewan.",
+    "manfaat": "Menyimpan air, buahnya (monkey bread) kaya vitamin C, peneduh, nilai spiritual.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan, benci genangan air.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-40°C",
+      "media_tanam": "Tanah berpasir dengan drainase sangat baik."
+    },
+    "asal": "Afrika Daratan",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Sedang (butuh iklim kering dan panas)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 800000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 112,
+    "nama_tanaman": "King Protea",
+    "nama_latin": "Protea cynaroides",
+    "kategori": "Bunga Nasional",
+    "deskripsi": "Sebagai bunga nasional Afrika Selatan, King Protea adalah sebuah mahakarya. Kepala bunganya yang raksasa, terbesar dari semua Protea, dikelilingi oleh kelopak (bracht) kaku berwarna pink yang menyerupai mahkota. Bunga ini adalah simbol keindahan yang tangguh, beradaptasi untuk bertahan hidup dari kebakaran hutan di habitat aslinya, Fynbos.",
+    "manfaat": "Bunga potong mewah yang tahan lama, menarik burung penyerbuk (sugarbirds).",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan, benci kelembapan berlebih.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "15-28°C",
+      "media_tanam": "Tanah berpasir, miskin nutrisi, agak masam. Hindari pupuk dengan fosfor."
+    },
+    "asal": "Afrika Selatan (Fynbos Biome)",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 450000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 113,
+    "nama_tanaman": "Bird of Paradise",
+    "nama_latin": "Strelitzia reginae",
+    "kategori": "Bunga Unik",
+    "deskripsi": "Strelitzia adalah drama dan kemewahan dalam bentuk tanaman. Daunnya yang besar dan tegak seperti dayung memberikan kesan tropis yang kuat. Namun, daya tarik utamanya adalah bunganya yang spektakuler, menyerupai kepala burung cendrawasih dengan jambul oranye dan 'paruh' biru yang tajam.",
+    "manfaat": "Memberikan kesan tropis mewah, bunga potong eksotis.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah mulai kering, lebih sering saat cuaca panas.",
+      "cahaya": "Cahaya terang sebanyak mungkin, bahkan matahari langsung.",
+      "suhu": "21-30°C",
+      "media_tanam": "Tanah subur dengan drainase baik."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Indoor / Outdoor",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 114,
+    "nama_tanaman": "Pohon Marula",
+    "nama_latin": "Sclerocarya birrea",
+    "kategori": "Pohon Buah",
+    "deskripsi": "Pohon Marula adalah 'pohon gajah' karena gajah sangat menyukai buahnya yang matang dan berfermentasi. Buahnya yang kaya vitamin C menjadi sumber makanan penting bagi banyak hewan. Buah ini juga merupakan bahan dasar dari liqueur krim terkenal, Amarula. Pohon ini dianggap suci oleh banyak suku lokal.",
+    "manfaat": "Buah kaya vitamin C, bahan dasar liqueur Amarula, minyak dari bijinya.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-40°C",
+      "media_tanam": "Tanah berpasir di sabana."
+    },
+    "asal": "Afrika Bagian Selatan",
+    "tinggi_maksimal": "18 meter",
+    "tingkat_kesulitan": "Mudah (di iklim yang tepat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 220000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 115,
+    "nama_tanaman": "Pohon Sosis (Sausage Tree)",
+    "nama_latin": "Kigelia africana",
+    "kategori": "Pohon Unik",
+    "deskripsi": "Namanya berasal dari buahnya yang sangat unik: berukuran besar, keras, dan menggantung pada tangkai panjang seperti sosis raksasa. Bunganya yang berwarna merah tua mekar di malam hari dan diserbuki oleh kelelawar. Meski buahnya beracun jika mentah, ekstraknya populer dalam produk perawatan kulit.",
+    "manfaat": "Pohon peneduh unik, ekstrak buah untuk kosmetik.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air secara teratur.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tumbuh di sepanjang tepi sungai."
+    },
+    "asal": "Afrika Tropis",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 116,
+    "nama_tanaman": "Lidah Buaya",
+    "nama_latin": "Aloe vera",
+    "kategori": "Tanaman Herbal & Sukulen",
+    "deskripsi": "Lidah buaya adalah apotek hidup serbaguna yang wajib ada di setiap rumah. Gel bening di dalam daunnya yang tebal adalah obat pertolongan pertama untuk luka bakar ringan dan sengatan matahari. Selain itu, ia sangat populer sebagai bahan untuk melembapkan kulit dan menyuburkan rambut.",
+    "manfaat": "Perawatan kulit dan rambut, pertolongan pertama pada luka bakar.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat jarang, biarkan tanah kering sempurna antar penyiraman.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "18-28°C",
+      "media_tanam": "Media tanam kaktus/sukulen."
+    },
+    "asal": "Jazirah Arab (dianggap bagian dari ekoregion Afrika)",
+    "tinggi_maksimal": "80 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Indoor / Outdoor",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 117,
+    "nama_tanaman": "Welwitschia mirabilis",
+    "nama_latin": "Welwitschia mirabilis",
+    "kategori": "Fosil Hidup",
+    "deskripsi": "Salah satu tanaman paling aneh dan paling tahan lama di Bumi. Welwitschia hanya menumbuhkan dua daun seumur hidupnya. Dua daun ini terus tumbuh selama ribuan tahun, menjadi sobek dan usang oleh angin gurun. Ia mampu bertahan hidup dengan menyerap embun malam melalui daunnya di Gurun Namib yang ekstrem.",
+    "manfaat": "Keajaiban evolusi, ikon Gurun Namib.",
+    "cara_perawatan": {
+      "penyiraman": "Hampir tidak perlu disiram, sangat rentan busuk.",
+      "cahaya": "Sinar matahari penuh dan panas ekstrem.",
+      "suhu": "30-50°C",
+      "media_tanam": "Pasir atau kerikil gurun."
+    },
+    "asal": "Gurun Namib (Angola, Namibia)",
+    "tinggi_maksimal": "1.5 meter (tinggi), 4 meter (lebar daun)",
+    "tingkat_kesulitan": "Sangat Sulit (hampir mustahil di luar habitatnya)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 118,
+    "nama_tanaman": "Tanaman ZZ",
+    "nama_latin": "Zamioculcas zamiifolia",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Zamioculcas zamiifolia atau ZZ Plant adalah definisi dari tanaman tangguh. Dengan daun hijau tua yang tebal dan mengkilap seperti terbuat dari plastik, tanaman ini mampu menyimpan air di umbi bawah tanahnya dan bertahan dalam kondisi kurang cahaya. Sangat cocok bagi pemula atau orang yang sering bepergian.",
+    "manfaat": "Sangat toleran kondisi minim cahaya, hanya butuh sedikit air.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat jarang, 1-2 kali sebulan sudah cukup.",
+      "cahaya": "Cahaya rendah hingga terang tidak langsung.",
+      "suhu": "18-30°C",
+      "media_tanam": "Media tanam dengan drainase sangat baik."
+    },
+    "asal": "Afrika Timur",
+    "tinggi_maksimal": "90 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 95000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 119,
+    "nama_tanaman": "Lidah Mertua",
+    "nama_latin": "Dracaena trifasciata",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Sansevieria atau Lidah Mertua adalah tanaman 'superhero' untuk pemula. Ia hampir tidak bisa mati, mampu bertahan diabaikan, dan secara aktif menyaring racun dari udara bahkan di malam hari (menggunakan metabolisme CAM). Bentuknya yang tegak dan tegas memberikan sentuhan arsitektural pada ruangan manapun.",
+    "manfaat": "Pembersih udara terbaik (termasuk di malam hari), sangat mudah dirawat.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat jarang, siram saat tanah kering kerontang.",
+      "cahaya": "Sangat toleran, dari cahaya rendah hingga terang.",
+      "suhu": "18-35°C",
+      "media_tanam": "Media tanam sukulen/kaktus yang sangat porous."
+    },
+    "asal": "Afrika Barat",
+    "tinggi_maksimal": "1.2 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Indoor / Outdoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 120,
+    "nama_tanaman": "Ravenala (Palem Pisang Kipas)",
+    "nama_latin": "Ravenala madagascariensis",
+    "kategori": "Tanaman Ikonik",
+    "deskripsi": "Meskipun sering disebut palem, Ravenala sebenarnya lebih berkerabat dengan pisang dan Strelitzia. Daunnya yang masif tumbuh membentuk kipas dua dimensi yang spektakuler. Nama 'Traveller's Palm' berasal dari kemampuannya menyimpan air hujan di pangkal daunnya, yang bisa menjadi sumber air darurat bagi para penjelajah.",
+    "manfaat": "Tanaman focal point yang sangat dramatis, simbol Madagaskar.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan banyak air dan nutrisi.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah yang kaya bahan organik."
+    },
+    "asal": "Madagaskar",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 500000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 121,
+    "nama_tanaman": "African Violet",
+    "nama_latin": "Saintpaulia",
+    "kategori": "Bunga Hias Indoor",
+    "deskripsi": "African Violet adalah salah satu tanaman hias indoor paling populer di dunia. Daunnya yang berbulu lembut dan bunganya yang mungil berwarna ungu, pink, atau putih, mekar hampir sepanjang tahun. Ukurannya yang kecil membuatnya sempurna untuk diletakkan di ambang jendela.",
+    "manfaat": "Bunga indoor yang rajin mekar, tidak membutuhkan banyak ruang.",
+    "cara_perawatan": {
+      "penyiraman": "Siram dari bawah (rendam pot), jangan basahi daunnya.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-25°C",
+      "media_tanam": "Media tanam khusus African Violet yang ringan."
+    },
+    "asal": "Tanzania, Kenya",
+    "tinggi_maksimal": "15 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 55000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 122,
+    "nama_tanaman": "Kopi Arabika",
+    "nama_latin": "Coffea arabica",
+    "kategori": "Tanaman Perkebunan",
+    "deskripsi": "Kisah kopi dimulai di sini, di dataran tinggi Ethiopia. Menurut legenda, seorang penggembala kambing bernama Kaldi menemukan kambingnya menjadi sangat energik setelah memakan buah beri dari pohon ini. Dari penemuan itu, lahirlah minuman yang membangkitkan semangat miliaran orang setiap hari.",
+    "manfaat": "Biji sebagai bahan dasar kopi berkualitas tinggi.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh curah hujan teratur atau irigasi.",
+      "cahaya": "Di bawah naungan pohon yang lebih tinggi.",
+      "suhu": "18-24°C (dataran tinggi).",
+      "media_tanam": "Tanah vulkanik yang subur."
+    },
+    "asal": "Ethiopia",
+    "tinggi_maksimal": "5 meter (dipangkas)",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 123,
+    "nama_tanaman": "Pachypodium (Palem Madagaskar)",
+    "nama_latin": "Pachypodium lamerei",
+    "kategori": "Tanaman Sukulen Unik",
+    "deskripsi": "Meski disebut 'palem', tanaman ini sebenarnya adalah sukulen berduri. Batangnya yang tebal dan berwarna perak dilapisi duri-duri tajam, dengan mahkota daun hijau di puncaknya. Ia adalah contoh konvergensi evolusi, tampak seperti kaktus dari benua Amerika, namun berkerabat jauh.",
+    "manfaat": "Tanaman hias arsitektural, tahan kering.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat jarang, biarkan tanah kering sempurna.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Media tanam kaktus yang sangat porous."
+    },
+    "asal": "Madagaskar",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Indoor (jika ada matahari penuh)",
+    "harga_perkiraan": 280000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 124,
+    "nama_tanaman": "Pelargonium (Geranium)",
+    "nama_latin": "Pelargonium",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Bunga yang sering kita sebut Geranium sebenarnya adalah Pelargonium, tanaman asli Afrika Selatan. Varietasnya sangat beragam, dari yang daunnya wangi (lemon, mawar), hingga yang bunganya berwarna-warni cerah. Tanaman ini sangat populer sebagai penghias pot dan balkon di seluruh dunia.",
+    "manfaat": "Bunga pot/balkon yang rajin berbunga, beberapa jenis daunnya wangi.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah mulai kering.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah pot biasa dengan drainase baik."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 125,
+    "nama_tanaman": "String of Pearls",
+    "nama_latin": "Senecio rowleyanus",
+    "kategori": "Tanaman Hias Gantung",
+    "deskripsi": "'Untaian Mutiara' adalah sukulen gantung yang sangat unik. Daunnya berevolusi menjadi bola-bola hijau sempurna yang menjuntai ke bawah seperti kalung. Setiap 'mutiara' adalah penyimpan air yang efisien, adaptasi terhadap iklim kering di habitat aslinya.",
+    "manfaat": "Tanaman gantung yang sangat dekoratif dan unik.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat jarang, siram saat 'mutiara' mulai sedikit mengerut.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam kaktus."
+    },
+    "asal": "Afrika Barat Daya",
+    "tinggi_maksimal": "90 cm (menjuntai)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 75000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 126,
+    "nama_tanaman": "Khat",
+    "nama_latin": "Catha edulis",
+    "kategori": "Tanaman Stimulan",
+    "deskripsi": "Khat adalah tanaman semak yang daun segarnya dikunyah karena efek stimulan mirip amfetamin. Ini adalah tradisi sosial yang telah berlangsung berabad-abad di Tanduk Afrika dan Jazirah Arab. Meskipun legal di beberapa negara, tanaman ini dianggap sebagai narkotika di banyak negara lain.",
+    "manfaat": "Stimulan sosial (dalam budaya asalnya).",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Tanduk Afrika (Ethiopia, Kenya)",
+    "tinggi_maksimal": "5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 127,
+    "nama_tanaman": "African Daisy",
+    "nama_latin": "Osteospermum",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Daisy Afrika ini membawa keceriaan sabana ke taman Anda. Bunganya yang mirip daisy hadir dalam palet warna yang luar biasa, dari oranye senja, ungu tua, hingga kuning cerah. Keunikannya terletak pada bagian tengahnya yang sering berwarna biru atau ungu gelap, menciptakan kontras yang memukau.",
+    "manfaat": "Tanaman hamparan (ground cover) yang penuh warna.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 35000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 128,
+    "nama_tanaman": "Pohon Akasia Payung",
+    "nama_latin": "Vachellia tortilis",
+    "kategori": "Pohon Ikonik",
+    "deskripsi": "Tidak ada pemandangan yang lebih identik dengan sabana Afrika selain siluet pohon Akasia Payung saat matahari terbenam. Kanopinya yang datar dan melebar adalah adaptasi untuk memaksimalkan penyerapan cahaya matahari yang miring di pagi dan sore hari. Daun dan polongnya adalah makanan utama bagi jerapah dan gajah.",
+    "manfaat": "Peneduh di sabana, sumber makanan satwa liar.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan dan panas.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-45°C",
+      "media_tanam": "Tanah berpasir atau berbatu."
+    },
+    "asal": "Sabana Afrika",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan iklim spesifik)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 300000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 129,
+    "nama_tanaman": "Agapanthus (Lily of the Nile)",
+    "nama_latin": "Agapanthus africanus",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Meskipun namanya 'Lily of the Nile', tanaman ini berasal dari Afrika Selatan. Tangkai bunganya yang tinggi dan kokoh menopang bola bunga berwarna biru atau putih yang terdiri dari banyak bunga kecil berbentuk terompet. Sangat populer sebagai tanaman pembatas di taman formal.",
+    "manfaat": "Tanaman pembatas (border), bunga potong.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah biasa dengan drainase baik."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "1 meter (tangkai bunga)",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 65000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 130,
+    "nama_tanaman": "Candelabra Tree",
+    "nama_latin": "Euphorbia ingens",
+    "kategori": "Tanaman Sukulen Unik",
+    "deskripsi": "Tanaman sukulen raksasa ini tumbuh menyerupai kaktus, dengan lengan-lengan tebal yang menjulang ke atas seperti kandil lilin (candelabra). Getahnya yang berwarna putih susu sangat beracun dan dapat menyebabkan kebutaan jika terkena mata. Pohon ini membentuk lanskap unik di sabana kering.",
+    "manfaat": "Tanaman arsitektural untuk taman kering.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-38°C",
+      "media_tanam": "Tanah berpasir (PERINGATAN: getah beracun)."
+    },
+    "asal": "Afrika Bagian Selatan",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Mudah (hati-hati dengan getahnya)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 400000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 131,
+    "nama_tanaman": "Kurma",
+    "nama_latin": "Phoenix dactylifera",
+    "kategori": "Pohon Buah",
+    "deskripsi": "Pohon kurma adalah kehidupan di tengah gurun. Selama ribuan tahun, buahnya yang sangat manis telah menjadi sumber energi dan makanan pokok bagi masyarakat di Afrika Utara dan Timur Tengah. Pohonnya yang menjulang tinggi memberikan naungan yang berharga di oasis.",
+    "manfaat": "Sumber buah kurma yang bergizi, peneduh di oasis.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan sumber air bawah tanah yang konstan (oasis).",
+      "cahaya": "Sinar matahari penuh dan panas ekstrem.",
+      "suhu": "30-50°C",
+      "media_tanam": "Tanah berpasir."
+    },
+    "asal": "Afrika Utara, Timur Tengah",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Sulit (membutuhkan kondisi oasis)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 300000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 132,
+    "nama_tanaman": "Gazania (Bunga Harta Karun)",
+    "nama_latin": "Gazania rigens",
+    "kategori": "Bunga Padang Pasir",
+    "deskripsi": "Gazania adalah bunga matahari versi mini dari Afrika Selatan. Bunganya yang sangat cerah dengan pola warna yang kompleks akan membuka saat terkena sinar matahari dan menutup di malam hari atau saat cuaca mendung. Sangat tangguh dan ideal sebagai tanaman penutup tanah di lokasi yang panas dan kering.",
+    "manfaat": "Tanaman penutup tanah (ground cover) yang tahan kering.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh (wajib untuk mekar).",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah berpasir dan miskin nutrisi."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "30 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 133,
+    "nama_tanaman": "Gladiool",
+    "nama_latin": "Gladiolus",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Tangkai bunga Gladiool yang menjulang tinggi dihiasi oleh bunga-bunga berbentuk terompet yang mekar secara berurutan dari bawah ke atas. Tanaman yang berasal dari umbi ini adalah bunga potong yang sangat populer dan dramatis. Nama Gladiolus berasal dari kata Latin 'gladius', yang berarti pedang, merujuk pada bentuk daunnya.",
+    "manfaat": "Bunga potong yang populer dan tinggi.",
+    "cara_perawatan": {
+      "penyiraman": "Secara teratur saat masa pertumbuhan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah gembur dengan drainase baik."
+    },
+    "asal": "Afrika, Mediterania, Timur Tengah",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 134,
+    "nama_tanaman": "Kelapa Sawit",
+    "nama_latin": "Elaeis guineensis",
+    "kategori": "Tanaman Industri",
+    "deskripsi": "Tanaman ini adalah sumber minyak nabati paling produktif di dunia. Buahnya yang berwarna merah-oranye menghasilkan dua jenis minyak: minyak sawit dari daging buahnya dan minyak inti sawit dari bijinya. Meskipun sangat efisien, perkebunan monokulturnya menjadi isu lingkungan yang kompleks.",
+    "manfaat": "Sumber utama minyak nabati global (minyak goreng, margarin, dll).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan yang sangat tinggi.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah subur di iklim tropis basah."
+    },
+    "asal": "Afrika Barat",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sedang (Skala Perkebunan)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 135,
+    "nama_tanaman": "Semangka",
+    "nama_latin": "Citrullus lanatus",
+    "kategori": "Tanaman Buah",
+    "deskripsi": "Pelepas dahaga terbaik di musim panas ini ternyata berasal dari Gurun Kalahari. Nenek moyang semangka adalah buah liar yang dimanfaatkan oleh suku San sebagai sumber air darurat. Ribuan tahun seleksi budidaya telah mengubahnya menjadi buah manis dan berair yang kita kenal sekarang.",
+    "manfaat": "Buah yang sangat menyegarkan dan menghidrasi.",
+    "cara_perawatan": {
+      "penyiraman": "Butuh banyak air, tetapi suka cuaca panas dan kering.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah berpasir yang subur."
+    },
+    "asal": "Afrika bagian Selatan",
+    "tinggi_maksimal": "5 meter (merambat)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 15000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 136,
+    "nama_tanaman": "Fiddle Leaf Fig",
+    "nama_latin": "Ficus lyrata",
+    "kategori": "Tanaman Hias Daun",
+    "deskripsi": "Ficus lyrata atau Biola Cantik adalah 'statement piece' dalam desain interior. Daunnya yang besar, tebal, dan berbentuk seperti biola memberikan kesan dramatis dan mewah. Merawat tanaman ini ibarat memiliki sebuah patung hidup yang terus tumbuh dan mengubah suasana ruangan menjadi lebih berkelas.",
+    "manfaat": "Focal point dalam ruangan, meningkatkan estetika interior.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat bagian atas tanah kering, jangan overwater.",
+      "cahaya": "Butuh banyak cahaya terang tidak langsung, dekat jendela.",
+      "suhu": "18-28°C",
+      "media_tanam": "Tanah dengan drainase yang sangat baik."
+    },
+    "asal": "Afrika Barat",
+    "tinggi_maksimal": "3 meter (indoor)",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 180000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 137,
+    "nama_tanaman": "Lithops (Batu Hidup)",
+    "nama_latin": "Lithops",
+    "kategori": "Tanaman Sukulen Unik",
+    "deskripsi": "Lithops adalah master kamuflase. Tanaman ini berevolusi agar terlihat persis seperti kerikil di habitat aslinya untuk menghindari herbivora. Sebagian besar tubuhnya berada di bawah tanah, hanya bagian atasnya yang datar dan tembus cahaya yang muncul untuk fotosintesis. Merawatnya adalah latihan menahan diri untuk tidak menyiram.",
+    "manfaat": "Tanaman koleksi yang sangat unik, objek keingintahuan.",
+    "cara_perawatan": {
+      "penyiraman": "Hampir tidak pernah disiram, mungkin hanya 3-4 kali SETAHUN.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-40°C",
+      "media_tanam": "Media tanam hampir seluruhnya pasir dan kerikil."
+    },
+    "asal": "Afrika Selatan, Namibia",
+    "tinggi_maksimal": "5 cm",
+    "tingkat_kesulitan": "Sulit (karena mudah busuk)",
+    "kategori_cahaya": "Indoor (di jendela paling panas)",
+    "harga_perkiraan": 80000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 138,
+    "nama_tanaman": "Dragon Tree",
+    "nama_latin": "Dracaena draco",
+    "kategori": "Pohon Ikonik",
+    "deskripsi": "Pohon ini terlihat seperti berasal dari dunia lain. Cabangnya yang tebal bercabang secara aneh dan di ujungnya terdapat roset daun berbentuk pedang. Jika batangnya dilukai, ia mengeluarkan getah merah darah yang disebut 'darah naga'. Pohon ini tumbuh sangat lambat dan dapat hidup ribuan tahun.",
+    "manfaat": "Pohon arsitektural, getah 'darah naga' untuk pewarna dan pernis.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah vulkanik dengan drainase baik."
+    },
+    "asal": "Kepulauan Canary (Afrika)",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Mudah (tapi sangat lambat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 600000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 139,
+    "nama_tanaman": "Miracle Berry",
+    "nama_latin": "Synsepalum dulcificum",
+    "kategori": "Tanaman Buah Unik",
+    "deskripsi": "Buah beri merah kecil ini tidak manis, tapi ia melakukan keajaiban. Di dalamnya terkandung protein 'miraculin' yang akan mengikat reseptor rasa di lidah. Setelah memakannya, semua makanan asam (seperti lemon) akan terasa sangat manis selama sekitar satu jam. Sebuah pengalaman sensorik yang unik.",
+    "manfaat": "Mengubah persepsi rasa asam menjadi manis.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Sinar matahari parsial.",
+      "suhu": "25-32°C",
+      "media_tanam": "Tanah masam (acidic)."
+    },
+    "asal": "Afrika Barat",
+    "tinggi_maksimal": "3 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 250000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 140,
+    "nama_tanaman": "Sorghum",
+    "nama_latin": "Sorghum bicolor",
+    "kategori": "Tanaman Pangan",
+    "deskripsi": "Sorghum adalah sereal penyelamat hidup di daerah kering Afrika. Ketahanannya yang luar biasa terhadap kekeringan membuatnya menjadi sumber pangan pokok di tempat jagung atau gandum gagal tumbuh. Bijinya diolah menjadi bubur atau roti pipih, sementara batangnya bisa menghasilkan sirup.",
+    "manfaat": "Sumber pangan tahan kering, pakan ternak.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "28-35°C",
+      "media_tanam": "Tumbuh di tanah marjinal."
+    },
+    "asal": "Afrika",
+    "tinggi_maksimal": "4 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 141,
+    "nama_tanaman": "Yohimbe",
+    "nama_latin": "Pausinystalia johimbe",
+    "kategori": "Tanaman Herbal",
+    "deskripsi": "Kulit dari pohon ini adalah sumber dari yohimbine, senyawa yang dikenal luas sebagai afrodisiak dan digunakan dalam pengobatan tradisional untuk disfungsi ereksi. Penggunaannya harus dengan hati-hati karena dapat memiliki efek samping yang signifikan.",
+    "manfaat": "Afrodisiak tradisional, suplemen kesehatan.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim hutan hujan yang basah.",
+      "cahaya": "Tumbuh di bawah kanopi hutan.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah hutan yang subur."
+    },
+    "asal": "Afrika Barat dan Tengah",
+    "tinggi_maksimal": "30 meter",
+    "tingkat_kesulitan": "Sulit (tanaman hutan liar)",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 142,
+    "nama_tanaman": "Kacang Kola",
+    "nama_latin": "Cola acuminata",
+    "kategori": "Tanaman Stimulan",
+    "deskripsi": "Kacang inilah yang menjadi inspirasi nama 'Coca-Cola'. Bijinya kaya akan kafein dan secara tradisional dikunyah sebagai stimulan sosial di banyak budaya Afrika Barat. Rasanya pahit pada awalnya, namun meninggalkan rasa manis setelahnya. Biji kola adalah simbol keramahan dan sering disajikan kepada tamu.",
+    "manfaat": "Stimulan (mengandung kafein), simbol budaya.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan yang tinggi.",
+      "cahaya": "Tumbuh di bawah naungan di hutan.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah subur di dataran rendah."
+    },
+    "asal": "Afrika Barat",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 143,
+    "nama_tanaman": "Cape Honeysuckle",
+    "nama_latin": "Tecoma capensis",
+    "kategori": "Tanaman Merambat",
+    "deskripsi": "Tanaman rambat yang sangat kuat dan rajin berbunga ini akan menghasilkan rumpun bunga berbentuk terompet berwarna oranye terang yang mencolok. Ia mampu bertahan dalam kondisi panas dan kering, dan sangat efektif untuk menutupi pagar atau dinding dengan cepat. Bunga ini menjadi favorit burung pemakan madu.",
+    "manfaat": "Tanaman penutup pagar, menarik burung.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan setelah dewasa.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Sangat adaptif, tidak pemilih tanah."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "7 meter (merambat)",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 90000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 144,
+    "nama_tanaman": "Clivia",
+    "nama_latin": "Clivia miniata",
+    "kategori": "Bunga Hias Teduh",
+    "deskripsi": "Clivia adalah penyelamat untuk sudut taman yang gelap dan teduh. Daunnya yang tebal dan berwarna hijau tua tersusun rapi, dan sekali setahun ia akan menghasilkan tangkai bunga dengan sekelompok besar bunga oranye berbentuk terompet yang sangat cerah. Sangat bagus ditanam di bawah pohon besar.",
+    "manfaat": "Tanaman hias untuk lokasi sangat teduh.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah kering, kurangi di musim dingin.",
+      "cahaya": "Teduh total, daun akan terbakar di bawah sinar matahari.",
+      "suhu": "18-25°C",
+      "media_tanam": "Tanah pot dengan drainase baik."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "50 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 120000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 145,
+    "nama_tanaman": "Pohon Demam (Fever Tree)",
+    "nama_latin": "Vachellia xanthophloea",
+    "kategori": "Pohon Ikonik",
+    "deskripsi": "Pohon Akasia ini memiliki kulit batang yang sangat unik, berwarna kuning kehijauan dan halus. Para pemukim awal secara keliru mengira pohon ini menyebabkan malaria (demam) karena sering tumbuh di daerah rawa tempat nyamuk berkembang biak. Pohon ini kini menjadi inspirasi nama untuk merek air tonik terkenal.",
+    "manfaat": "Pohon hias dengan batang berwarna unik.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan genangan air, tumbuh di tepi danau dan sungai.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tanah yang lembap."
+    },
+    "asal": "Afrika Tenggara",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Mudah (di lokasi basah)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 280000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 146,
+    "nama_tanaman": "Crown of Thorns",
+    "nama_latin": "Euphorbia milii",
+    "kategori": "Tanaman Sukulen",
+    "deskripsi": "Dinamakan 'Mahkota Duri' karena batangnya yang sangat berduri dan legenda yang mengaitkannya dengan mahkota Yesus. Meskipun penampilannya garang, tanaman ini menghasilkan bunga-bunga kecil yang ceria dan berwarna cerah hampir sepanjang tahun. Sangat tangguh dan tahan panas.",
+    "manfaat": "Tanaman hias berduri yang rajin berbunga.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan, siram saat tanah kering.",
+      "cahaya": "Sinar matahari penuh untuk bunga maksimal.",
+      "suhu": "22-32°C",
+      "media_tanam": "Media tanam kaktus (PERINGATAN: getah beracun)."
+    },
+    "asal": "Madagaskar",
+    "tinggi_maksimal": "1.5 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 40000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 147,
+    "nama_tanaman": "Calla Lily",
+    "nama_latin": "Zantedeschia aethiopica",
+    "kategori": "Bunga Hias",
+    "deskripsi": "Calla Lily bukanlah lily sejati. Bunga putihnya yang elegan dan minimalis sebenarnya adalah seludang daun (spathe) yang membungkus perbungaan kuning di tengahnya. Bentuknya yang seperti piala melambangkan kesucian dan keanggunan, menjadikannya bunga favorit untuk pernikahan.",
+    "manfaat": "Bunga potong elegan, tanaman hias untuk area basah.",
+    "cara_perawatan": {
+      "penyiraman": "Suka tanah yang basah atau bahkan tergenang.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "18-26°C",
+      "media_tanam": "Tanah kaya organik di tepi kolam atau area basah."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "1 meter",
+    "tingkat_kesulitan": "Mudah (di lokasi basah)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 65000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 148,
+    "nama_tanaman": "Pohon Cokelat",
+    "nama_latin": "Theobroma cacao",
+    "kategori": "Tanaman Perkebunan",
+    "deskripsi": "Meskipun berasal dari Amerika Tengah, Afrika Barat kini menjadi produsen biji kakao terbesar di dunia. Buah kakao yang tumbuh langsung dari batang berisi biji yang setelah melalui proses fermentasi, pengeringan, dan pemanggangan, akan menjadi cokelat yang kita cintai.",
+    "manfaat": "Sumber biji kakao untuk produksi cokelat.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan curah hujan yang tinggi.",
+      "cahaya": "Tumbuh di bawah naungan pohon hutan hujan.",
+      "suhu": "25-30°C",
+      "media_tanam": "Tanah hutan yang dalam dan subur."
+    },
+    "asal": "Amerika Tengah (dibudidayakan secara masif di Afrika Barat)",
+    "tinggi_maksimal": "8 meter",
+    "tingkat_kesulitan": "Sulit (Skala Perkebunan)",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 149,
+    "nama_tanaman": "Haworthia Zebra",
+    "nama_latin": "Haworthiopsis attenuata",
+    "kategori": "Tanaman Sukulen",
+    "deskripsi": "Sukulen kecil ini sangat populer sebagai tanaman hias meja karena ukurannya yang mungil dan motifnya yang menarik. Daunnya yang runcing dihiasi oleh garis-garis putih horizontal yang tegas, menyerupai pola pada zebra. Sangat mudah dirawat dan tidak membutuhkan banyak ruang.",
+    "manfaat": "Tanaman hias meja yang mudah dirawat.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat jarang, siram saat tanah kering kerontang.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam kaktus."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "15 cm",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 45000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 150,
+    "nama_tanaman": "Pohon Koral",
+    "nama_latin": "Erythrina lysistemon",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Pohon ini mekar dengan cara yang dramatis. Di musim dingin, ia akan menggugurkan semua daunnya, lalu di awal musim semi, cabang-cabangnya yang telanjang akan dipenuhi oleh bunga-bunga berwarna merah menyala yang kaya akan nektar, mengundang kawanan burung untuk berpesta.",
+    "manfaat": "Menarik burung penyerbuk, bunga yang spektakuler.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 200000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 151,
+    "nama_tanaman": "African Milk Tree",
+    "nama_latin": "Euphorbia trigona",
+    "kategori": "Tanaman Sukulen",
+    "deskripsi": "Meskipun terlihat seperti kaktus, tanaman ini adalah sukulen dari genus Euphorbia. Pertumbuhannya yang tegak dengan 'lengan' dan daun-daun kecil membuatnya menjadi tanaman hias arsitektural yang menarik. Tumbuh dengan relatif cepat dan sangat mudah dirawat.",
+    "manfaat": "Tanaman hias indoor yang tumbuh cepat.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah kering.",
+      "cahaya": "Cahaya terang, bisa mentolerir sedikit matahari langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam kaktus (PERINGATAN: getah beracun)."
+    },
+    "asal": "Afrika Tengah",
+    "tinggi_maksimal": "2 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 130000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 152,
+    "nama_tanaman": "Papirus",
+    "nama_latin": "Cyperus papyrus",
+    "kategori": "Tanaman Air",
+    "deskripsi": "Tanaman air inilah yang menjadi dasar dari peradaban Mesir kuno. Batang-batangnya yang tebal diolah menjadi 'kertas' papirus, media tulis pertama di dunia. Mahkotanya yang menyerupai kembang api menjadikannya tanaman hias yang menarik untuk kolam atau area basah.",
+    "manfaat": "Tanaman hias kolam, nilai historis yang tinggi.",
+    "cara_perawatan": {
+      "penyiraman": "Akar harus selalu terendam air.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "22-30°C",
+      "media_tanam": "Tanah lumpur di tepi kolam."
+    },
+    "asal": "Afrika (lembah Sungai Nil)",
+    "tinggi_maksimal": "5 meter",
+    "tingkat_kesulitan": "Mudah (di lokasi basah)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 85000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 153,
+    "nama_tanaman": "Jarak Kepyar",
+    "nama_latin": "Ricinus communis",
+    "kategori": "Tanaman Industri & Beracun",
+    "deskripsi": "Tanaman ini tumbuh sangat cepat dengan daun besar berbentuk telapak tangan. Bijinya adalah sumber minyak jarak (castor oil) yang bermanfaat, namun biji mentahnya mengandung risin, salah satu racun alami paling mematikan di dunia. Sangat penting untuk tidak pernah menelan bijinya.",
+    "manfaat": "Sumber minyak jarak (castor oil) untuk industri dan obat.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Tumbuh di berbagai jenis tanah. (PERINGATAN: biji sangat beracun)."
+    },
+    "asal": "Afrika Timur Laut",
+    "tinggi_maksimal": "5 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 20000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 154,
+    "nama_tanaman": "Gaharu Afrika (Oud)",
+    "nama_latin": "Gyrinops ledermannii",
+    "kategori": "Pohon Aromatik",
+    "deskripsi": "Mirip dengan saudaranya dari Asia, pohon ini menghasilkan resin gaharu yang sangat harum saat terinfeksi. Resin inilah yang diolah menjadi oud, salah satu bahan baku parfum paling mahal. Pohon ini merupakan bagian dari ekosistem hutan hujan tropis Afrika.",
+    "manfaat": "Sumber resin oud (gaharu).",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan iklim hutan hujan.",
+      "cahaya": "Teduh.",
+      "suhu": "24-30°C",
+      "media_tanam": "Tanah hutan yang subur."
+    },
+    "asal": "Afrika Tengah (Kongo)",
+    "tinggi_maksimal": "20 meter",
+    "tingkat_kesulitan": "Sangat Sulit",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 155,
+    "nama_tanaman": "Elephant's Foot (Kaki Gajah)",
+    "nama_latin": "Dioscorea elephantipes",
+    "kategori": "Tanaman Kaudeks Unik",
+    "deskripsi": "Tanaman ini memiliki umbi (kaudeks) di atas tanah yang sangat besar dan retak-retak, benar-benar menyerupai kaki gajah atau cangkang kura-kura. Dari umbi inilah tumbuh batang merambat dengan daun berbentuk hati. Umbi ini adalah penyimpan energi dan air, memungkinkannya bertahan di iklim kering.",
+    "manfaat": "Tanaman koleksi kaudeks yang sangat unik.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat masa pertumbuhan aktif, hentikan total saat dorman.",
+      "cahaya": "Sinar matahari pagi.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam kaktus."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "1 meter (diameter umbi), 3 meter (merambat)",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 750000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 156,
+    "nama_tanaman": "Cape Primrose",
+    "nama_latin": "Streptocarpus",
+    "kategori": "Bunga Hias Indoor",
+    "deskripsi": "Berkerabat dengan African Violet, Cape Primrose memiliki bunga berbentuk terompet yang elegan dengan daun panjang bertekstur. Tanaman ini adalah pilihan yang sangat baik untuk lokasi indoor dengan cahaya terang namun tidak langsung, dan akan memberi Anda bunga yang melimpah.",
+    "manfaat": "Tanaman hias indoor dengan bunga yang indah.",
+    "cara_perawatan": {
+      "penyiraman": "Jaga tanah tetap lembap.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "18-24°C",
+      "media_tanam": "Media tanam ringan yang menahan kelembapan."
+    },
+    "asal": "Afrika Selatan, Madagaskar",
+    "tinggi_maksimal": "30 cm",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 157,
+    "nama_tanaman": "Starfish Flower",
+    "nama_latin": "Stapelia gigantea",
+    "kategori": "Tanaman Sukulen Unik",
+    "deskripsi": "Tanaman sukulen ini menghasilkan salah satu bunga paling luar biasa di dunia. Bunganya berukuran sangat besar, berbentuk bintang laut, berbulu, dengan corak seperti daging busuk. Ia juga mengeluarkan aroma daging busuk untuk menarik lalat sebagai penyerbuknya. Sebuah keajaiban alam yang aneh!",
+    "manfaat": "Tanaman koleksi unik bagi pecinta sukulen.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah kering.",
+      "cahaya": "Sinar matahari parsial.",
+      "suhu": "22-30°C",
+      "media_tanam": "Media tanam kaktus."
+    },
+    "asal": "Afrika Tenggara",
+    "tinggi_maksimal": "20 cm",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor / Pot",
+    "harga_perkiraan": 90000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 158,
+    "nama_tanaman": "Impatiens",
+    "nama_latin": "Impatiens walleriana",
+    "kategori": "Bunga Hias Teduh",
+    "deskripsi": "Dikenal sebagai 'Busy Lizzie', tanaman ini adalah solusi terbaik untuk memberikan warna cerah di sudut taman yang teduh. Bunga-bunganya yang pipih dan berwarna-warni mekar dengan sangat lebat, menutupi seluruh tanaman. Sangat membutuhkan air dan tidak tahan sinar matahari langsung.",
+    "manfaat": "Memberikan warna di area teduh.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat sering, tanah harus selalu lembap.",
+      "cahaya": "Teduh total atau parsial.",
+      "suhu": "18-25°C",
+      "media_tanam": "Tanah pot yang kaya bahan organik."
+    },
+    "asal": "Afrika Timur",
+    "tinggi_maksimal": "60 cm",
+    "tingkat_kesulitan": "Mudah (asalkan cukup air)",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 25000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 159,
+    "nama_tanaman": "Shea Tree",
+    "nama_latin": "Vitellaria paradoxa",
+    "kategori": "Pohon Industri",
+    "deskripsi": "Dari biji buah pohon inilah 'shea butter' yang sangat melembapkan diproduksi. Pohon ini tumbuh liar di sabana kering Afrika Barat. Proses pembuatan shea butter secara tradisional merupakan industri rumahan yang penting bagi para wanita di komunitas lokal.",
+    "manfaat": "Sumber shea butter untuk kosmetik dan pelembap kulit.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "28-36°C",
+      "media_tanam": "Tumbuh di tanah kering."
+    },
+    "asal": "Afrika Barat",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sulit (tanaman liar)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 160,
+    "nama_tanaman": "Henna",
+    "nama_latin": "Lawsonia inermis",
+    "kategori": "Tanaman Kosmetik",
+    "deskripsi": "Daun dari tanaman perdu ini, jika dikeringkan dan ditumbuk menjadi bubuk, akan menghasilkan pasta pewarna alami berwarna merah-coklat. Henna telah digunakan selama ribuan tahun di Afrika Utara, Timur Tengah, dan Asia Selatan untuk seni melukis tubuh temporer (mehndi) dan mewarnai rambut.",
+    "manfaat": "Pewarna alami untuk kulit (mehndi) dan rambut.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh dan panas.",
+      "suhu": "30-45°C",
+      "media_tanam": "Tanah kering berpasir."
+    },
+    "asal": "Afrika Utara, Timur Tengah, Asia Selatan",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Mudah (di iklim panas)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 40000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 161,
+    "nama_tanaman": "Bushman's Poison",
+    "nama_latin": "Acokanthera oppositifolia",
+    "kategori": "Tanaman Beracun",
+    "deskripsi": "Tanaman ini memiliki reputasi yang menakutkan. Semua bagiannya, terutama getahnya, mengandung glikosida jantung yang sangat beracun. Suku San (Bushman) secara tradisional mengoleskan getahnya pada ujung panah mereka untuk berburu. Meskipun begitu, ia memiliki bunga wangi dan buah yang tampak menarik (namun mematikan).",
+    "manfaat": "Racun panah tradisional.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh atau parsial.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah dengan drainase baik. (PERINGATAN: SANGAT BERACUN)."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "5 meter",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 162,
+    "nama_tanaman": "Namaqua Daisy",
+    "nama_latin": "Dimorphotheca sinuata",
+    "kategori": "Bunga Padang Pasir",
+    "deskripsi": "Setiap musim semi, daerah Namaqualand yang semi-gurun berubah menjadi karpet oranye yang menyilaukan berkat mekarnya bunga ini secara massal. Fenomena ini menarik wisatawan dari seluruh dunia. Bunga-bunga ini merespons hujan musim dingin dan hanya akan mekar di bawah sinar matahari penuh.",
+    "manfaat": "Daya tarik wisata alam musiman.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan musim dingin yang basah diikuti musim semi yang kering.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-28°C",
+      "media_tanam": "Tanah berpasir."
+    },
+    "asal": "Afrika Selatan, Namibia",
+    "tinggi_maksimal": "30 cm",
+    "tingkat_kesulitan": "Mudah (dari biji)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 30000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 163,
+    "nama_tanaman": "Pohon Terompet Afrika",
+    "nama_latin": "Spathodea campanulata",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Pohon ini menghasilkan gerombolan bunga besar berbentuk lonceng berwarna merah-oranye yang sangat mencolok. Kuncup bunganya yang lunak berisi air, dan anak-anak sering menggunakannya sebagai pistol air mainan. Sayangnya, pohon ini dianggap invasif di banyak daerah tropis di luar Afrika.",
+    "manfaat": "Pohon peneduh dengan bunga yang indah.",
+    "cara_perawatan": {
+      "penyiraman": "Tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-35°C",
+      "media_tanam": "Sangat adaptif, tumbuh cepat."
+    },
+    "asal": "Afrika Tropis",
+    "tinggi_maksimal": "25 meter",
+    "tingkat_kesulitan": "Sangat Mudah (invasif)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 60000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 164,
+    "nama_tanaman": "Quiver Tree (Pohon Koker)",
+    "nama_latin": "Aloidendron dichotomum",
+    "kategori": "Sukulen Ikonik",
+    "deskripsi": "Ini adalah sejenis aloe yang tumbuh menjadi pohon. Namanya berasal dari suku San yang melubangi cabang-cabangnya untuk dijadikan 'koker' atau tempat anak panah. Siluetnya yang bercabang-cabang di lanskap berbatu saat senja adalah salah satu pemandangan paling ikonik dari gurun di Afrika bagian selatan.",
+    "manfaat": "Tanaman arsitektural untuk taman gurun, ikon fotografi lanskap.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh dan panas.",
+      "suhu": "28-40°C",
+      "media_tanam": "Tanah berbatu dengan drainase sempurna."
+    },
+    "asal": "Afrika Selatan, Namibia",
+    "tinggi_maksimal": "9 meter",
+    "tingkat_kesulitan": "Sulit (tumbuh sangat lambat)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 900000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 165,
+    "nama_tanaman": "Ensete (Pisang Palsu)",
+    "nama_latin": "Ensete ventricosum",
+    "kategori": "Tanaman Pangan",
+    "deskripsi": "Mirip dengan pohon pisang, namun Ensete tidak menghasilkan buah yang bisa dimakan. Bagian yang dipanen adalah pangkal batang dan umbinya yang kaya akan pati. Tanaman ini adalah sumber makanan pokok yang sangat penting bagi jutaan orang di Ethiopia, menjadi jaring pengaman pangan di saat sereal lain gagal panen.",
+    "manfaat": "Sumber pangan pokok (pati) di Ethiopia.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan air yang cukup.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-30°C",
+      "media_tanam": "Tanah yang subur."
+    },
+    "asal": "Ethiopia",
+    "tinggi_maksimal": "6 meter",
+    "tingkat_kesulitan": "Sedang",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 150000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 166,
+    "nama_tanaman": "Tamarisk",
+    "nama_latin": "Tamarix",
+    "kategori": "Tanaman Gurun",
+    "deskripsi": "Tamarisk adalah semak atau pohon kecil yang sangat tangguh, mampu bertahan di tanah asin dan kering di sekitar gurun Sahara. Daunnya yang kecil seperti sisik dan bunganya yang merah muda lembut memberikan sentuhan warna di lanskap yang keras. Tanaman ini sangat efisien dalam mencari air.",
+    "manfaat": "Penahan angin, stabilisasi bukit pasir.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan dan salinitas.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-45°C",
+      "media_tanam": "Tanah berpasir dan asin."
+    },
+    "asal": "Afrika Utara, Timur Tengah",
+    "tinggi_maksimal": "10 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 90000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 167,
+    "nama_tanaman": "Witch-hazel",
+    "nama_latin": "Trichocladus crinitus",
+    "kategori": "Pohon Herbal",
+    "deskripsi": "Witch-hazel versi Afrika ini adalah pohon hutan yang daun dan kulitnya kaya akan tanin. Secara tradisional, rebusannya digunakan oleh masyarakat lokal sebagai obat untuk berbagai masalah kulit, peradangan, dan untuk menghentikan pendarahan.",
+    "manfaat": "Obat herbal tradisional untuk kulit.",
+    "cara_perawatan": {
+      "penyiraman": "Membutuhkan tanah hutan yang lembap.",
+      "cahaya": "Teduh di bawah kanopi hutan.",
+      "suhu": "18-26°C",
+      "media_tanam": "Tanah humus yang subur."
+    },
+    "asal": "Hutan Afromontane Afrika Selatan",
+    "tinggi_maksimal": "15 meter",
+    "tingkat_kesulitan": "Sulit",
+    "kategori_cahaya": "Teduh",
+    "harga_perkiraan": 0,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 168,
+    "nama_tanaman": "Pohon Gajah (Spekboom)",
+    "nama_latin": "Portulacaria afra",
+    "kategori": "Tanaman Sukulen",
+    "deskripsi": "Spekboom adalah tanaman 'ajaib' untuk restorasi karbon. Tanaman sukulen ini mampu menyerap karbon dioksida dari atmosfer secara sangat efisien. Daunnya yang kecil dan tebal dapat dimakan (rasanya asam) dan merupakan makanan favorit bagi gajah dan kura-kura.",
+    "manfaat": "Sangat efisien dalam menyerap karbon, makanan satwa liar, tahan api.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "20-35°C",
+      "media_tanam": "Tanah dengan drainase baik."
+    },
+    "asal": "Afrika Selatan",
+    "tinggi_maksimal": "4 meter",
+    "tingkat_kesulitan": "Sangat Mudah",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 100000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 169,
+    "nama_tanaman": "Rosary Vine (String of Hearts)",
+    "nama_latin": "Ceropegia woodii",
+    "kategori": "Tanaman Hias Gantung",
+    "deskripsi": "'Untaian Hati' adalah tanaman gantung yang sangat digemari karena keindahannya yang halus. Daunnya yang kecil berbentuk hati dengan corak perak menjuntai pada batang tipis seperti benang. Sangat mudah dirawat dan akan menghasilkan umbi kecil di batangnya yang bisa ditanam kembali.",
+    "manfaat": "Tanaman gantung indoor yang sangat populer.",
+    "cara_perawatan": {
+      "penyiraman": "Siram saat tanah kering, jangan berlebihan.",
+      "cahaya": "Cahaya terang tidak langsung.",
+      "suhu": "20-28°C",
+      "media_tanam": "Media tanam kaktus."
+    },
+    "asal": "Afrika Selatan, Zimbabwe",
+    "tinggi_maksimal": "2 meter (menjuntai)",
+    "tingkat_kesulitan": "Mudah",
+    "kategori_cahaya": "Indoor",
+    "harga_perkiraan": 85000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  },
+  {
+    "id": 170,
+    "nama_tanaman": "Pohon Karoo Boer-bean",
+    "nama_latin": "Schotia afra",
+    "kategori": "Pohon Bunga",
+    "deskripsi": "Pohon kecil yang tangguh ini beradaptasi dengan iklim semi-gurun Karoo. Bunganya yang berwarna merah cerah dan kaya nektar muncul langsung dari cabang-cabang tua. Nektarnya begitu melimpah sehingga sering menetes, menarik banyak burung dan serangga. Bijinya dapat dimakan setelah dipanggang.",
+    "manfaat": "Menarik burung, tahan kekeringan, bijinya bisa dimakan.",
+    "cara_perawatan": {
+      "penyiraman": "Sangat tahan kekeringan.",
+      "cahaya": "Sinar matahari penuh.",
+      "suhu": "25-38°C",
+      "media_tanam": "Tanah berbatu dengan drainase baik."
+    },
+    "asal": "Afrika Selatan (Karoo)",
+    "tinggi_maksimal": "5 meter",
+    "tingkat_kesulitan": "Mudah (di iklim panas-kering)",
+    "kategori_cahaya": "Outdoor",
+    "harga_perkiraan": 220000,
+    "gambar_url": "https://images.unsplash.com/photo-1520763185298-1b434c919eba?w=600&q=80"
+  }
+]
