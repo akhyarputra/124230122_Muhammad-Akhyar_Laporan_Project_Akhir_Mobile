@@ -1,0 +1,67 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Izin untuk menampilkan notifikasi di Android 13 (API 33) dan yang lebih baru. -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    
+    <!-- Izin wajib untuk semua komunikasi jaringan: API login, currency, timezone, dan tile peta OSM. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Izin untuk fitur berbasis lokasi (LBS): peta toko tanaman terdekat. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    
+    <!-- Izin "deklarasi niat" untuk berinteraksi dengan aplikasi Jam native. -->
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    
+    <!-- Izin tambahan untuk penjadwalan alarm presisi tinggi (diperlukan sejak Android 12). -->
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+    <!-- Izin untuk mengakses kamera (diperlukan jika aplikasi menggunakan kamera internal). -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+
+    <application
+        android:label="plantify_app"
+        android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher"
+        android:usesCleartextTraffic="true">
+        
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@style/LaunchTheme"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+            android:hardwareAccelerated="true"
+            android:windowSoftInputMode="adjustResize">
+            
+            <meta-data
+              android:name="io.flutter.embedding.android.NormalTheme"
+              android:resource="@style/NormalTheme"
+              />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
+    </application>
+
+    <queries>
+     <package android:name="com.google.android.apps.maps" />
+      <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="https" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="http" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.PROCESS_TEXT"/>
+            <data android:mimeType="text/plain"/>
+        </intent>
+    </queries>
+</manifest>
